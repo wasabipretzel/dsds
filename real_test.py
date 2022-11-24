@@ -5,15 +5,20 @@ from torch.utils.data import DataLoader, TensorDataset
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import StandardScaler
 import json
+import os
+import logging
+
+PATH = os.getcwd()
 
 
-with open('/data/preprocessed/3_month_retail.json', 'r') as f:
+with open(PATH + '/data/preprocessed/3_month_retail.json', 'r') as f:
     data = json.load(f)
 
-with open('/data/preprocessed/cluster_store.json','r') as f:
+with open(PATH + '/data/preprocessed/cluster_store.json','r') as f:
     cluster = json.load(f)
-with open('/data/preprocessed/cluster_key_store_num.json', 'r') as f:
+with open(PATH + '/data/preprocessed/cluster_key_store_num.json', 'r') as f:
     cluster_key_store = json.load(f)
 
 
@@ -30,7 +35,7 @@ class DSModel0(nn.Module):
     def __init__(self):
         super(DSModel0, self).__init__()
         
-        self.ln = nn.LayerNorm(7848)
+        #self.ln = nn.LayerNorm(7848)
         self.conv_1 = nn.Conv2d(1, 1, kernel_size=(4,4))
 
         self.fc1 = nn.Linear(324, 64)
@@ -38,8 +43,8 @@ class DSModel0(nn.Module):
         self.fc3 = nn.Linear(8,1)
     
     def forward(self, x):
-        x = x.reshape(1, 1, 7848)
-        x = self.ln(x)
+        #x = x.reshape(1, 1, 7848)
+        #x = self.ln(x)
         x = x.reshape(1, 1, 18, 436)
         x = F.relu(self.conv_1(x))
         x = F.max_pool2d(x, (4, 4))
@@ -54,15 +59,15 @@ class DSModel1(nn.Module):
     def __init__(self):
         super(DSModel1, self).__init__()
         
-        self.ln = nn.LayerNorm(1098)
+        #self.ln = nn.LayerNorm(1098)
         self.conv_1 = nn.Conv2d(1, 1, kernel_size=(4,4))
 
         self.fc1 = nn.Linear(42, 8)
         self.fc2 = nn.Linear(8,1)
     
     def forward(self, x):
-        x = x.reshape(1, 1, 1098)
-        x = self.ln(x)
+        #x = x.reshape(1, 1, 1098)
+        #x = self.ln(x)
         x = x.reshape(1, 1, 18, 61)
         x = F.relu(self.conv_1(x))
         x = F.max_pool2d(x, (4, 4))
@@ -76,7 +81,7 @@ class DSModel2(nn.Module):
     def __init__(self):
         super(DSModel2, self).__init__()
         
-        self.ln = nn.LayerNorm(2610)
+        #self.ln = nn.LayerNorm(2610)
         self.conv_1 = nn.Conv2d(1, 1, kernel_size=(4,4))
 
         self.fc1 = nn.Linear(105, 32)
@@ -84,12 +89,12 @@ class DSModel2(nn.Module):
         self.fc3 = nn.Linear(8,1)
     
     def forward(self, x):
-        x = x.reshape(1,1, 2610)
-        x = self.ln(x)
+        #x = x.reshape(1,1, 2610)
+        #x = self.ln(x)
         x = x.reshape(1, 1, 18, 145)
         x = F.relu(self.conv_1(x))
         x = F.max_pool2d(x, (4, 4))
-        x = x.reshape(1,32)
+        x = x.reshape(1,105)
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         x = F.relu(self.fc3(x))
@@ -98,7 +103,9 @@ class DSModel2(nn.Module):
 
 
 if __name__ == '__main__':
-    store_list = [*range(1,3)]
+    logging.basicConfig(filename='logging_list.txt', level=logging.DEBUG, format=' % (asctime)s - %(levelname)s - %(message)s')
+
+    store_list = [*range(1,643)]
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     result_tensor = torch.tensor([]).to(device)
 
@@ -110,15 +117,24 @@ if __name__ == '__main__':
         # X_test = X[27:]
         X_train, X_test = cluster_dataset(cluster_num)
         # X_train, X_test size : (28, ~)
-        X_train = X_train.to(device)
-        X_test = X_test.to(device)
+
+        # scaling X
+        scaler = StandardScaler()
+        X_train = torch.tensor(scaler.fit_transform(X_train))
+        X_test = torch.tensor(scaler.transform(X_test.view(1,-1))).flatten()
+
+        X_train = X_train.to(device, dtype=torch.float)
+        X_test = X_test.to(device, dtype=torch.float)
         #product
         loss_ = {}
         for item in data[str(store_id)].keys():
-            print("store : ", store_id, "item : " , item)
             y = torch.tensor(data[str(store_id)][item][1:]).float()
             y_train = y 
-            y_train = y_train.to(device)
+
+            scaler2 = StandardScaler()
+            y_train = torch.tensor(scaler2.fit_transform(pd.DataFrame(y_train)).flatten())
+
+            y_train = y_train.to(device, dtype=torch.float)
             dataset_train = TensorDataset(X_train, y_train)
             train_dataloader = DataLoader(dataset_train, batch_size=1, shuffle=False)
 
@@ -149,12 +165,20 @@ if __name__ == '__main__':
 
             #item inference
             with torch.no_grad():
+                model.eval()
                 y_pred = model(X_test)
+
+                # output 역으로 바꿔줘야함
+                y_pred = torch.tensor(scaler2.inverse_transform(y_pred.detach().cpu().numpy()))
+                y_pred = y_pred.to(device, dtype=torch.float)
+                #[rint("store : ", store_id, " item : ", item ," Pred : ", y_pred)
             result_tensor = torch.cat((result_tensor, y_pred),0)
     
 
     result_tensor_df = pd.DataFrame(result_tensor.detach().cpu().numpy())
-    result_tensor_df = result_tensor_df.round(0).astype(int)
+    #result_tensor_df = result_tensor_df.round(0).astype(int)
 
-    result_tensor_df.to_csv('first_draft2.csv')
+    result_tensor_df.to_csv('draft_1124.csv')
+
+    logging.debug('End of Program')
         
