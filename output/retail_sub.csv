@@ -1,0 +1,11557 @@
+Store,Item,Allocation
+1,Bracket,0
+1,Brush,0
+1,Cereal,0
+1,Ear Buds,0
+1,Eggs,0
+1,Glue,0
+1,Keyboard,0
+1,King Crab,0
+1,Milk,0
+1,Mouse,0
+1,Nails,0
+1,Noodles,0
+1,Paint,0
+1,Phone Charger,0
+1,Power Cord,0
+1,Shrimp,0
+1,Steak,0
+1,Tape,0
+2,Bracket,0
+2,Brush,0
+2,Cereal,0
+2,Ear Buds,0
+2,Eggs,0
+2,Glue,0
+2,Keyboard,0
+2,King Crab,0
+2,Milk,0
+2,Mouse,0
+2,Nails,0
+2,Noodles,0
+2,Paint,0
+2,Phone Charger,0
+2,Power Cord,0
+2,Shrimp,1
+2,Steak,0
+2,Tape,0
+3,Bracket,0
+3,Brush,0
+3,Cereal,0
+3,Ear Buds,0
+3,Eggs,0
+3,Glue,0
+3,Keyboard,0
+3,King Crab,0
+3,Milk,0
+3,Mouse,0
+3,Nails,0
+3,Noodles,0
+3,Paint,0
+3,Phone Charger,0
+3,Power Cord,1
+3,Shrimp,2
+3,Steak,0
+3,Tape,0
+4,Bracket,0
+4,Brush,0
+4,Cereal,0
+4,Ear Buds,0
+4,Eggs,0
+4,Glue,0
+4,Keyboard,0
+4,King Crab,0
+4,Milk,0
+4,Mouse,0
+4,Nails,0
+4,Noodles,1
+4,Paint,0
+4,Phone Charger,0
+4,Power Cord,0
+4,Shrimp,0
+4,Steak,0
+4,Tape,0
+5,Bracket,0
+5,Brush,0
+5,Cereal,0
+5,Ear Buds,0
+5,Eggs,0
+5,Glue,0
+5,Keyboard,1
+5,King Crab,0
+5,Milk,0
+5,Mouse,0
+5,Nails,0
+5,Noodles,0
+5,Paint,0
+5,Phone Charger,0
+5,Power Cord,0
+5,Shrimp,1
+5,Steak,3
+5,Tape,0
+6,Bracket,0
+6,Brush,0
+6,Cereal,0
+6,Ear Buds,0
+6,Eggs,0
+6,Glue,0
+6,Keyboard,0
+6,King Crab,0
+6,Milk,0
+6,Mouse,0
+6,Nails,0
+6,Noodles,1
+6,Paint,0
+6,Phone Charger,0
+6,Power Cord,0
+6,Shrimp,0
+6,Steak,0
+6,Tape,0
+7,Bracket,0
+7,Brush,0
+7,Cereal,0
+7,Ear Buds,0
+7,Eggs,0
+7,Glue,0
+7,Keyboard,1
+7,King Crab,0
+7,Milk,0
+7,Mouse,0
+7,Nails,0
+7,Noodles,1
+7,Paint,0
+7,Phone Charger,0
+7,Power Cord,0
+7,Shrimp,0
+7,Steak,1
+7,Tape,0
+8,Bracket,0
+8,Brush,0
+8,Cereal,0
+8,Ear Buds,0
+8,Eggs,0
+8,Glue,0
+8,Keyboard,0
+8,King Crab,0
+8,Milk,0
+8,Mouse,0
+8,Nails,0
+8,Noodles,0
+8,Paint,0
+8,Phone Charger,0
+8,Power Cord,0
+8,Shrimp,0
+8,Steak,0
+8,Tape,0
+9,Bracket,0
+9,Brush,0
+9,Cereal,0
+9,Ear Buds,0
+9,Eggs,0
+9,Glue,0
+9,Keyboard,0
+9,King Crab,0
+9,Milk,0
+9,Mouse,0
+9,Nails,0
+9,Noodles,0
+9,Paint,0
+9,Phone Charger,0
+9,Power Cord,0
+9,Shrimp,0
+9,Steak,0
+9,Tape,0
+10,Bracket,0
+10,Brush,0
+10,Cereal,0
+10,Ear Buds,0
+10,Eggs,0
+10,Glue,0
+10,Keyboard,0
+10,King Crab,0
+10,Milk,0
+10,Mouse,0
+10,Nails,0
+10,Noodles,0
+10,Paint,0
+10,Phone Charger,0
+10,Power Cord,0
+10,Shrimp,0
+10,Steak,0
+10,Tape,0
+11,Bracket,0
+11,Brush,0
+11,Cereal,0
+11,Ear Buds,0
+11,Eggs,0
+11,Glue,0
+11,Keyboard,0
+11,King Crab,0
+11,Milk,0
+11,Mouse,0
+11,Nails,0
+11,Noodles,0
+11,Paint,0
+11,Phone Charger,0
+11,Power Cord,0
+11,Shrimp,0
+11,Steak,0
+11,Tape,0
+12,Bracket,0
+12,Brush,0
+12,Cereal,0
+12,Ear Buds,0
+12,Eggs,0
+12,Glue,0
+12,Keyboard,1
+12,King Crab,0
+12,Milk,0
+12,Mouse,0
+12,Nails,0
+12,Noodles,2
+12,Paint,0
+12,Phone Charger,2
+12,Power Cord,0
+12,Shrimp,2
+12,Steak,1
+12,Tape,0
+13,Bracket,0
+13,Brush,0
+13,Cereal,0
+13,Ear Buds,0
+13,Eggs,0
+13,Glue,0
+13,Keyboard,0
+13,King Crab,0
+13,Milk,0
+13,Mouse,0
+13,Nails,0
+13,Noodles,0
+13,Paint,0
+13,Phone Charger,0
+13,Power Cord,0
+13,Shrimp,0
+13,Steak,0
+13,Tape,0
+14,Bracket,0
+14,Brush,0
+14,Cereal,0
+14,Ear Buds,0
+14,Eggs,0
+14,Glue,0
+14,Keyboard,1
+14,King Crab,0
+14,Milk,0
+14,Mouse,1
+14,Nails,0
+14,Noodles,0
+14,Paint,0
+14,Phone Charger,0
+14,Power Cord,0
+14,Shrimp,1
+14,Steak,1
+14,Tape,0
+15,Bracket,0
+15,Brush,0
+15,Cereal,0
+15,Ear Buds,0
+15,Eggs,0
+15,Glue,0
+15,Keyboard,0
+15,King Crab,0
+15,Milk,0
+15,Mouse,0
+15,Nails,0
+15,Noodles,0
+15,Paint,0
+15,Phone Charger,1
+15,Power Cord,0
+15,Shrimp,1
+15,Steak,0
+15,Tape,0
+16,Bracket,0
+16,Brush,0
+16,Cereal,0
+16,Ear Buds,0
+16,Eggs,0
+16,Glue,0
+16,Keyboard,0
+16,King Crab,0
+16,Milk,0
+16,Mouse,0
+16,Nails,0
+16,Noodles,0
+16,Paint,0
+16,Phone Charger,0
+16,Power Cord,0
+16,Shrimp,0
+16,Steak,0
+16,Tape,0
+17,Bracket,0
+17,Brush,0
+17,Cereal,0
+17,Ear Buds,0
+17,Eggs,0
+17,Glue,0
+17,Keyboard,0
+17,King Crab,0
+17,Milk,0
+17,Mouse,0
+17,Nails,0
+17,Noodles,0
+17,Paint,0
+17,Phone Charger,0
+17,Power Cord,0
+17,Shrimp,0
+17,Steak,0
+17,Tape,0
+18,Bracket,0
+18,Brush,0
+18,Cereal,0
+18,Ear Buds,0
+18,Eggs,0
+18,Glue,0
+18,Keyboard,0
+18,King Crab,1
+18,Milk,0
+18,Mouse,0
+18,Nails,0
+18,Noodles,0
+18,Paint,0
+18,Phone Charger,0
+18,Power Cord,0
+18,Shrimp,1
+18,Steak,0
+18,Tape,0
+19,Bracket,0
+19,Brush,0
+19,Cereal,0
+19,Ear Buds,0
+19,Eggs,0
+19,Glue,0
+19,Keyboard,0
+19,King Crab,0
+19,Milk,0
+19,Mouse,0
+19,Nails,0
+19,Noodles,1
+19,Paint,0
+19,Phone Charger,0
+19,Power Cord,0
+19,Shrimp,0
+19,Steak,0
+19,Tape,0
+20,Bracket,0
+20,Brush,0
+20,Cereal,0
+20,Ear Buds,0
+20,Eggs,0
+20,Glue,1
+20,Keyboard,0
+20,King Crab,0
+20,Milk,0
+20,Mouse,0
+20,Nails,0
+20,Noodles,0
+20,Paint,0
+20,Phone Charger,0
+20,Power Cord,0
+20,Shrimp,0
+20,Steak,0
+20,Tape,0
+21,Bracket,0
+21,Brush,0
+21,Cereal,0
+21,Ear Buds,0
+21,Eggs,0
+21,Glue,0
+21,Keyboard,0
+21,King Crab,0
+21,Milk,0
+21,Mouse,0
+21,Nails,0
+21,Noodles,0
+21,Paint,0
+21,Phone Charger,0
+21,Power Cord,0
+21,Shrimp,0
+21,Steak,0
+21,Tape,0
+22,Bracket,0
+22,Brush,0
+22,Cereal,0
+22,Ear Buds,3
+22,Eggs,0
+22,Glue,0
+22,Keyboard,0
+22,King Crab,0
+22,Milk,0
+22,Mouse,0
+22,Nails,0
+22,Noodles,1
+22,Paint,0
+22,Phone Charger,0
+22,Power Cord,0
+22,Shrimp,0
+22,Steak,1
+22,Tape,0
+23,Bracket,0
+23,Brush,0
+23,Cereal,0
+23,Ear Buds,0
+23,Eggs,0
+23,Glue,0
+23,Keyboard,0
+23,King Crab,0
+23,Milk,0
+23,Mouse,0
+23,Nails,0
+23,Noodles,0
+23,Paint,0
+23,Phone Charger,0
+23,Power Cord,0
+23,Shrimp,0
+23,Steak,0
+23,Tape,0
+24,Bracket,0
+24,Brush,0
+24,Cereal,0
+24,Ear Buds,1
+24,Eggs,0
+24,Glue,0
+24,Keyboard,0
+24,King Crab,0
+24,Milk,0
+24,Mouse,0
+24,Nails,0
+24,Noodles,0
+24,Paint,0
+24,Phone Charger,0
+24,Power Cord,0
+24,Shrimp,0
+24,Steak,0
+24,Tape,0
+25,Bracket,0
+25,Brush,0
+25,Cereal,0
+25,Ear Buds,0
+25,Eggs,0
+25,Glue,0
+25,Keyboard,0
+25,King Crab,0
+25,Milk,0
+25,Mouse,0
+25,Nails,0
+25,Noodles,0
+25,Paint,0
+25,Phone Charger,0
+25,Power Cord,0
+25,Shrimp,0
+25,Steak,0
+25,Tape,0
+26,Bracket,0
+26,Brush,0
+26,Cereal,0
+26,Ear Buds,0
+26,Eggs,0
+26,Glue,0
+26,Keyboard,0
+26,King Crab,0
+26,Milk,0
+26,Mouse,0
+26,Nails,0
+26,Noodles,1
+26,Paint,0
+26,Phone Charger,0
+26,Power Cord,0
+26,Shrimp,1
+26,Steak,0
+26,Tape,0
+27,Bracket,0
+27,Brush,0
+27,Cereal,0
+27,Ear Buds,0
+27,Eggs,0
+27,Glue,1
+27,Keyboard,1
+27,King Crab,0
+27,Milk,0
+27,Mouse,0
+27,Nails,0
+27,Noodles,0
+27,Paint,1
+27,Phone Charger,0
+27,Power Cord,0
+27,Shrimp,0
+27,Steak,0
+27,Tape,0
+28,Bracket,0
+28,Brush,0
+28,Cereal,0
+28,Ear Buds,0
+28,Eggs,0
+28,Glue,0
+28,Keyboard,0
+28,King Crab,0
+28,Milk,0
+28,Mouse,0
+28,Nails,0
+28,Noodles,0
+28,Paint,0
+28,Phone Charger,0
+28,Power Cord,0
+28,Shrimp,0
+28,Steak,0
+28,Tape,0
+29,Bracket,0
+29,Brush,0
+29,Cereal,0
+29,Ear Buds,0
+29,Eggs,0
+29,Glue,0
+29,Keyboard,0
+29,King Crab,0
+29,Milk,0
+29,Mouse,0
+29,Nails,0
+29,Noodles,0
+29,Paint,0
+29,Phone Charger,1
+29,Power Cord,0
+29,Shrimp,0
+29,Steak,0
+29,Tape,0
+30,Bracket,0
+30,Brush,0
+30,Cereal,0
+30,Ear Buds,0
+30,Eggs,0
+30,Glue,0
+30,Keyboard,8
+30,King Crab,0
+30,Milk,0
+30,Mouse,0
+30,Nails,0
+30,Noodles,0
+30,Paint,0
+30,Phone Charger,0
+30,Power Cord,0
+30,Shrimp,0
+30,Steak,1
+30,Tape,0
+31,Bracket,0
+31,Brush,0
+31,Cereal,0
+31,Ear Buds,0
+31,Eggs,0
+31,Glue,0
+31,Keyboard,1
+31,King Crab,0
+31,Milk,0
+31,Mouse,0
+31,Nails,0
+31,Noodles,0
+31,Paint,0
+31,Phone Charger,0
+31,Power Cord,0
+31,Shrimp,1
+31,Steak,1
+31,Tape,0
+32,Bracket,0
+32,Brush,0
+32,Cereal,0
+32,Ear Buds,0
+32,Eggs,0
+32,Glue,0
+32,Keyboard,0
+32,King Crab,0
+32,Milk,0
+32,Mouse,1
+32,Nails,0
+32,Noodles,1
+32,Paint,0
+32,Phone Charger,0
+32,Power Cord,0
+32,Shrimp,0
+32,Steak,0
+32,Tape,0
+33,Bracket,0
+33,Brush,0
+33,Cereal,0
+33,Ear Buds,0
+33,Eggs,0
+33,Glue,0
+33,Keyboard,0
+33,King Crab,0
+33,Milk,0
+33,Mouse,0
+33,Nails,0
+33,Noodles,0
+33,Paint,0
+33,Phone Charger,0
+33,Power Cord,0
+33,Shrimp,0
+33,Steak,1
+33,Tape,0
+34,Bracket,0
+34,Brush,0
+34,Cereal,0
+34,Ear Buds,0
+34,Eggs,0
+34,Glue,0
+34,Keyboard,1
+34,King Crab,0
+34,Milk,0
+34,Mouse,0
+34,Nails,0
+34,Noodles,0
+34,Paint,0
+34,Phone Charger,2
+34,Power Cord,0
+34,Shrimp,0
+34,Steak,0
+34,Tape,0
+35,Bracket,0
+35,Brush,1
+35,Cereal,0
+35,Ear Buds,0
+35,Eggs,0
+35,Glue,0
+35,Keyboard,0
+35,King Crab,0
+35,Milk,0
+35,Mouse,6
+35,Nails,0
+35,Noodles,0
+35,Paint,0
+35,Phone Charger,0
+35,Power Cord,0
+35,Shrimp,0
+35,Steak,2
+35,Tape,0
+36,Bracket,0
+36,Brush,0
+36,Cereal,0
+36,Ear Buds,0
+36,Eggs,0
+36,Glue,0
+36,Keyboard,0
+36,King Crab,0
+36,Milk,0
+36,Mouse,0
+36,Nails,0
+36,Noodles,0
+36,Paint,0
+36,Phone Charger,0
+36,Power Cord,0
+36,Shrimp,0
+36,Steak,1
+36,Tape,0
+37,Bracket,0
+37,Brush,0
+37,Cereal,0
+37,Ear Buds,0
+37,Eggs,0
+37,Glue,0
+37,Keyboard,0
+37,King Crab,0
+37,Milk,0
+37,Mouse,0
+37,Nails,0
+37,Noodles,0
+37,Paint,0
+37,Phone Charger,0
+37,Power Cord,0
+37,Shrimp,0
+37,Steak,1
+37,Tape,0
+38,Bracket,0
+38,Brush,0
+38,Cereal,0
+38,Ear Buds,0
+38,Eggs,0
+38,Glue,0
+38,Keyboard,0
+38,King Crab,0
+38,Milk,0
+38,Mouse,0
+38,Nails,0
+38,Noodles,1
+38,Paint,0
+38,Phone Charger,0
+38,Power Cord,0
+38,Shrimp,0
+38,Steak,0
+38,Tape,0
+39,Bracket,0
+39,Brush,0
+39,Cereal,0
+39,Ear Buds,0
+39,Eggs,0
+39,Glue,0
+39,Keyboard,1
+39,King Crab,0
+39,Milk,0
+39,Mouse,0
+39,Nails,0
+39,Noodles,0
+39,Paint,0
+39,Phone Charger,0
+39,Power Cord,0
+39,Shrimp,0
+39,Steak,0
+39,Tape,0
+40,Bracket,0
+40,Brush,0
+40,Cereal,0
+40,Ear Buds,1
+40,Eggs,0
+40,Glue,0
+40,Keyboard,0
+40,King Crab,0
+40,Milk,0
+40,Mouse,0
+40,Nails,0
+40,Noodles,0
+40,Paint,0
+40,Phone Charger,0
+40,Power Cord,0
+40,Shrimp,0
+40,Steak,0
+40,Tape,0
+41,Bracket,0
+41,Brush,0
+41,Cereal,0
+41,Ear Buds,0
+41,Eggs,0
+41,Glue,0
+41,Keyboard,0
+41,King Crab,0
+41,Milk,0
+41,Mouse,0
+41,Nails,0
+41,Noodles,0
+41,Paint,0
+41,Phone Charger,0
+41,Power Cord,0
+41,Shrimp,0
+41,Steak,0
+41,Tape,0
+42,Bracket,0
+42,Brush,0
+42,Cereal,0
+42,Ear Buds,0
+42,Eggs,0
+42,Glue,0
+42,Keyboard,1
+42,King Crab,0
+42,Milk,0
+42,Mouse,0
+42,Nails,0
+42,Noodles,0
+42,Paint,0
+42,Phone Charger,0
+42,Power Cord,0
+42,Shrimp,0
+42,Steak,0
+42,Tape,0
+43,Bracket,0
+43,Brush,0
+43,Cereal,0
+43,Ear Buds,1
+43,Eggs,0
+43,Glue,0
+43,Keyboard,0
+43,King Crab,0
+43,Milk,0
+43,Mouse,0
+43,Nails,0
+43,Noodles,0
+43,Paint,0
+43,Phone Charger,0
+43,Power Cord,0
+43,Shrimp,0
+43,Steak,0
+43,Tape,0
+44,Bracket,0
+44,Brush,0
+44,Cereal,0
+44,Ear Buds,1
+44,Eggs,0
+44,Glue,0
+44,Keyboard,0
+44,King Crab,0
+44,Milk,0
+44,Mouse,1
+44,Nails,0
+44,Noodles,0
+44,Paint,0
+44,Phone Charger,1
+44,Power Cord,0
+44,Shrimp,2
+44,Steak,0
+44,Tape,0
+45,Bracket,0
+45,Brush,0
+45,Cereal,0
+45,Ear Buds,2
+45,Eggs,0
+45,Glue,0
+45,Keyboard,1
+45,King Crab,0
+45,Milk,0
+45,Mouse,0
+45,Nails,0
+45,Noodles,1
+45,Paint,0
+45,Phone Charger,1
+45,Power Cord,1
+45,Shrimp,1
+45,Steak,0
+45,Tape,0
+46,Bracket,0
+46,Brush,0
+46,Cereal,0
+46,Ear Buds,0
+46,Eggs,0
+46,Glue,0
+46,Keyboard,0
+46,King Crab,0
+46,Milk,0
+46,Mouse,1
+46,Nails,0
+46,Noodles,0
+46,Paint,0
+46,Phone Charger,0
+46,Power Cord,0
+46,Shrimp,0
+46,Steak,0
+46,Tape,0
+47,Bracket,0
+47,Brush,0
+47,Cereal,0
+47,Ear Buds,0
+47,Eggs,0
+47,Glue,0
+47,Keyboard,0
+47,King Crab,0
+47,Milk,0
+47,Mouse,0
+47,Nails,0
+47,Noodles,0
+47,Paint,0
+47,Phone Charger,1
+47,Power Cord,0
+47,Shrimp,0
+47,Steak,0
+47,Tape,0
+48,Bracket,0
+48,Brush,0
+48,Cereal,0
+48,Ear Buds,0
+48,Eggs,0
+48,Glue,0
+48,Keyboard,0
+48,King Crab,0
+48,Milk,0
+48,Mouse,0
+48,Nails,0
+48,Noodles,0
+48,Paint,0
+48,Phone Charger,0
+48,Power Cord,0
+48,Shrimp,0
+48,Steak,0
+48,Tape,0
+49,Bracket,0
+49,Brush,0
+49,Cereal,0
+49,Ear Buds,3
+49,Eggs,0
+49,Glue,0
+49,Keyboard,2
+49,King Crab,0
+49,Milk,0
+49,Mouse,0
+49,Nails,0
+49,Noodles,0
+49,Paint,0
+49,Phone Charger,3
+49,Power Cord,0
+49,Shrimp,0
+49,Steak,1
+49,Tape,0
+50,Bracket,0
+50,Brush,0
+50,Cereal,0
+50,Ear Buds,0
+50,Eggs,0
+50,Glue,0
+50,Keyboard,0
+50,King Crab,0
+50,Milk,0
+50,Mouse,0
+50,Nails,0
+50,Noodles,0
+50,Paint,0
+50,Phone Charger,0
+50,Power Cord,0
+50,Shrimp,0
+50,Steak,0
+50,Tape,0
+51,Bracket,0
+51,Brush,0
+51,Cereal,0
+51,Ear Buds,0
+51,Eggs,0
+51,Glue,0
+51,Keyboard,1
+51,King Crab,0
+51,Milk,0
+51,Mouse,0
+51,Nails,0
+51,Noodles,0
+51,Paint,0
+51,Phone Charger,1
+51,Power Cord,0
+51,Shrimp,0
+51,Steak,0
+51,Tape,0
+52,Bracket,0
+52,Brush,0
+52,Cereal,0
+52,Ear Buds,0
+52,Eggs,0
+52,Glue,0
+52,Keyboard,0
+52,King Crab,0
+52,Milk,0
+52,Mouse,0
+52,Nails,0
+52,Noodles,0
+52,Paint,0
+52,Phone Charger,0
+52,Power Cord,0
+52,Shrimp,0
+52,Steak,2
+52,Tape,0
+53,Bracket,0
+53,Brush,0
+53,Cereal,0
+53,Ear Buds,2
+53,Eggs,0
+53,Glue,0
+53,Keyboard,2
+53,King Crab,0
+53,Milk,0
+53,Mouse,1
+53,Nails,0
+53,Noodles,0
+53,Paint,0
+53,Phone Charger,0
+53,Power Cord,0
+53,Shrimp,1
+53,Steak,0
+53,Tape,0
+54,Bracket,0
+54,Brush,0
+54,Cereal,0
+54,Ear Buds,0
+54,Eggs,0
+54,Glue,0
+54,Keyboard,0
+54,King Crab,0
+54,Milk,0
+54,Mouse,0
+54,Nails,0
+54,Noodles,1
+54,Paint,0
+54,Phone Charger,0
+54,Power Cord,0
+54,Shrimp,0
+54,Steak,2
+54,Tape,0
+55,Bracket,0
+55,Brush,0
+55,Cereal,0
+55,Ear Buds,0
+55,Eggs,0
+55,Glue,0
+55,Keyboard,0
+55,King Crab,0
+55,Milk,0
+55,Mouse,0
+55,Nails,0
+55,Noodles,0
+55,Paint,0
+55,Phone Charger,0
+55,Power Cord,0
+55,Shrimp,0
+55,Steak,0
+55,Tape,0
+56,Bracket,0
+56,Brush,0
+56,Cereal,0
+56,Ear Buds,1
+56,Eggs,0
+56,Glue,0
+56,Keyboard,1
+56,King Crab,1
+56,Milk,0
+56,Mouse,0
+56,Nails,0
+56,Noodles,0
+56,Paint,0
+56,Phone Charger,3
+56,Power Cord,0
+56,Shrimp,1
+56,Steak,0
+56,Tape,0
+57,Bracket,0
+57,Brush,0
+57,Cereal,0
+57,Ear Buds,0
+57,Eggs,0
+57,Glue,0
+57,Keyboard,0
+57,King Crab,0
+57,Milk,0
+57,Mouse,0
+57,Nails,0
+57,Noodles,0
+57,Paint,0
+57,Phone Charger,0
+57,Power Cord,0
+57,Shrimp,0
+57,Steak,0
+57,Tape,0
+58,Bracket,0
+58,Brush,0
+58,Cereal,0
+58,Ear Buds,0
+58,Eggs,0
+58,Glue,0
+58,Keyboard,0
+58,King Crab,0
+58,Milk,0
+58,Mouse,0
+58,Nails,0
+58,Noodles,0
+58,Paint,0
+58,Phone Charger,0
+58,Power Cord,0
+58,Shrimp,0
+58,Steak,1
+58,Tape,0
+59,Bracket,0
+59,Brush,0
+59,Cereal,0
+59,Ear Buds,0
+59,Eggs,0
+59,Glue,0
+59,Keyboard,0
+59,King Crab,0
+59,Milk,0
+59,Mouse,0
+59,Nails,0
+59,Noodles,1
+59,Paint,0
+59,Phone Charger,0
+59,Power Cord,0
+59,Shrimp,0
+59,Steak,0
+59,Tape,0
+60,Bracket,0
+60,Brush,0
+60,Cereal,0
+60,Ear Buds,0
+60,Eggs,0
+60,Glue,0
+60,Keyboard,0
+60,King Crab,0
+60,Milk,0
+60,Mouse,1
+60,Nails,0
+60,Noodles,0
+60,Paint,3
+60,Phone Charger,1
+60,Power Cord,0
+60,Shrimp,0
+60,Steak,1
+60,Tape,0
+61,Bracket,0
+61,Brush,0
+61,Cereal,0
+61,Ear Buds,0
+61,Eggs,0
+61,Glue,0
+61,Keyboard,1
+61,King Crab,0
+61,Milk,0
+61,Mouse,0
+61,Nails,0
+61,Noodles,0
+61,Paint,0
+61,Phone Charger,0
+61,Power Cord,0
+61,Shrimp,0
+61,Steak,0
+61,Tape,0
+62,Bracket,0
+62,Brush,0
+62,Cereal,0
+62,Ear Buds,0
+62,Eggs,0
+62,Glue,0
+62,Keyboard,0
+62,King Crab,0
+62,Milk,0
+62,Mouse,0
+62,Nails,0
+62,Noodles,0
+62,Paint,0
+62,Phone Charger,0
+62,Power Cord,0
+62,Shrimp,0
+62,Steak,0
+62,Tape,0
+63,Bracket,0
+63,Brush,0
+63,Cereal,0
+63,Ear Buds,0
+63,Eggs,0
+63,Glue,0
+63,Keyboard,0
+63,King Crab,0
+63,Milk,0
+63,Mouse,0
+63,Nails,0
+63,Noodles,0
+63,Paint,0
+63,Phone Charger,0
+63,Power Cord,0
+63,Shrimp,1
+63,Steak,0
+63,Tape,0
+64,Bracket,0
+64,Brush,0
+64,Cereal,0
+64,Ear Buds,0
+64,Eggs,0
+64,Glue,0
+64,Keyboard,0
+64,King Crab,0
+64,Milk,0
+64,Mouse,0
+64,Nails,0
+64,Noodles,0
+64,Paint,0
+64,Phone Charger,0
+64,Power Cord,0
+64,Shrimp,0
+64,Steak,0
+64,Tape,0
+65,Bracket,0
+65,Brush,0
+65,Cereal,0
+65,Ear Buds,0
+65,Eggs,0
+65,Glue,0
+65,Keyboard,0
+65,King Crab,0
+65,Milk,0
+65,Mouse,0
+65,Nails,0
+65,Noodles,0
+65,Paint,0
+65,Phone Charger,0
+65,Power Cord,0
+65,Shrimp,0
+65,Steak,0
+65,Tape,0
+66,Bracket,0
+66,Brush,0
+66,Cereal,0
+66,Ear Buds,0
+66,Eggs,0
+66,Glue,0
+66,Keyboard,0
+66,King Crab,0
+66,Milk,0
+66,Mouse,0
+66,Nails,0
+66,Noodles,1
+66,Paint,0
+66,Phone Charger,0
+66,Power Cord,0
+66,Shrimp,1
+66,Steak,1
+66,Tape,0
+67,Bracket,0
+67,Brush,0
+67,Cereal,0
+67,Ear Buds,0
+67,Eggs,0
+67,Glue,0
+67,Keyboard,0
+67,King Crab,0
+67,Milk,0
+67,Mouse,1
+67,Nails,0
+67,Noodles,0
+67,Paint,0
+67,Phone Charger,0
+67,Power Cord,0
+67,Shrimp,0
+67,Steak,0
+67,Tape,0
+68,Bracket,0
+68,Brush,0
+68,Cereal,0
+68,Ear Buds,1
+68,Eggs,0
+68,Glue,0
+68,Keyboard,0
+68,King Crab,0
+68,Milk,0
+68,Mouse,0
+68,Nails,0
+68,Noodles,0
+68,Paint,0
+68,Phone Charger,0
+68,Power Cord,0
+68,Shrimp,0
+68,Steak,0
+68,Tape,0
+69,Bracket,0
+69,Brush,0
+69,Cereal,0
+69,Ear Buds,0
+69,Eggs,0
+69,Glue,0
+69,Keyboard,0
+69,King Crab,0
+69,Milk,0
+69,Mouse,1
+69,Nails,0
+69,Noodles,0
+69,Paint,0
+69,Phone Charger,0
+69,Power Cord,0
+69,Shrimp,0
+69,Steak,0
+69,Tape,0
+70,Bracket,0
+70,Brush,0
+70,Cereal,0
+70,Ear Buds,0
+70,Eggs,0
+70,Glue,0
+70,Keyboard,0
+70,King Crab,0
+70,Milk,0
+70,Mouse,0
+70,Nails,0
+70,Noodles,0
+70,Paint,0
+70,Phone Charger,0
+70,Power Cord,0
+70,Shrimp,0
+70,Steak,0
+70,Tape,0
+71,Bracket,0
+71,Brush,0
+71,Cereal,0
+71,Ear Buds,1
+71,Eggs,0
+71,Glue,0
+71,Keyboard,1
+71,King Crab,1
+71,Milk,0
+71,Mouse,1
+71,Nails,0
+71,Noodles,0
+71,Paint,0
+71,Phone Charger,0
+71,Power Cord,0
+71,Shrimp,0
+71,Steak,0
+71,Tape,0
+72,Bracket,0
+72,Brush,0
+72,Cereal,0
+72,Ear Buds,0
+72,Eggs,0
+72,Glue,0
+72,Keyboard,0
+72,King Crab,0
+72,Milk,0
+72,Mouse,0
+72,Nails,0
+72,Noodles,0
+72,Paint,0
+72,Phone Charger,0
+72,Power Cord,0
+72,Shrimp,0
+72,Steak,0
+72,Tape,0
+73,Bracket,0
+73,Brush,0
+73,Cereal,0
+73,Ear Buds,2
+73,Eggs,0
+73,Glue,0
+73,Keyboard,1
+73,King Crab,1
+73,Milk,0
+73,Mouse,1
+73,Nails,0
+73,Noodles,0
+73,Paint,0
+73,Phone Charger,0
+73,Power Cord,0
+73,Shrimp,1
+73,Steak,1
+73,Tape,0
+74,Bracket,0
+74,Brush,0
+74,Cereal,0
+74,Ear Buds,0
+74,Eggs,0
+74,Glue,0
+74,Keyboard,0
+74,King Crab,0
+74,Milk,0
+74,Mouse,0
+74,Nails,0
+74,Noodles,0
+74,Paint,0
+74,Phone Charger,0
+74,Power Cord,0
+74,Shrimp,0
+74,Steak,0
+74,Tape,0
+75,Bracket,0
+75,Brush,0
+75,Cereal,0
+75,Ear Buds,0
+75,Eggs,0
+75,Glue,0
+75,Keyboard,0
+75,King Crab,0
+75,Milk,0
+75,Mouse,0
+75,Nails,0
+75,Noodles,0
+75,Paint,0
+75,Phone Charger,0
+75,Power Cord,0
+75,Shrimp,0
+75,Steak,0
+75,Tape,0
+76,Bracket,0
+76,Brush,0
+76,Cereal,0
+76,Ear Buds,0
+76,Eggs,0
+76,Glue,0
+76,Keyboard,0
+76,King Crab,0
+76,Milk,0
+76,Mouse,0
+76,Nails,0
+76,Noodles,0
+76,Paint,0
+76,Phone Charger,0
+76,Power Cord,0
+76,Shrimp,0
+76,Steak,0
+76,Tape,0
+77,Bracket,0
+77,Brush,0
+77,Cereal,0
+77,Ear Buds,2
+77,Eggs,0
+77,Glue,0
+77,Keyboard,1
+77,King Crab,0
+77,Milk,0
+77,Mouse,0
+77,Nails,0
+77,Noodles,0
+77,Paint,0
+77,Phone Charger,6
+77,Power Cord,0
+77,Shrimp,1
+77,Steak,1
+77,Tape,0
+78,Bracket,0
+78,Brush,1
+78,Cereal,0
+78,Ear Buds,2
+78,Eggs,0
+78,Glue,0
+78,Keyboard,1
+78,King Crab,0
+78,Milk,0
+78,Mouse,2
+78,Nails,0
+78,Noodles,0
+78,Paint,1
+78,Phone Charger,3
+78,Power Cord,0
+78,Shrimp,1
+78,Steak,0
+78,Tape,0
+79,Bracket,0
+79,Brush,0
+79,Cereal,0
+79,Ear Buds,0
+79,Eggs,0
+79,Glue,0
+79,Keyboard,0
+79,King Crab,0
+79,Milk,0
+79,Mouse,1
+79,Nails,0
+79,Noodles,1
+79,Paint,0
+79,Phone Charger,0
+79,Power Cord,0
+79,Shrimp,0
+79,Steak,0
+79,Tape,0
+80,Bracket,0
+80,Brush,1
+80,Cereal,0
+80,Ear Buds,1
+80,Eggs,0
+80,Glue,0
+80,Keyboard,0
+80,King Crab,0
+80,Milk,0
+80,Mouse,1
+80,Nails,0
+80,Noodles,2
+80,Paint,0
+80,Phone Charger,5
+80,Power Cord,0
+80,Shrimp,0
+80,Steak,1
+80,Tape,0
+81,Bracket,0
+81,Brush,0
+81,Cereal,0
+81,Ear Buds,0
+81,Eggs,0
+81,Glue,0
+81,Keyboard,0
+81,King Crab,0
+81,Milk,0
+81,Mouse,2
+81,Nails,0
+81,Noodles,0
+81,Paint,0
+81,Phone Charger,0
+81,Power Cord,0
+81,Shrimp,0
+81,Steak,0
+81,Tape,0
+82,Bracket,0
+82,Brush,0
+82,Cereal,0
+82,Ear Buds,0
+82,Eggs,0
+82,Glue,0
+82,Keyboard,1
+82,King Crab,0
+82,Milk,0
+82,Mouse,1
+82,Nails,0
+82,Noodles,0
+82,Paint,0
+82,Phone Charger,1
+82,Power Cord,0
+82,Shrimp,1
+82,Steak,0
+82,Tape,0
+83,Bracket,0
+83,Brush,0
+83,Cereal,0
+83,Ear Buds,0
+83,Eggs,0
+83,Glue,0
+83,Keyboard,0
+83,King Crab,0
+83,Milk,0
+83,Mouse,0
+83,Nails,0
+83,Noodles,0
+83,Paint,0
+83,Phone Charger,0
+83,Power Cord,0
+83,Shrimp,0
+83,Steak,0
+83,Tape,0
+84,Bracket,0
+84,Brush,0
+84,Cereal,0
+84,Ear Buds,0
+84,Eggs,0
+84,Glue,0
+84,Keyboard,1
+84,King Crab,0
+84,Milk,0
+84,Mouse,0
+84,Nails,0
+84,Noodles,0
+84,Paint,0
+84,Phone Charger,0
+84,Power Cord,0
+84,Shrimp,0
+84,Steak,0
+84,Tape,0
+85,Bracket,0
+85,Brush,0
+85,Cereal,0
+85,Ear Buds,0
+85,Eggs,0
+85,Glue,1
+85,Keyboard,0
+85,King Crab,0
+85,Milk,0
+85,Mouse,0
+85,Nails,0
+85,Noodles,0
+85,Paint,0
+85,Phone Charger,1
+85,Power Cord,0
+85,Shrimp,0
+85,Steak,0
+85,Tape,0
+86,Bracket,0
+86,Brush,0
+86,Cereal,0
+86,Ear Buds,0
+86,Eggs,0
+86,Glue,0
+86,Keyboard,0
+86,King Crab,0
+86,Milk,0
+86,Mouse,0
+86,Nails,0
+86,Noodles,0
+86,Paint,0
+86,Phone Charger,1
+86,Power Cord,0
+86,Shrimp,0
+86,Steak,0
+86,Tape,0
+87,Bracket,0
+87,Brush,0
+87,Cereal,0
+87,Ear Buds,3
+87,Eggs,0
+87,Glue,0
+87,Keyboard,1
+87,King Crab,0
+87,Milk,0
+87,Mouse,1
+87,Nails,0
+87,Noodles,0
+87,Paint,0
+87,Phone Charger,2
+87,Power Cord,0
+87,Shrimp,1
+87,Steak,1
+87,Tape,0
+88,Bracket,0
+88,Brush,0
+88,Cereal,0
+88,Ear Buds,0
+88,Eggs,0
+88,Glue,0
+88,Keyboard,0
+88,King Crab,0
+88,Milk,0
+88,Mouse,0
+88,Nails,0
+88,Noodles,0
+88,Paint,0
+88,Phone Charger,0
+88,Power Cord,0
+88,Shrimp,2
+88,Steak,1
+88,Tape,0
+89,Bracket,0
+89,Brush,0
+89,Cereal,0
+89,Ear Buds,1
+89,Eggs,0
+89,Glue,0
+89,Keyboard,0
+89,King Crab,0
+89,Milk,0
+89,Mouse,0
+89,Nails,0
+89,Noodles,0
+89,Paint,0
+89,Phone Charger,0
+89,Power Cord,0
+89,Shrimp,0
+89,Steak,1
+89,Tape,0
+90,Bracket,0
+90,Brush,3
+90,Cereal,0
+90,Ear Buds,0
+90,Eggs,0
+90,Glue,0
+90,Keyboard,0
+90,King Crab,0
+90,Milk,0
+90,Mouse,0
+90,Nails,0
+90,Noodles,1
+90,Paint,0
+90,Phone Charger,0
+90,Power Cord,0
+90,Shrimp,1
+90,Steak,2
+90,Tape,0
+91,Bracket,0
+91,Brush,0
+91,Cereal,0
+91,Ear Buds,1
+91,Eggs,0
+91,Glue,0
+91,Keyboard,0
+91,King Crab,0
+91,Milk,0
+91,Mouse,0
+91,Nails,0
+91,Noodles,1
+91,Paint,0
+91,Phone Charger,0
+91,Power Cord,0
+91,Shrimp,2
+91,Steak,0
+91,Tape,0
+92,Bracket,0
+92,Brush,1
+92,Cereal,0
+92,Ear Buds,2
+92,Eggs,0
+92,Glue,0
+92,Keyboard,0
+92,King Crab,0
+92,Milk,0
+92,Mouse,0
+92,Nails,0
+92,Noodles,0
+92,Paint,0
+92,Phone Charger,1
+92,Power Cord,0
+92,Shrimp,0
+92,Steak,1
+92,Tape,0
+93,Bracket,0
+93,Brush,1
+93,Cereal,0
+93,Ear Buds,5
+93,Eggs,0
+93,Glue,0
+93,Keyboard,2
+93,King Crab,0
+93,Milk,0
+93,Mouse,2
+93,Nails,0
+93,Noodles,0
+93,Paint,0
+93,Phone Charger,1
+93,Power Cord,1
+93,Shrimp,1
+93,Steak,1
+93,Tape,0
+94,Bracket,0
+94,Brush,0
+94,Cereal,0
+94,Ear Buds,0
+94,Eggs,0
+94,Glue,0
+94,Keyboard,1
+94,King Crab,0
+94,Milk,0
+94,Mouse,2
+94,Nails,0
+94,Noodles,0
+94,Paint,0
+94,Phone Charger,2
+94,Power Cord,0
+94,Shrimp,0
+94,Steak,0
+94,Tape,0
+95,Bracket,0
+95,Brush,4
+95,Cereal,0
+95,Ear Buds,0
+95,Eggs,0
+95,Glue,0
+95,Keyboard,0
+95,King Crab,1
+95,Milk,0
+95,Mouse,1
+95,Nails,0
+95,Noodles,1
+95,Paint,0
+95,Phone Charger,0
+95,Power Cord,0
+95,Shrimp,2
+95,Steak,0
+95,Tape,0
+96,Bracket,0
+96,Brush,1
+96,Cereal,0
+96,Ear Buds,0
+96,Eggs,0
+96,Glue,0
+96,Keyboard,0
+96,King Crab,0
+96,Milk,0
+96,Mouse,0
+96,Nails,0
+96,Noodles,0
+96,Paint,0
+96,Phone Charger,0
+96,Power Cord,0
+96,Shrimp,0
+96,Steak,0
+96,Tape,0
+97,Bracket,0
+97,Brush,0
+97,Cereal,0
+97,Ear Buds,0
+97,Eggs,0
+97,Glue,0
+97,Keyboard,0
+97,King Crab,0
+97,Milk,0
+97,Mouse,0
+97,Nails,0
+97,Noodles,0
+97,Paint,0
+97,Phone Charger,0
+97,Power Cord,0
+97,Shrimp,0
+97,Steak,0
+97,Tape,0
+98,Bracket,0
+98,Brush,0
+98,Cereal,0
+98,Ear Buds,1
+98,Eggs,0
+98,Glue,0
+98,Keyboard,1
+98,King Crab,0
+98,Milk,0
+98,Mouse,1
+98,Nails,0
+98,Noodles,0
+98,Paint,0
+98,Phone Charger,0
+98,Power Cord,0
+98,Shrimp,0
+98,Steak,1
+98,Tape,0
+99,Bracket,0
+99,Brush,0
+99,Cereal,0
+99,Ear Buds,0
+99,Eggs,0
+99,Glue,0
+99,Keyboard,0
+99,King Crab,0
+99,Milk,0
+99,Mouse,0
+99,Nails,0
+99,Noodles,0
+99,Paint,0
+99,Phone Charger,0
+99,Power Cord,0
+99,Shrimp,0
+99,Steak,1
+99,Tape,0
+100,Bracket,0
+100,Brush,1
+100,Cereal,0
+100,Ear Buds,1
+100,Eggs,0
+100,Glue,0
+100,Keyboard,0
+100,King Crab,0
+100,Milk,0
+100,Mouse,0
+100,Nails,0
+100,Noodles,0
+100,Paint,0
+100,Phone Charger,0
+100,Power Cord,0
+100,Shrimp,0
+100,Steak,0
+100,Tape,0
+101,Bracket,0
+101,Brush,0
+101,Cereal,0
+101,Ear Buds,1
+101,Eggs,0
+101,Glue,0
+101,Keyboard,2
+101,King Crab,1
+101,Milk,0
+101,Mouse,1
+101,Nails,0
+101,Noodles,1
+101,Paint,0
+101,Phone Charger,0
+101,Power Cord,0
+101,Shrimp,0
+101,Steak,0
+101,Tape,0
+102,Bracket,0
+102,Brush,0
+102,Cereal,0
+102,Ear Buds,1
+102,Eggs,0
+102,Glue,0
+102,Keyboard,1
+102,King Crab,0
+102,Milk,0
+102,Mouse,0
+102,Nails,0
+102,Noodles,0
+102,Paint,0
+102,Phone Charger,0
+102,Power Cord,0
+102,Shrimp,0
+102,Steak,0
+102,Tape,0
+103,Bracket,0
+103,Brush,0
+103,Cereal,0
+103,Ear Buds,6
+103,Eggs,0
+103,Glue,0
+103,Keyboard,2
+103,King Crab,0
+103,Milk,0
+103,Mouse,0
+103,Nails,0
+103,Noodles,0
+103,Paint,0
+103,Phone Charger,5
+103,Power Cord,0
+103,Shrimp,3
+103,Steak,0
+103,Tape,0
+104,Bracket,0
+104,Brush,0
+104,Cereal,0
+104,Ear Buds,0
+104,Eggs,0
+104,Glue,1
+104,Keyboard,0
+104,King Crab,1
+104,Milk,0
+104,Mouse,0
+104,Nails,0
+104,Noodles,0
+104,Paint,0
+104,Phone Charger,0
+104,Power Cord,0
+104,Shrimp,0
+104,Steak,0
+104,Tape,0
+105,Bracket,0
+105,Brush,0
+105,Cereal,0
+105,Ear Buds,1
+105,Eggs,0
+105,Glue,0
+105,Keyboard,0
+105,King Crab,0
+105,Milk,0
+105,Mouse,0
+105,Nails,0
+105,Noodles,1
+105,Paint,0
+105,Phone Charger,1
+105,Power Cord,0
+105,Shrimp,1
+105,Steak,0
+105,Tape,0
+106,Bracket,0
+106,Brush,0
+106,Cereal,0
+106,Ear Buds,0
+106,Eggs,0
+106,Glue,0
+106,Keyboard,0
+106,King Crab,0
+106,Milk,0
+106,Mouse,0
+106,Nails,0
+106,Noodles,1
+106,Paint,0
+106,Phone Charger,0
+106,Power Cord,0
+106,Shrimp,0
+106,Steak,0
+106,Tape,0
+107,Bracket,0
+107,Brush,0
+107,Cereal,0
+107,Ear Buds,0
+107,Eggs,0
+107,Glue,0
+107,Keyboard,0
+107,King Crab,0
+107,Milk,0
+107,Mouse,0
+107,Nails,0
+107,Noodles,0
+107,Paint,0
+107,Phone Charger,0
+107,Power Cord,0
+107,Shrimp,0
+107,Steak,0
+107,Tape,0
+108,Bracket,0
+108,Brush,0
+108,Cereal,0
+108,Ear Buds,1
+108,Eggs,0
+108,Glue,0
+108,Keyboard,0
+108,King Crab,0
+108,Milk,0
+108,Mouse,0
+108,Nails,0
+108,Noodles,1
+108,Paint,0
+108,Phone Charger,0
+108,Power Cord,0
+108,Shrimp,1
+108,Steak,0
+108,Tape,0
+109,Bracket,0
+109,Brush,0
+109,Cereal,0
+109,Ear Buds,0
+109,Eggs,0
+109,Glue,0
+109,Keyboard,0
+109,King Crab,0
+109,Milk,0
+109,Mouse,0
+109,Nails,0
+109,Noodles,0
+109,Paint,0
+109,Phone Charger,0
+109,Power Cord,0
+109,Shrimp,0
+109,Steak,1
+109,Tape,0
+110,Bracket,0
+110,Brush,0
+110,Cereal,0
+110,Ear Buds,1
+110,Eggs,0
+110,Glue,1
+110,Keyboard,0
+110,King Crab,0
+110,Milk,0
+110,Mouse,0
+110,Nails,0
+110,Noodles,0
+110,Paint,0
+110,Phone Charger,1
+110,Power Cord,0
+110,Shrimp,0
+110,Steak,0
+110,Tape,0
+111,Bracket,0
+111,Brush,0
+111,Cereal,0
+111,Ear Buds,1
+111,Eggs,0
+111,Glue,1
+111,Keyboard,1
+111,King Crab,0
+111,Milk,0
+111,Mouse,0
+111,Nails,0
+111,Noodles,4
+111,Paint,0
+111,Phone Charger,2
+111,Power Cord,0
+111,Shrimp,1
+111,Steak,1
+111,Tape,0
+112,Bracket,0
+112,Brush,0
+112,Cereal,0
+112,Ear Buds,0
+112,Eggs,0
+112,Glue,0
+112,Keyboard,0
+112,King Crab,0
+112,Milk,0
+112,Mouse,0
+112,Nails,0
+112,Noodles,0
+112,Paint,0
+112,Phone Charger,0
+112,Power Cord,0
+112,Shrimp,0
+112,Steak,0
+112,Tape,0
+113,Bracket,0
+113,Brush,0
+113,Cereal,0
+113,Ear Buds,0
+113,Eggs,0
+113,Glue,0
+113,Keyboard,0
+113,King Crab,0
+113,Milk,0
+113,Mouse,0
+113,Nails,0
+113,Noodles,1
+113,Paint,0
+113,Phone Charger,0
+113,Power Cord,0
+113,Shrimp,0
+113,Steak,0
+113,Tape,0
+114,Bracket,0
+114,Brush,0
+114,Cereal,0
+114,Ear Buds,0
+114,Eggs,0
+114,Glue,0
+114,Keyboard,0
+114,King Crab,0
+114,Milk,0
+114,Mouse,0
+114,Nails,0
+114,Noodles,0
+114,Paint,0
+114,Phone Charger,0
+114,Power Cord,0
+114,Shrimp,0
+114,Steak,0
+114,Tape,0
+115,Bracket,0
+115,Brush,0
+115,Cereal,0
+115,Ear Buds,0
+115,Eggs,0
+115,Glue,0
+115,Keyboard,0
+115,King Crab,0
+115,Milk,0
+115,Mouse,0
+115,Nails,0
+115,Noodles,0
+115,Paint,0
+115,Phone Charger,0
+115,Power Cord,0
+115,Shrimp,0
+115,Steak,0
+115,Tape,0
+116,Bracket,0
+116,Brush,0
+116,Cereal,0
+116,Ear Buds,1
+116,Eggs,0
+116,Glue,0
+116,Keyboard,0
+116,King Crab,0
+116,Milk,0
+116,Mouse,0
+116,Nails,0
+116,Noodles,0
+116,Paint,0
+116,Phone Charger,0
+116,Power Cord,0
+116,Shrimp,0
+116,Steak,0
+116,Tape,0
+117,Bracket,0
+117,Brush,0
+117,Cereal,0
+117,Ear Buds,2
+117,Eggs,0
+117,Glue,0
+117,Keyboard,0
+117,King Crab,0
+117,Milk,0
+117,Mouse,0
+117,Nails,0
+117,Noodles,1
+117,Paint,0
+117,Phone Charger,0
+117,Power Cord,0
+117,Shrimp,0
+117,Steak,0
+117,Tape,0
+118,Bracket,0
+118,Brush,0
+118,Cereal,0
+118,Ear Buds,0
+118,Eggs,0
+118,Glue,0
+118,Keyboard,0
+118,King Crab,0
+118,Milk,0
+118,Mouse,0
+118,Nails,0
+118,Noodles,0
+118,Paint,0
+118,Phone Charger,0
+118,Power Cord,0
+118,Shrimp,0
+118,Steak,0
+118,Tape,0
+119,Bracket,0
+119,Brush,0
+119,Cereal,0
+119,Ear Buds,0
+119,Eggs,0
+119,Glue,1
+119,Keyboard,1
+119,King Crab,1
+119,Milk,0
+119,Mouse,2
+119,Nails,0
+119,Noodles,0
+119,Paint,0
+119,Phone Charger,4
+119,Power Cord,0
+119,Shrimp,2
+119,Steak,1
+119,Tape,0
+120,Bracket,0
+120,Brush,0
+120,Cereal,0
+120,Ear Buds,0
+120,Eggs,0
+120,Glue,0
+120,Keyboard,1
+120,King Crab,0
+120,Milk,0
+120,Mouse,0
+120,Nails,0
+120,Noodles,1
+120,Paint,0
+120,Phone Charger,0
+120,Power Cord,0
+120,Shrimp,0
+120,Steak,2
+120,Tape,0
+121,Bracket,0
+121,Brush,0
+121,Cereal,0
+121,Ear Buds,0
+121,Eggs,0
+121,Glue,0
+121,Keyboard,0
+121,King Crab,0
+121,Milk,0
+121,Mouse,1
+121,Nails,0
+121,Noodles,0
+121,Paint,0
+121,Phone Charger,1
+121,Power Cord,0
+121,Shrimp,0
+121,Steak,0
+121,Tape,0
+122,Bracket,0
+122,Brush,0
+122,Cereal,0
+122,Ear Buds,0
+122,Eggs,0
+122,Glue,0
+122,Keyboard,0
+122,King Crab,0
+122,Milk,0
+122,Mouse,3
+122,Nails,0
+122,Noodles,4
+122,Paint,0
+122,Phone Charger,0
+122,Power Cord,0
+122,Shrimp,1
+122,Steak,0
+122,Tape,0
+123,Bracket,0
+123,Brush,0
+123,Cereal,0
+123,Ear Buds,0
+123,Eggs,0
+123,Glue,0
+123,Keyboard,1
+123,King Crab,0
+123,Milk,0
+123,Mouse,0
+123,Nails,0
+123,Noodles,0
+123,Paint,0
+123,Phone Charger,0
+123,Power Cord,0
+123,Shrimp,0
+123,Steak,0
+123,Tape,0
+124,Bracket,0
+124,Brush,0
+124,Cereal,0
+124,Ear Buds,0
+124,Eggs,0
+124,Glue,0
+124,Keyboard,1
+124,King Crab,0
+124,Milk,0
+124,Mouse,0
+124,Nails,0
+124,Noodles,0
+124,Paint,0
+124,Phone Charger,0
+124,Power Cord,0
+124,Shrimp,0
+124,Steak,0
+124,Tape,0
+125,Bracket,0
+125,Brush,0
+125,Cereal,0
+125,Ear Buds,0
+125,Eggs,0
+125,Glue,0
+125,Keyboard,0
+125,King Crab,0
+125,Milk,0
+125,Mouse,0
+125,Nails,0
+125,Noodles,0
+125,Paint,0
+125,Phone Charger,0
+125,Power Cord,0
+125,Shrimp,1
+125,Steak,0
+125,Tape,0
+126,Bracket,0
+126,Brush,0
+126,Cereal,0
+126,Ear Buds,0
+126,Eggs,0
+126,Glue,0
+126,Keyboard,0
+126,King Crab,0
+126,Milk,0
+126,Mouse,0
+126,Nails,0
+126,Noodles,0
+126,Paint,0
+126,Phone Charger,0
+126,Power Cord,0
+126,Shrimp,0
+126,Steak,0
+126,Tape,0
+127,Bracket,0
+127,Brush,0
+127,Cereal,0
+127,Ear Buds,0
+127,Eggs,0
+127,Glue,0
+127,Keyboard,1
+127,King Crab,0
+127,Milk,0
+127,Mouse,1
+127,Nails,0
+127,Noodles,0
+127,Paint,0
+127,Phone Charger,0
+127,Power Cord,0
+127,Shrimp,0
+127,Steak,1
+127,Tape,0
+128,Bracket,0
+128,Brush,0
+128,Cereal,0
+128,Ear Buds,0
+128,Eggs,0
+128,Glue,0
+128,Keyboard,1
+128,King Crab,0
+128,Milk,0
+128,Mouse,0
+128,Nails,0
+128,Noodles,1
+128,Paint,0
+128,Phone Charger,0
+128,Power Cord,0
+128,Shrimp,0
+128,Steak,2
+128,Tape,0
+129,Bracket,0
+129,Brush,0
+129,Cereal,0
+129,Ear Buds,0
+129,Eggs,0
+129,Glue,0
+129,Keyboard,1
+129,King Crab,0
+129,Milk,0
+129,Mouse,0
+129,Nails,0
+129,Noodles,0
+129,Paint,0
+129,Phone Charger,0
+129,Power Cord,0
+129,Shrimp,0
+129,Steak,0
+129,Tape,0
+130,Bracket,0
+130,Brush,0
+130,Cereal,0
+130,Ear Buds,0
+130,Eggs,0
+130,Glue,0
+130,Keyboard,0
+130,King Crab,0
+130,Milk,0
+130,Mouse,1
+130,Nails,0
+130,Noodles,0
+130,Paint,0
+130,Phone Charger,0
+130,Power Cord,0
+130,Shrimp,0
+130,Steak,1
+130,Tape,0
+131,Bracket,0
+131,Brush,0
+131,Cereal,0
+131,Ear Buds,0
+131,Eggs,0
+131,Glue,0
+131,Keyboard,0
+131,King Crab,0
+131,Milk,0
+131,Mouse,0
+131,Nails,0
+131,Noodles,0
+131,Paint,0
+131,Phone Charger,0
+131,Power Cord,0
+131,Shrimp,0
+131,Steak,0
+131,Tape,0
+132,Bracket,0
+132,Brush,0
+132,Cereal,0
+132,Ear Buds,0
+132,Eggs,0
+132,Glue,0
+132,Keyboard,0
+132,King Crab,0
+132,Milk,0
+132,Mouse,0
+132,Nails,0
+132,Noodles,0
+132,Paint,0
+132,Phone Charger,0
+132,Power Cord,0
+132,Shrimp,0
+132,Steak,0
+132,Tape,0
+133,Bracket,0
+133,Brush,0
+133,Cereal,0
+133,Ear Buds,0
+133,Eggs,0
+133,Glue,0
+133,Keyboard,0
+133,King Crab,0
+133,Milk,0
+133,Mouse,0
+133,Nails,0
+133,Noodles,0
+133,Paint,0
+133,Phone Charger,0
+133,Power Cord,0
+133,Shrimp,0
+133,Steak,0
+133,Tape,0
+134,Bracket,0
+134,Brush,0
+134,Cereal,0
+134,Ear Buds,1
+134,Eggs,0
+134,Glue,0
+134,Keyboard,1
+134,King Crab,0
+134,Milk,0
+134,Mouse,1
+134,Nails,0
+134,Noodles,1
+134,Paint,0
+134,Phone Charger,1
+134,Power Cord,0
+134,Shrimp,0
+134,Steak,0
+134,Tape,0
+135,Bracket,0
+135,Brush,0
+135,Cereal,0
+135,Ear Buds,0
+135,Eggs,0
+135,Glue,0
+135,Keyboard,1
+135,King Crab,0
+135,Milk,0
+135,Mouse,0
+135,Nails,0
+135,Noodles,0
+135,Paint,0
+135,Phone Charger,0
+135,Power Cord,0
+135,Shrimp,1
+135,Steak,0
+135,Tape,0
+136,Bracket,0
+136,Brush,0
+136,Cereal,0
+136,Ear Buds,0
+136,Eggs,0
+136,Glue,0
+136,Keyboard,0
+136,King Crab,0
+136,Milk,0
+136,Mouse,0
+136,Nails,0
+136,Noodles,0
+136,Paint,0
+136,Phone Charger,0
+136,Power Cord,0
+136,Shrimp,0
+136,Steak,0
+136,Tape,0
+137,Bracket,0
+137,Brush,0
+137,Cereal,0
+137,Ear Buds,0
+137,Eggs,0
+137,Glue,0
+137,Keyboard,0
+137,King Crab,0
+137,Milk,0
+137,Mouse,0
+137,Nails,0
+137,Noodles,0
+137,Paint,0
+137,Phone Charger,0
+137,Power Cord,1
+137,Shrimp,1
+137,Steak,0
+137,Tape,0
+138,Bracket,0
+138,Brush,0
+138,Cereal,0
+138,Ear Buds,0
+138,Eggs,0
+138,Glue,0
+138,Keyboard,0
+138,King Crab,0
+138,Milk,0
+138,Mouse,0
+138,Nails,0
+138,Noodles,0
+138,Paint,0
+138,Phone Charger,0
+138,Power Cord,0
+138,Shrimp,0
+138,Steak,0
+138,Tape,0
+139,Bracket,0
+139,Brush,0
+139,Cereal,0
+139,Ear Buds,0
+139,Eggs,0
+139,Glue,0
+139,Keyboard,0
+139,King Crab,0
+139,Milk,0
+139,Mouse,0
+139,Nails,0
+139,Noodles,0
+139,Paint,0
+139,Phone Charger,0
+139,Power Cord,0
+139,Shrimp,2
+139,Steak,1
+139,Tape,0
+140,Bracket,0
+140,Brush,0
+140,Cereal,0
+140,Ear Buds,0
+140,Eggs,0
+140,Glue,0
+140,Keyboard,0
+140,King Crab,0
+140,Milk,0
+140,Mouse,0
+140,Nails,0
+140,Noodles,0
+140,Paint,0
+140,Phone Charger,0
+140,Power Cord,0
+140,Shrimp,0
+140,Steak,0
+140,Tape,0
+141,Bracket,0
+141,Brush,0
+141,Cereal,0
+141,Ear Buds,0
+141,Eggs,0
+141,Glue,0
+141,Keyboard,0
+141,King Crab,0
+141,Milk,0
+141,Mouse,0
+141,Nails,0
+141,Noodles,0
+141,Paint,0
+141,Phone Charger,0
+141,Power Cord,0
+141,Shrimp,0
+141,Steak,0
+141,Tape,0
+142,Bracket,0
+142,Brush,0
+142,Cereal,0
+142,Ear Buds,0
+142,Eggs,0
+142,Glue,0
+142,Keyboard,0
+142,King Crab,0
+142,Milk,0
+142,Mouse,0
+142,Nails,0
+142,Noodles,1
+142,Paint,0
+142,Phone Charger,0
+142,Power Cord,0
+142,Shrimp,0
+142,Steak,0
+142,Tape,0
+143,Bracket,0
+143,Brush,0
+143,Cereal,0
+143,Ear Buds,0
+143,Eggs,0
+143,Glue,0
+143,Keyboard,0
+143,King Crab,0
+143,Milk,0
+143,Mouse,0
+143,Nails,0
+143,Noodles,0
+143,Paint,0
+143,Phone Charger,0
+143,Power Cord,0
+143,Shrimp,0
+143,Steak,0
+143,Tape,0
+144,Bracket,0
+144,Brush,0
+144,Cereal,0
+144,Ear Buds,3
+144,Eggs,0
+144,Glue,0
+144,Keyboard,0
+144,King Crab,0
+144,Milk,0
+144,Mouse,0
+144,Nails,0
+144,Noodles,2
+144,Paint,0
+144,Phone Charger,3
+144,Power Cord,0
+144,Shrimp,0
+144,Steak,0
+144,Tape,0
+145,Bracket,0
+145,Brush,0
+145,Cereal,0
+145,Ear Buds,0
+145,Eggs,0
+145,Glue,0
+145,Keyboard,1
+145,King Crab,0
+145,Milk,0
+145,Mouse,1
+145,Nails,0
+145,Noodles,3
+145,Paint,0
+145,Phone Charger,2
+145,Power Cord,0
+145,Shrimp,0
+145,Steak,1
+145,Tape,0
+146,Bracket,0
+146,Brush,0
+146,Cereal,0
+146,Ear Buds,0
+146,Eggs,0
+146,Glue,0
+146,Keyboard,0
+146,King Crab,0
+146,Milk,0
+146,Mouse,0
+146,Nails,0
+146,Noodles,0
+146,Paint,0
+146,Phone Charger,0
+146,Power Cord,0
+146,Shrimp,0
+146,Steak,1
+146,Tape,0
+147,Bracket,0
+147,Brush,0
+147,Cereal,0
+147,Ear Buds,0
+147,Eggs,0
+147,Glue,0
+147,Keyboard,0
+147,King Crab,0
+147,Milk,0
+147,Mouse,0
+147,Nails,0
+147,Noodles,0
+147,Paint,0
+147,Phone Charger,0
+147,Power Cord,0
+147,Shrimp,0
+147,Steak,0
+147,Tape,0
+148,Bracket,0
+148,Brush,0
+148,Cereal,0
+148,Ear Buds,1
+148,Eggs,0
+148,Glue,0
+148,Keyboard,0
+148,King Crab,0
+148,Milk,0
+148,Mouse,1
+148,Nails,0
+148,Noodles,0
+148,Paint,0
+148,Phone Charger,0
+148,Power Cord,1
+148,Shrimp,0
+148,Steak,0
+148,Tape,0
+149,Bracket,0
+149,Brush,0
+149,Cereal,0
+149,Ear Buds,0
+149,Eggs,0
+149,Glue,0
+149,Keyboard,0
+149,King Crab,0
+149,Milk,0
+149,Mouse,0
+149,Nails,0
+149,Noodles,1
+149,Paint,0
+149,Phone Charger,0
+149,Power Cord,0
+149,Shrimp,0
+149,Steak,1
+149,Tape,0
+150,Bracket,0
+150,Brush,0
+150,Cereal,0
+150,Ear Buds,0
+150,Eggs,0
+150,Glue,0
+150,Keyboard,1
+150,King Crab,0
+150,Milk,0
+150,Mouse,0
+150,Nails,0
+150,Noodles,0
+150,Paint,0
+150,Phone Charger,0
+150,Power Cord,0
+150,Shrimp,0
+150,Steak,0
+150,Tape,0
+151,Bracket,0
+151,Brush,0
+151,Cereal,0
+151,Ear Buds,0
+151,Eggs,0
+151,Glue,0
+151,Keyboard,0
+151,King Crab,0
+151,Milk,0
+151,Mouse,1
+151,Nails,0
+151,Noodles,1
+151,Paint,0
+151,Phone Charger,0
+151,Power Cord,0
+151,Shrimp,1
+151,Steak,0
+151,Tape,0
+152,Bracket,0
+152,Brush,0
+152,Cereal,0
+152,Ear Buds,0
+152,Eggs,0
+152,Glue,0
+152,Keyboard,1
+152,King Crab,0
+152,Milk,0
+152,Mouse,0
+152,Nails,0
+152,Noodles,1
+152,Paint,0
+152,Phone Charger,0
+152,Power Cord,0
+152,Shrimp,0
+152,Steak,0
+152,Tape,0
+153,Bracket,0
+153,Brush,0
+153,Cereal,0
+153,Ear Buds,0
+153,Eggs,0
+153,Glue,0
+153,Keyboard,0
+153,King Crab,0
+153,Milk,0
+153,Mouse,0
+153,Nails,0
+153,Noodles,0
+153,Paint,0
+153,Phone Charger,0
+153,Power Cord,0
+153,Shrimp,0
+153,Steak,0
+153,Tape,0
+154,Bracket,0
+154,Brush,0
+154,Cereal,0
+154,Ear Buds,1
+154,Eggs,0
+154,Glue,0
+154,Keyboard,0
+154,King Crab,0
+154,Milk,0
+154,Mouse,0
+154,Nails,0
+154,Noodles,0
+154,Paint,0
+154,Phone Charger,0
+154,Power Cord,0
+154,Shrimp,0
+154,Steak,0
+154,Tape,0
+155,Bracket,0
+155,Brush,0
+155,Cereal,0
+155,Ear Buds,0
+155,Eggs,0
+155,Glue,0
+155,Keyboard,0
+155,King Crab,0
+155,Milk,0
+155,Mouse,0
+155,Nails,0
+155,Noodles,0
+155,Paint,0
+155,Phone Charger,0
+155,Power Cord,0
+155,Shrimp,2
+155,Steak,0
+155,Tape,0
+156,Bracket,0
+156,Brush,0
+156,Cereal,0
+156,Ear Buds,0
+156,Eggs,0
+156,Glue,0
+156,Keyboard,0
+156,King Crab,0
+156,Milk,0
+156,Mouse,0
+156,Nails,0
+156,Noodles,0
+156,Paint,0
+156,Phone Charger,0
+156,Power Cord,0
+156,Shrimp,0
+156,Steak,0
+156,Tape,0
+157,Bracket,0
+157,Brush,0
+157,Cereal,0
+157,Ear Buds,3
+157,Eggs,0
+157,Glue,0
+157,Keyboard,0
+157,King Crab,0
+157,Milk,0
+157,Mouse,1
+157,Nails,0
+157,Noodles,1
+157,Paint,0
+157,Phone Charger,0
+157,Power Cord,0
+157,Shrimp,0
+157,Steak,0
+157,Tape,0
+158,Bracket,0
+158,Brush,0
+158,Cereal,0
+158,Ear Buds,0
+158,Eggs,0
+158,Glue,0
+158,Keyboard,0
+158,King Crab,0
+158,Milk,0
+158,Mouse,0
+158,Nails,0
+158,Noodles,0
+158,Paint,0
+158,Phone Charger,1
+158,Power Cord,0
+158,Shrimp,0
+158,Steak,1
+158,Tape,0
+159,Bracket,0
+159,Brush,0
+159,Cereal,0
+159,Ear Buds,0
+159,Eggs,0
+159,Glue,0
+159,Keyboard,0
+159,King Crab,0
+159,Milk,0
+159,Mouse,0
+159,Nails,0
+159,Noodles,0
+159,Paint,0
+159,Phone Charger,0
+159,Power Cord,0
+159,Shrimp,0
+159,Steak,0
+159,Tape,0
+160,Bracket,0
+160,Brush,0
+160,Cereal,0
+160,Ear Buds,1
+160,Eggs,0
+160,Glue,0
+160,Keyboard,0
+160,King Crab,1
+160,Milk,0
+160,Mouse,0
+160,Nails,0
+160,Noodles,1
+160,Paint,0
+160,Phone Charger,0
+160,Power Cord,0
+160,Shrimp,0
+160,Steak,0
+160,Tape,0
+161,Bracket,0
+161,Brush,0
+161,Cereal,0
+161,Ear Buds,0
+161,Eggs,0
+161,Glue,0
+161,Keyboard,0
+161,King Crab,0
+161,Milk,0
+161,Mouse,0
+161,Nails,0
+161,Noodles,1
+161,Paint,0
+161,Phone Charger,0
+161,Power Cord,0
+161,Shrimp,0
+161,Steak,0
+161,Tape,0
+162,Bracket,0
+162,Brush,0
+162,Cereal,0
+162,Ear Buds,0
+162,Eggs,0
+162,Glue,0
+162,Keyboard,1
+162,King Crab,1
+162,Milk,0
+162,Mouse,0
+162,Nails,0
+162,Noodles,0
+162,Paint,1
+162,Phone Charger,0
+162,Power Cord,0
+162,Shrimp,1
+162,Steak,2
+162,Tape,0
+163,Bracket,0
+163,Brush,0
+163,Cereal,0
+163,Ear Buds,0
+163,Eggs,0
+163,Glue,0
+163,Keyboard,0
+163,King Crab,0
+163,Milk,0
+163,Mouse,0
+163,Nails,0
+163,Noodles,1
+163,Paint,2
+163,Phone Charger,1
+163,Power Cord,0
+163,Shrimp,0
+163,Steak,0
+163,Tape,0
+164,Bracket,0
+164,Brush,0
+164,Cereal,0
+164,Ear Buds,0
+164,Eggs,0
+164,Glue,0
+164,Keyboard,0
+164,King Crab,0
+164,Milk,0
+164,Mouse,0
+164,Nails,0
+164,Noodles,0
+164,Paint,0
+164,Phone Charger,0
+164,Power Cord,0
+164,Shrimp,0
+164,Steak,1
+164,Tape,0
+165,Bracket,0
+165,Brush,0
+165,Cereal,0
+165,Ear Buds,0
+165,Eggs,0
+165,Glue,0
+165,Keyboard,0
+165,King Crab,0
+165,Milk,0
+165,Mouse,0
+165,Nails,0
+165,Noodles,0
+165,Paint,0
+165,Phone Charger,0
+165,Power Cord,0
+165,Shrimp,0
+165,Steak,0
+165,Tape,0
+166,Bracket,0
+166,Brush,0
+166,Cereal,0
+166,Ear Buds,2
+166,Eggs,0
+166,Glue,0
+166,Keyboard,0
+166,King Crab,1
+166,Milk,0
+166,Mouse,0
+166,Nails,0
+166,Noodles,1
+166,Paint,0
+166,Phone Charger,1
+166,Power Cord,0
+166,Shrimp,3
+166,Steak,0
+166,Tape,0
+167,Bracket,0
+167,Brush,0
+167,Cereal,0
+167,Ear Buds,0
+167,Eggs,0
+167,Glue,0
+167,Keyboard,0
+167,King Crab,0
+167,Milk,0
+167,Mouse,0
+167,Nails,0
+167,Noodles,1
+167,Paint,0
+167,Phone Charger,0
+167,Power Cord,0
+167,Shrimp,0
+167,Steak,0
+167,Tape,0
+168,Bracket,0
+168,Brush,0
+168,Cereal,0
+168,Ear Buds,0
+168,Eggs,0
+168,Glue,0
+168,Keyboard,0
+168,King Crab,0
+168,Milk,0
+168,Mouse,1
+168,Nails,0
+168,Noodles,0
+168,Paint,4
+168,Phone Charger,1
+168,Power Cord,0
+168,Shrimp,0
+168,Steak,0
+168,Tape,0
+169,Bracket,0
+169,Brush,0
+169,Cereal,0
+169,Ear Buds,0
+169,Eggs,0
+169,Glue,0
+169,Keyboard,1
+169,King Crab,0
+169,Milk,0
+169,Mouse,0
+169,Nails,0
+169,Noodles,0
+169,Paint,0
+169,Phone Charger,0
+169,Power Cord,0
+169,Shrimp,1
+169,Steak,0
+169,Tape,0
+170,Bracket,0
+170,Brush,0
+170,Cereal,0
+170,Ear Buds,0
+170,Eggs,0
+170,Glue,0
+170,Keyboard,0
+170,King Crab,0
+170,Milk,0
+170,Mouse,0
+170,Nails,0
+170,Noodles,0
+170,Paint,0
+170,Phone Charger,0
+170,Power Cord,0
+170,Shrimp,0
+170,Steak,0
+170,Tape,0
+171,Bracket,0
+171,Brush,0
+171,Cereal,0
+171,Ear Buds,0
+171,Eggs,0
+171,Glue,0
+171,Keyboard,0
+171,King Crab,0
+171,Milk,0
+171,Mouse,0
+171,Nails,0
+171,Noodles,0
+171,Paint,0
+171,Phone Charger,1
+171,Power Cord,0
+171,Shrimp,0
+171,Steak,0
+171,Tape,0
+172,Bracket,0
+172,Brush,0
+172,Cereal,0
+172,Ear Buds,0
+172,Eggs,0
+172,Glue,0
+172,Keyboard,0
+172,King Crab,0
+172,Milk,0
+172,Mouse,0
+172,Nails,0
+172,Noodles,0
+172,Paint,0
+172,Phone Charger,0
+172,Power Cord,0
+172,Shrimp,0
+172,Steak,0
+172,Tape,0
+173,Bracket,0
+173,Brush,0
+173,Cereal,0
+173,Ear Buds,1
+173,Eggs,0
+173,Glue,0
+173,Keyboard,0
+173,King Crab,0
+173,Milk,0
+173,Mouse,0
+173,Nails,0
+173,Noodles,0
+173,Paint,0
+173,Phone Charger,0
+173,Power Cord,0
+173,Shrimp,0
+173,Steak,0
+173,Tape,0
+174,Bracket,0
+174,Brush,0
+174,Cereal,0
+174,Ear Buds,0
+174,Eggs,0
+174,Glue,0
+174,Keyboard,1
+174,King Crab,0
+174,Milk,0
+174,Mouse,0
+174,Nails,0
+174,Noodles,1
+174,Paint,0
+174,Phone Charger,0
+174,Power Cord,0
+174,Shrimp,0
+174,Steak,0
+174,Tape,0
+175,Bracket,0
+175,Brush,0
+175,Cereal,0
+175,Ear Buds,0
+175,Eggs,0
+175,Glue,0
+175,Keyboard,0
+175,King Crab,1
+175,Milk,0
+175,Mouse,0
+175,Nails,0
+175,Noodles,0
+175,Paint,0
+175,Phone Charger,0
+175,Power Cord,0
+175,Shrimp,0
+175,Steak,0
+175,Tape,0
+176,Bracket,0
+176,Brush,0
+176,Cereal,0
+176,Ear Buds,0
+176,Eggs,0
+176,Glue,0
+176,Keyboard,0
+176,King Crab,0
+176,Milk,0
+176,Mouse,0
+176,Nails,0
+176,Noodles,1
+176,Paint,0
+176,Phone Charger,0
+176,Power Cord,0
+176,Shrimp,0
+176,Steak,0
+176,Tape,0
+177,Bracket,0
+177,Brush,0
+177,Cereal,0
+177,Ear Buds,0
+177,Eggs,0
+177,Glue,3
+177,Keyboard,0
+177,King Crab,0
+177,Milk,0
+177,Mouse,0
+177,Nails,0
+177,Noodles,0
+177,Paint,0
+177,Phone Charger,1
+177,Power Cord,0
+177,Shrimp,1
+177,Steak,0
+177,Tape,0
+178,Bracket,0
+178,Brush,0
+178,Cereal,0
+178,Ear Buds,0
+178,Eggs,0
+178,Glue,0
+178,Keyboard,0
+178,King Crab,0
+178,Milk,0
+178,Mouse,0
+178,Nails,0
+178,Noodles,0
+178,Paint,0
+178,Phone Charger,0
+178,Power Cord,0
+178,Shrimp,0
+178,Steak,0
+178,Tape,0
+179,Bracket,0
+179,Brush,0
+179,Cereal,0
+179,Ear Buds,0
+179,Eggs,0
+179,Glue,0
+179,Keyboard,0
+179,King Crab,0
+179,Milk,0
+179,Mouse,0
+179,Nails,0
+179,Noodles,0
+179,Paint,0
+179,Phone Charger,0
+179,Power Cord,0
+179,Shrimp,0
+179,Steak,0
+179,Tape,0
+180,Bracket,0
+180,Brush,0
+180,Cereal,0
+180,Ear Buds,0
+180,Eggs,0
+180,Glue,0
+180,Keyboard,0
+180,King Crab,0
+180,Milk,0
+180,Mouse,0
+180,Nails,0
+180,Noodles,1
+180,Paint,0
+180,Phone Charger,0
+180,Power Cord,0
+180,Shrimp,0
+180,Steak,0
+180,Tape,0
+181,Bracket,0
+181,Brush,0
+181,Cereal,0
+181,Ear Buds,0
+181,Eggs,0
+181,Glue,0
+181,Keyboard,0
+181,King Crab,0
+181,Milk,0
+181,Mouse,0
+181,Nails,0
+181,Noodles,0
+181,Paint,0
+181,Phone Charger,0
+181,Power Cord,1
+181,Shrimp,0
+181,Steak,0
+181,Tape,0
+182,Bracket,0
+182,Brush,0
+182,Cereal,0
+182,Ear Buds,0
+182,Eggs,0
+182,Glue,0
+182,Keyboard,0
+182,King Crab,0
+182,Milk,0
+182,Mouse,0
+182,Nails,0
+182,Noodles,0
+182,Paint,0
+182,Phone Charger,0
+182,Power Cord,0
+182,Shrimp,0
+182,Steak,0
+182,Tape,0
+183,Bracket,0
+183,Brush,0
+183,Cereal,0
+183,Ear Buds,0
+183,Eggs,0
+183,Glue,1
+183,Keyboard,0
+183,King Crab,0
+183,Milk,0
+183,Mouse,0
+183,Nails,0
+183,Noodles,0
+183,Paint,0
+183,Phone Charger,0
+183,Power Cord,0
+183,Shrimp,0
+183,Steak,0
+183,Tape,0
+184,Bracket,0
+184,Brush,0
+184,Cereal,0
+184,Ear Buds,2
+184,Eggs,0
+184,Glue,0
+184,Keyboard,3
+184,King Crab,0
+184,Milk,0
+184,Mouse,3
+184,Nails,0
+184,Noodles,2
+184,Paint,1
+184,Phone Charger,1
+184,Power Cord,0
+184,Shrimp,1
+184,Steak,2
+184,Tape,0
+185,Bracket,0
+185,Brush,0
+185,Cereal,0
+185,Ear Buds,0
+185,Eggs,0
+185,Glue,1
+185,Keyboard,0
+185,King Crab,0
+185,Milk,0
+185,Mouse,1
+185,Nails,0
+185,Noodles,1
+185,Paint,0
+185,Phone Charger,0
+185,Power Cord,0
+185,Shrimp,1
+185,Steak,1
+185,Tape,0
+186,Bracket,0
+186,Brush,0
+186,Cereal,0
+186,Ear Buds,1
+186,Eggs,0
+186,Glue,0
+186,Keyboard,2
+186,King Crab,0
+186,Milk,0
+186,Mouse,0
+186,Nails,0
+186,Noodles,0
+186,Paint,0
+186,Phone Charger,2
+186,Power Cord,1
+186,Shrimp,1
+186,Steak,2
+186,Tape,0
+187,Bracket,0
+187,Brush,0
+187,Cereal,0
+187,Ear Buds,2
+187,Eggs,0
+187,Glue,0
+187,Keyboard,1
+187,King Crab,0
+187,Milk,0
+187,Mouse,4
+187,Nails,0
+187,Noodles,0
+187,Paint,0
+187,Phone Charger,0
+187,Power Cord,3
+187,Shrimp,0
+187,Steak,0
+187,Tape,0
+188,Bracket,0
+188,Brush,0
+188,Cereal,0
+188,Ear Buds,1
+188,Eggs,0
+188,Glue,1
+188,Keyboard,0
+188,King Crab,0
+188,Milk,0
+188,Mouse,3
+188,Nails,0
+188,Noodles,1
+188,Paint,0
+188,Phone Charger,2
+188,Power Cord,1
+188,Shrimp,5
+188,Steak,1
+188,Tape,0
+189,Bracket,0
+189,Brush,0
+189,Cereal,0
+189,Ear Buds,3
+189,Eggs,0
+189,Glue,1
+189,Keyboard,1
+189,King Crab,0
+189,Milk,0
+189,Mouse,0
+189,Nails,0
+189,Noodles,0
+189,Paint,0
+189,Phone Charger,1
+189,Power Cord,0
+189,Shrimp,0
+189,Steak,0
+189,Tape,0
+190,Bracket,0
+190,Brush,0
+190,Cereal,0
+190,Ear Buds,0
+190,Eggs,0
+190,Glue,0
+190,Keyboard,0
+190,King Crab,0
+190,Milk,0
+190,Mouse,0
+190,Nails,0
+190,Noodles,1
+190,Paint,0
+190,Phone Charger,0
+190,Power Cord,0
+190,Shrimp,1
+190,Steak,0
+190,Tape,0
+191,Bracket,0
+191,Brush,0
+191,Cereal,0
+191,Ear Buds,2
+191,Eggs,0
+191,Glue,0
+191,Keyboard,1
+191,King Crab,0
+191,Milk,0
+191,Mouse,0
+191,Nails,0
+191,Noodles,1
+191,Paint,0
+191,Phone Charger,2
+191,Power Cord,0
+191,Shrimp,0
+191,Steak,0
+191,Tape,0
+192,Bracket,0
+192,Brush,0
+192,Cereal,0
+192,Ear Buds,0
+192,Eggs,0
+192,Glue,0
+192,Keyboard,0
+192,King Crab,0
+192,Milk,0
+192,Mouse,1
+192,Nails,0
+192,Noodles,3
+192,Paint,0
+192,Phone Charger,1
+192,Power Cord,0
+192,Shrimp,2
+192,Steak,0
+192,Tape,0
+193,Bracket,0
+193,Brush,0
+193,Cereal,0
+193,Ear Buds,0
+193,Eggs,0
+193,Glue,0
+193,Keyboard,0
+193,King Crab,0
+193,Milk,0
+193,Mouse,0
+193,Nails,0
+193,Noodles,1
+193,Paint,0
+193,Phone Charger,1
+193,Power Cord,0
+193,Shrimp,1
+193,Steak,2
+193,Tape,0
+194,Bracket,0
+194,Brush,0
+194,Cereal,0
+194,Ear Buds,1
+194,Eggs,0
+194,Glue,2
+194,Keyboard,0
+194,King Crab,0
+194,Milk,0
+194,Mouse,3
+194,Nails,0
+194,Noodles,1
+194,Paint,0
+194,Phone Charger,3
+194,Power Cord,0
+194,Shrimp,0
+194,Steak,0
+194,Tape,0
+195,Bracket,0
+195,Brush,0
+195,Cereal,0
+195,Ear Buds,0
+195,Eggs,0
+195,Glue,0
+195,Keyboard,0
+195,King Crab,0
+195,Milk,0
+195,Mouse,0
+195,Nails,0
+195,Noodles,0
+195,Paint,0
+195,Phone Charger,0
+195,Power Cord,0
+195,Shrimp,0
+195,Steak,0
+195,Tape,0
+196,Bracket,0
+196,Brush,0
+196,Cereal,0
+196,Ear Buds,0
+196,Eggs,0
+196,Glue,0
+196,Keyboard,0
+196,King Crab,0
+196,Milk,0
+196,Mouse,0
+196,Nails,0
+196,Noodles,0
+196,Paint,0
+196,Phone Charger,1
+196,Power Cord,0
+196,Shrimp,0
+196,Steak,0
+196,Tape,0
+197,Bracket,0
+197,Brush,0
+197,Cereal,0
+197,Ear Buds,0
+197,Eggs,0
+197,Glue,1
+197,Keyboard,0
+197,King Crab,0
+197,Milk,0
+197,Mouse,0
+197,Nails,0
+197,Noodles,0
+197,Paint,0
+197,Phone Charger,0
+197,Power Cord,0
+197,Shrimp,0
+197,Steak,0
+197,Tape,0
+198,Bracket,0
+198,Brush,0
+198,Cereal,0
+198,Ear Buds,0
+198,Eggs,0
+198,Glue,2
+198,Keyboard,0
+198,King Crab,0
+198,Milk,0
+198,Mouse,0
+198,Nails,0
+198,Noodles,0
+198,Paint,0
+198,Phone Charger,0
+198,Power Cord,0
+198,Shrimp,0
+198,Steak,0
+198,Tape,0
+199,Bracket,0
+199,Brush,0
+199,Cereal,0
+199,Ear Buds,0
+199,Eggs,0
+199,Glue,0
+199,Keyboard,0
+199,King Crab,0
+199,Milk,0
+199,Mouse,0
+199,Nails,0
+199,Noodles,1
+199,Paint,0
+199,Phone Charger,0
+199,Power Cord,0
+199,Shrimp,0
+199,Steak,0
+199,Tape,0
+200,Bracket,0
+200,Brush,0
+200,Cereal,0
+200,Ear Buds,0
+200,Eggs,0
+200,Glue,0
+200,Keyboard,0
+200,King Crab,0
+200,Milk,0
+200,Mouse,0
+200,Nails,0
+200,Noodles,0
+200,Paint,0
+200,Phone Charger,0
+200,Power Cord,0
+200,Shrimp,0
+200,Steak,0
+200,Tape,0
+201,Bracket,0
+201,Brush,0
+201,Cereal,0
+201,Ear Buds,0
+201,Eggs,0
+201,Glue,0
+201,Keyboard,0
+201,King Crab,0
+201,Milk,0
+201,Mouse,0
+201,Nails,0
+201,Noodles,0
+201,Paint,0
+201,Phone Charger,0
+201,Power Cord,0
+201,Shrimp,0
+201,Steak,0
+201,Tape,0
+202,Bracket,0
+202,Brush,0
+202,Cereal,0
+202,Ear Buds,7
+202,Eggs,0
+202,Glue,0
+202,Keyboard,0
+202,King Crab,1
+202,Milk,0
+202,Mouse,1
+202,Nails,0
+202,Noodles,2
+202,Paint,0
+202,Phone Charger,0
+202,Power Cord,0
+202,Shrimp,2
+202,Steak,2
+202,Tape,0
+203,Bracket,0
+203,Brush,0
+203,Cereal,0
+203,Ear Buds,2
+203,Eggs,0
+203,Glue,1
+203,Keyboard,0
+203,King Crab,0
+203,Milk,0
+203,Mouse,0
+203,Nails,0
+203,Noodles,0
+203,Paint,0
+203,Phone Charger,0
+203,Power Cord,0
+203,Shrimp,2
+203,Steak,0
+203,Tape,0
+204,Bracket,0
+204,Brush,0
+204,Cereal,0
+204,Ear Buds,0
+204,Eggs,0
+204,Glue,0
+204,Keyboard,0
+204,King Crab,0
+204,Milk,0
+204,Mouse,0
+204,Nails,0
+204,Noodles,0
+204,Paint,0
+204,Phone Charger,0
+204,Power Cord,0
+204,Shrimp,0
+204,Steak,0
+204,Tape,0
+205,Bracket,0
+205,Brush,0
+205,Cereal,0
+205,Ear Buds,0
+205,Eggs,0
+205,Glue,0
+205,Keyboard,0
+205,King Crab,0
+205,Milk,0
+205,Mouse,0
+205,Nails,0
+205,Noodles,0
+205,Paint,0
+205,Phone Charger,0
+205,Power Cord,0
+205,Shrimp,1
+205,Steak,0
+205,Tape,0
+206,Bracket,0
+206,Brush,0
+206,Cereal,0
+206,Ear Buds,0
+206,Eggs,0
+206,Glue,0
+206,Keyboard,0
+206,King Crab,0
+206,Milk,0
+206,Mouse,0
+206,Nails,0
+206,Noodles,0
+206,Paint,0
+206,Phone Charger,0
+206,Power Cord,0
+206,Shrimp,0
+206,Steak,0
+206,Tape,0
+207,Bracket,0
+207,Brush,0
+207,Cereal,0
+207,Ear Buds,0
+207,Eggs,0
+207,Glue,0
+207,Keyboard,0
+207,King Crab,0
+207,Milk,0
+207,Mouse,1
+207,Nails,0
+207,Noodles,0
+207,Paint,0
+207,Phone Charger,0
+207,Power Cord,0
+207,Shrimp,1
+207,Steak,0
+207,Tape,0
+208,Bracket,0
+208,Brush,0
+208,Cereal,0
+208,Ear Buds,0
+208,Eggs,0
+208,Glue,0
+208,Keyboard,0
+208,King Crab,0
+208,Milk,0
+208,Mouse,0
+208,Nails,0
+208,Noodles,0
+208,Paint,0
+208,Phone Charger,0
+208,Power Cord,0
+208,Shrimp,0
+208,Steak,0
+208,Tape,0
+209,Bracket,0
+209,Brush,0
+209,Cereal,0
+209,Ear Buds,1
+209,Eggs,0
+209,Glue,0
+209,Keyboard,0
+209,King Crab,0
+209,Milk,0
+209,Mouse,0
+209,Nails,0
+209,Noodles,1
+209,Paint,0
+209,Phone Charger,0
+209,Power Cord,0
+209,Shrimp,1
+209,Steak,1
+209,Tape,0
+210,Bracket,0
+210,Brush,0
+210,Cereal,0
+210,Ear Buds,2
+210,Eggs,0
+210,Glue,0
+210,Keyboard,5
+210,King Crab,0
+210,Milk,0
+210,Mouse,0
+210,Nails,0
+210,Noodles,0
+210,Paint,0
+210,Phone Charger,0
+210,Power Cord,1
+210,Shrimp,0
+210,Steak,0
+210,Tape,0
+211,Bracket,0
+211,Brush,0
+211,Cereal,0
+211,Ear Buds,0
+211,Eggs,0
+211,Glue,0
+211,Keyboard,0
+211,King Crab,0
+211,Milk,0
+211,Mouse,0
+211,Nails,0
+211,Noodles,0
+211,Paint,0
+211,Phone Charger,0
+211,Power Cord,0
+211,Shrimp,0
+211,Steak,0
+211,Tape,0
+212,Bracket,0
+212,Brush,0
+212,Cereal,0
+212,Ear Buds,0
+212,Eggs,0
+212,Glue,0
+212,Keyboard,1
+212,King Crab,1
+212,Milk,0
+212,Mouse,3
+212,Nails,0
+212,Noodles,0
+212,Paint,0
+212,Phone Charger,0
+212,Power Cord,0
+212,Shrimp,1
+212,Steak,0
+212,Tape,0
+213,Bracket,0
+213,Brush,0
+213,Cereal,0
+213,Ear Buds,0
+213,Eggs,0
+213,Glue,0
+213,Keyboard,0
+213,King Crab,0
+213,Milk,0
+213,Mouse,0
+213,Nails,0
+213,Noodles,1
+213,Paint,0
+213,Phone Charger,0
+213,Power Cord,0
+213,Shrimp,0
+213,Steak,0
+213,Tape,0
+214,Bracket,0
+214,Brush,0
+214,Cereal,0
+214,Ear Buds,0
+214,Eggs,0
+214,Glue,0
+214,Keyboard,0
+214,King Crab,0
+214,Milk,0
+214,Mouse,0
+214,Nails,0
+214,Noodles,0
+214,Paint,0
+214,Phone Charger,1
+214,Power Cord,0
+214,Shrimp,1
+214,Steak,0
+214,Tape,0
+215,Bracket,0
+215,Brush,0
+215,Cereal,0
+215,Ear Buds,0
+215,Eggs,0
+215,Glue,0
+215,Keyboard,1
+215,King Crab,0
+215,Milk,0
+215,Mouse,0
+215,Nails,0
+215,Noodles,3
+215,Paint,0
+215,Phone Charger,0
+215,Power Cord,0
+215,Shrimp,0
+215,Steak,0
+215,Tape,0
+216,Bracket,0
+216,Brush,0
+216,Cereal,0
+216,Ear Buds,0
+216,Eggs,0
+216,Glue,0
+216,Keyboard,0
+216,King Crab,0
+216,Milk,0
+216,Mouse,0
+216,Nails,0
+216,Noodles,1
+216,Paint,0
+216,Phone Charger,0
+216,Power Cord,0
+216,Shrimp,0
+216,Steak,0
+216,Tape,0
+217,Bracket,0
+217,Brush,0
+217,Cereal,0
+217,Ear Buds,0
+217,Eggs,0
+217,Glue,0
+217,Keyboard,0
+217,King Crab,0
+217,Milk,0
+217,Mouse,0
+217,Nails,0
+217,Noodles,0
+217,Paint,0
+217,Phone Charger,0
+217,Power Cord,0
+217,Shrimp,0
+217,Steak,0
+217,Tape,0
+218,Bracket,0
+218,Brush,0
+218,Cereal,0
+218,Ear Buds,0
+218,Eggs,0
+218,Glue,0
+218,Keyboard,0
+218,King Crab,0
+218,Milk,0
+218,Mouse,0
+218,Nails,0
+218,Noodles,0
+218,Paint,0
+218,Phone Charger,0
+218,Power Cord,0
+218,Shrimp,0
+218,Steak,0
+218,Tape,0
+219,Bracket,0
+219,Brush,0
+219,Cereal,0
+219,Ear Buds,0
+219,Eggs,0
+219,Glue,0
+219,Keyboard,0
+219,King Crab,0
+219,Milk,0
+219,Mouse,0
+219,Nails,0
+219,Noodles,0
+219,Paint,0
+219,Phone Charger,0
+219,Power Cord,0
+219,Shrimp,2
+219,Steak,0
+219,Tape,0
+220,Bracket,0
+220,Brush,0
+220,Cereal,0
+220,Ear Buds,0
+220,Eggs,0
+220,Glue,0
+220,Keyboard,0
+220,King Crab,0
+220,Milk,0
+220,Mouse,0
+220,Nails,0
+220,Noodles,0
+220,Paint,0
+220,Phone Charger,0
+220,Power Cord,0
+220,Shrimp,0
+220,Steak,0
+220,Tape,0
+221,Bracket,0
+221,Brush,0
+221,Cereal,0
+221,Ear Buds,0
+221,Eggs,0
+221,Glue,0
+221,Keyboard,0
+221,King Crab,0
+221,Milk,0
+221,Mouse,0
+221,Nails,0
+221,Noodles,0
+221,Paint,0
+221,Phone Charger,0
+221,Power Cord,0
+221,Shrimp,0
+221,Steak,0
+221,Tape,0
+222,Bracket,0
+222,Brush,0
+222,Cereal,0
+222,Ear Buds,3
+222,Eggs,0
+222,Glue,0
+222,Keyboard,1
+222,King Crab,0
+222,Milk,0
+222,Mouse,3
+222,Nails,0
+222,Noodles,1
+222,Paint,0
+222,Phone Charger,0
+222,Power Cord,0
+222,Shrimp,1
+222,Steak,0
+222,Tape,0
+223,Bracket,0
+223,Brush,0
+223,Cereal,0
+223,Ear Buds,0
+223,Eggs,0
+223,Glue,0
+223,Keyboard,0
+223,King Crab,0
+223,Milk,0
+223,Mouse,0
+223,Nails,0
+223,Noodles,0
+223,Paint,0
+223,Phone Charger,0
+223,Power Cord,0
+223,Shrimp,0
+223,Steak,0
+223,Tape,0
+224,Bracket,0
+224,Brush,0
+224,Cereal,0
+224,Ear Buds,0
+224,Eggs,0
+224,Glue,0
+224,Keyboard,0
+224,King Crab,0
+224,Milk,0
+224,Mouse,0
+224,Nails,0
+224,Noodles,0
+224,Paint,0
+224,Phone Charger,0
+224,Power Cord,0
+224,Shrimp,0
+224,Steak,0
+224,Tape,0
+225,Bracket,0
+225,Brush,0
+225,Cereal,0
+225,Ear Buds,1
+225,Eggs,0
+225,Glue,0
+225,Keyboard,0
+225,King Crab,1
+225,Milk,0
+225,Mouse,0
+225,Nails,0
+225,Noodles,0
+225,Paint,0
+225,Phone Charger,1
+225,Power Cord,0
+225,Shrimp,0
+225,Steak,0
+225,Tape,0
+226,Bracket,0
+226,Brush,0
+226,Cereal,0
+226,Ear Buds,0
+226,Eggs,0
+226,Glue,0
+226,Keyboard,0
+226,King Crab,0
+226,Milk,0
+226,Mouse,0
+226,Nails,0
+226,Noodles,0
+226,Paint,0
+226,Phone Charger,0
+226,Power Cord,0
+226,Shrimp,0
+226,Steak,0
+226,Tape,0
+227,Bracket,0
+227,Brush,0
+227,Cereal,0
+227,Ear Buds,0
+227,Eggs,0
+227,Glue,0
+227,Keyboard,0
+227,King Crab,0
+227,Milk,0
+227,Mouse,0
+227,Nails,0
+227,Noodles,0
+227,Paint,0
+227,Phone Charger,0
+227,Power Cord,0
+227,Shrimp,0
+227,Steak,0
+227,Tape,0
+228,Bracket,0
+228,Brush,0
+228,Cereal,0
+228,Ear Buds,0
+228,Eggs,0
+228,Glue,0
+228,Keyboard,0
+228,King Crab,0
+228,Milk,0
+228,Mouse,0
+228,Nails,0
+228,Noodles,0
+228,Paint,0
+228,Phone Charger,0
+228,Power Cord,0
+228,Shrimp,0
+228,Steak,0
+228,Tape,0
+229,Bracket,0
+229,Brush,0
+229,Cereal,0
+229,Ear Buds,1
+229,Eggs,0
+229,Glue,0
+229,Keyboard,1
+229,King Crab,0
+229,Milk,0
+229,Mouse,0
+229,Nails,0
+229,Noodles,0
+229,Paint,1
+229,Phone Charger,0
+229,Power Cord,0
+229,Shrimp,1
+229,Steak,1
+229,Tape,0
+230,Bracket,0
+230,Brush,0
+230,Cereal,0
+230,Ear Buds,2
+230,Eggs,0
+230,Glue,0
+230,Keyboard,1
+230,King Crab,0
+230,Milk,0
+230,Mouse,0
+230,Nails,0
+230,Noodles,0
+230,Paint,0
+230,Phone Charger,1
+230,Power Cord,0
+230,Shrimp,0
+230,Steak,0
+230,Tape,0
+231,Bracket,0
+231,Brush,0
+231,Cereal,0
+231,Ear Buds,1
+231,Eggs,0
+231,Glue,0
+231,Keyboard,1
+231,King Crab,0
+231,Milk,0
+231,Mouse,0
+231,Nails,0
+231,Noodles,0
+231,Paint,0
+231,Phone Charger,0
+231,Power Cord,0
+231,Shrimp,0
+231,Steak,0
+231,Tape,0
+232,Bracket,0
+232,Brush,1
+232,Cereal,0
+232,Ear Buds,0
+232,Eggs,0
+232,Glue,0
+232,Keyboard,0
+232,King Crab,0
+232,Milk,0
+232,Mouse,0
+232,Nails,0
+232,Noodles,0
+232,Paint,0
+232,Phone Charger,0
+232,Power Cord,0
+232,Shrimp,0
+232,Steak,0
+232,Tape,0
+233,Bracket,0
+233,Brush,0
+233,Cereal,0
+233,Ear Buds,0
+233,Eggs,0
+233,Glue,0
+233,Keyboard,0
+233,King Crab,0
+233,Milk,0
+233,Mouse,0
+233,Nails,0
+233,Noodles,0
+233,Paint,0
+233,Phone Charger,0
+233,Power Cord,0
+233,Shrimp,0
+233,Steak,0
+233,Tape,0
+234,Bracket,0
+234,Brush,0
+234,Cereal,0
+234,Ear Buds,0
+234,Eggs,0
+234,Glue,0
+234,Keyboard,0
+234,King Crab,0
+234,Milk,0
+234,Mouse,0
+234,Nails,0
+234,Noodles,0
+234,Paint,1
+234,Phone Charger,0
+234,Power Cord,0
+234,Shrimp,1
+234,Steak,0
+234,Tape,0
+235,Bracket,0
+235,Brush,0
+235,Cereal,0
+235,Ear Buds,0
+235,Eggs,0
+235,Glue,0
+235,Keyboard,0
+235,King Crab,0
+235,Milk,0
+235,Mouse,1
+235,Nails,0
+235,Noodles,0
+235,Paint,0
+235,Phone Charger,0
+235,Power Cord,0
+235,Shrimp,0
+235,Steak,0
+235,Tape,0
+236,Bracket,0
+236,Brush,0
+236,Cereal,0
+236,Ear Buds,1
+236,Eggs,0
+236,Glue,0
+236,Keyboard,0
+236,King Crab,0
+236,Milk,0
+236,Mouse,1
+236,Nails,0
+236,Noodles,0
+236,Paint,0
+236,Phone Charger,0
+236,Power Cord,0
+236,Shrimp,0
+236,Steak,0
+236,Tape,0
+237,Bracket,0
+237,Brush,0
+237,Cereal,0
+237,Ear Buds,0
+237,Eggs,0
+237,Glue,0
+237,Keyboard,1
+237,King Crab,0
+237,Milk,0
+237,Mouse,0
+237,Nails,0
+237,Noodles,0
+237,Paint,0
+237,Phone Charger,0
+237,Power Cord,0
+237,Shrimp,1
+237,Steak,0
+237,Tape,0
+238,Bracket,0
+238,Brush,0
+238,Cereal,0
+238,Ear Buds,0
+238,Eggs,0
+238,Glue,0
+238,Keyboard,1
+238,King Crab,0
+238,Milk,0
+238,Mouse,0
+238,Nails,0
+238,Noodles,0
+238,Paint,0
+238,Phone Charger,0
+238,Power Cord,0
+238,Shrimp,0
+238,Steak,0
+238,Tape,0
+239,Bracket,0
+239,Brush,0
+239,Cereal,0
+239,Ear Buds,0
+239,Eggs,0
+239,Glue,0
+239,Keyboard,0
+239,King Crab,0
+239,Milk,0
+239,Mouse,0
+239,Nails,0
+239,Noodles,0
+239,Paint,0
+239,Phone Charger,2
+239,Power Cord,0
+239,Shrimp,0
+239,Steak,0
+239,Tape,0
+240,Bracket,0
+240,Brush,0
+240,Cereal,0
+240,Ear Buds,5
+240,Eggs,0
+240,Glue,0
+240,Keyboard,5
+240,King Crab,1
+240,Milk,0
+240,Mouse,1
+240,Nails,0
+240,Noodles,3
+240,Paint,0
+240,Phone Charger,0
+240,Power Cord,0
+240,Shrimp,2
+240,Steak,1
+240,Tape,0
+241,Bracket,0
+241,Brush,0
+241,Cereal,0
+241,Ear Buds,0
+241,Eggs,0
+241,Glue,0
+241,Keyboard,0
+241,King Crab,0
+241,Milk,0
+241,Mouse,0
+241,Nails,0
+241,Noodles,0
+241,Paint,0
+241,Phone Charger,0
+241,Power Cord,0
+241,Shrimp,3
+241,Steak,1
+241,Tape,0
+242,Bracket,0
+242,Brush,0
+242,Cereal,0
+242,Ear Buds,0
+242,Eggs,0
+242,Glue,0
+242,Keyboard,0
+242,King Crab,0
+242,Milk,0
+242,Mouse,0
+242,Nails,0
+242,Noodles,0
+242,Paint,0
+242,Phone Charger,0
+242,Power Cord,0
+242,Shrimp,0
+242,Steak,0
+242,Tape,0
+243,Bracket,0
+243,Brush,0
+243,Cereal,0
+243,Ear Buds,0
+243,Eggs,0
+243,Glue,0
+243,Keyboard,0
+243,King Crab,0
+243,Milk,0
+243,Mouse,0
+243,Nails,0
+243,Noodles,0
+243,Paint,0
+243,Phone Charger,1
+243,Power Cord,0
+243,Shrimp,1
+243,Steak,0
+243,Tape,0
+244,Bracket,0
+244,Brush,0
+244,Cereal,0
+244,Ear Buds,0
+244,Eggs,0
+244,Glue,0
+244,Keyboard,0
+244,King Crab,0
+244,Milk,0
+244,Mouse,0
+244,Nails,0
+244,Noodles,0
+244,Paint,0
+244,Phone Charger,3
+244,Power Cord,0
+244,Shrimp,0
+244,Steak,0
+244,Tape,0
+245,Bracket,0
+245,Brush,0
+245,Cereal,0
+245,Ear Buds,0
+245,Eggs,0
+245,Glue,0
+245,Keyboard,0
+245,King Crab,1
+245,Milk,0
+245,Mouse,1
+245,Nails,0
+245,Noodles,0
+245,Paint,0
+245,Phone Charger,1
+245,Power Cord,0
+245,Shrimp,2
+245,Steak,0
+245,Tape,0
+246,Bracket,0
+246,Brush,0
+246,Cereal,0
+246,Ear Buds,1
+246,Eggs,0
+246,Glue,0
+246,Keyboard,1
+246,King Crab,0
+246,Milk,0
+246,Mouse,0
+246,Nails,0
+246,Noodles,0
+246,Paint,0
+246,Phone Charger,0
+246,Power Cord,0
+246,Shrimp,1
+246,Steak,2
+246,Tape,0
+247,Bracket,0
+247,Brush,0
+247,Cereal,0
+247,Ear Buds,0
+247,Eggs,0
+247,Glue,0
+247,Keyboard,1
+247,King Crab,0
+247,Milk,0
+247,Mouse,0
+247,Nails,0
+247,Noodles,0
+247,Paint,0
+247,Phone Charger,0
+247,Power Cord,0
+247,Shrimp,1
+247,Steak,0
+247,Tape,0
+248,Bracket,0
+248,Brush,0
+248,Cereal,0
+248,Ear Buds,0
+248,Eggs,0
+248,Glue,0
+248,Keyboard,0
+248,King Crab,0
+248,Milk,0
+248,Mouse,0
+248,Nails,0
+248,Noodles,0
+248,Paint,0
+248,Phone Charger,0
+248,Power Cord,0
+248,Shrimp,0
+248,Steak,0
+248,Tape,0
+249,Bracket,0
+249,Brush,0
+249,Cereal,0
+249,Ear Buds,0
+249,Eggs,0
+249,Glue,0
+249,Keyboard,0
+249,King Crab,0
+249,Milk,0
+249,Mouse,0
+249,Nails,0
+249,Noodles,0
+249,Paint,0
+249,Phone Charger,0
+249,Power Cord,0
+249,Shrimp,1
+249,Steak,0
+249,Tape,0
+250,Bracket,0
+250,Brush,0
+250,Cereal,0
+250,Ear Buds,0
+250,Eggs,0
+250,Glue,0
+250,Keyboard,0
+250,King Crab,0
+250,Milk,0
+250,Mouse,0
+250,Nails,0
+250,Noodles,0
+250,Paint,0
+250,Phone Charger,0
+250,Power Cord,0
+250,Shrimp,0
+250,Steak,0
+250,Tape,0
+251,Bracket,0
+251,Brush,0
+251,Cereal,0
+251,Ear Buds,1
+251,Eggs,0
+251,Glue,1
+251,Keyboard,0
+251,King Crab,0
+251,Milk,0
+251,Mouse,0
+251,Nails,0
+251,Noodles,0
+251,Paint,2
+251,Phone Charger,0
+251,Power Cord,0
+251,Shrimp,1
+251,Steak,0
+251,Tape,0
+252,Bracket,0
+252,Brush,0
+252,Cereal,0
+252,Ear Buds,0
+252,Eggs,0
+252,Glue,0
+252,Keyboard,0
+252,King Crab,0
+252,Milk,0
+252,Mouse,0
+252,Nails,0
+252,Noodles,0
+252,Paint,0
+252,Phone Charger,0
+252,Power Cord,0
+252,Shrimp,0
+252,Steak,0
+252,Tape,0
+253,Bracket,0
+253,Brush,0
+253,Cereal,0
+253,Ear Buds,0
+253,Eggs,0
+253,Glue,0
+253,Keyboard,2
+253,King Crab,0
+253,Milk,0
+253,Mouse,0
+253,Nails,0
+253,Noodles,1
+253,Paint,0
+253,Phone Charger,0
+253,Power Cord,0
+253,Shrimp,0
+253,Steak,0
+253,Tape,0
+254,Bracket,0
+254,Brush,0
+254,Cereal,0
+254,Ear Buds,1
+254,Eggs,0
+254,Glue,0
+254,Keyboard,0
+254,King Crab,0
+254,Milk,0
+254,Mouse,0
+254,Nails,0
+254,Noodles,0
+254,Paint,0
+254,Phone Charger,0
+254,Power Cord,0
+254,Shrimp,0
+254,Steak,1
+254,Tape,0
+255,Bracket,0
+255,Brush,0
+255,Cereal,0
+255,Ear Buds,6
+255,Eggs,0
+255,Glue,0
+255,Keyboard,1
+255,King Crab,0
+255,Milk,0
+255,Mouse,0
+255,Nails,0
+255,Noodles,0
+255,Paint,0
+255,Phone Charger,1
+255,Power Cord,0
+255,Shrimp,3
+255,Steak,0
+255,Tape,0
+256,Bracket,0
+256,Brush,0
+256,Cereal,0
+256,Ear Buds,0
+256,Eggs,0
+256,Glue,0
+256,Keyboard,0
+256,King Crab,0
+256,Milk,0
+256,Mouse,0
+256,Nails,0
+256,Noodles,0
+256,Paint,0
+256,Phone Charger,0
+256,Power Cord,0
+256,Shrimp,0
+256,Steak,0
+256,Tape,0
+257,Bracket,0
+257,Brush,0
+257,Cereal,0
+257,Ear Buds,0
+257,Eggs,0
+257,Glue,0
+257,Keyboard,0
+257,King Crab,0
+257,Milk,0
+257,Mouse,0
+257,Nails,0
+257,Noodles,0
+257,Paint,0
+257,Phone Charger,1
+257,Power Cord,0
+257,Shrimp,0
+257,Steak,1
+257,Tape,0
+258,Bracket,0
+258,Brush,0
+258,Cereal,0
+258,Ear Buds,0
+258,Eggs,0
+258,Glue,0
+258,Keyboard,0
+258,King Crab,0
+258,Milk,0
+258,Mouse,0
+258,Nails,0
+258,Noodles,0
+258,Paint,0
+258,Phone Charger,0
+258,Power Cord,0
+258,Shrimp,0
+258,Steak,0
+258,Tape,0
+259,Bracket,0
+259,Brush,0
+259,Cereal,0
+259,Ear Buds,0
+259,Eggs,0
+259,Glue,0
+259,Keyboard,0
+259,King Crab,0
+259,Milk,0
+259,Mouse,0
+259,Nails,0
+259,Noodles,0
+259,Paint,0
+259,Phone Charger,0
+259,Power Cord,0
+259,Shrimp,0
+259,Steak,0
+259,Tape,0
+260,Bracket,0
+260,Brush,0
+260,Cereal,0
+260,Ear Buds,0
+260,Eggs,0
+260,Glue,0
+260,Keyboard,0
+260,King Crab,0
+260,Milk,0
+260,Mouse,0
+260,Nails,0
+260,Noodles,0
+260,Paint,0
+260,Phone Charger,0
+260,Power Cord,0
+260,Shrimp,0
+260,Steak,0
+260,Tape,0
+261,Bracket,0
+261,Brush,0
+261,Cereal,0
+261,Ear Buds,0
+261,Eggs,0
+261,Glue,0
+261,Keyboard,0
+261,King Crab,0
+261,Milk,0
+261,Mouse,0
+261,Nails,0
+261,Noodles,0
+261,Paint,0
+261,Phone Charger,0
+261,Power Cord,0
+261,Shrimp,0
+261,Steak,1
+261,Tape,0
+262,Bracket,0
+262,Brush,0
+262,Cereal,0
+262,Ear Buds,0
+262,Eggs,0
+262,Glue,0
+262,Keyboard,0
+262,King Crab,0
+262,Milk,0
+262,Mouse,0
+262,Nails,0
+262,Noodles,0
+262,Paint,0
+262,Phone Charger,0
+262,Power Cord,0
+262,Shrimp,0
+262,Steak,0
+262,Tape,0
+263,Bracket,0
+263,Brush,0
+263,Cereal,0
+263,Ear Buds,0
+263,Eggs,0
+263,Glue,0
+263,Keyboard,0
+263,King Crab,0
+263,Milk,0
+263,Mouse,0
+263,Nails,0
+263,Noodles,0
+263,Paint,0
+263,Phone Charger,0
+263,Power Cord,0
+263,Shrimp,0
+263,Steak,0
+263,Tape,0
+264,Bracket,0
+264,Brush,0
+264,Cereal,0
+264,Ear Buds,0
+264,Eggs,0
+264,Glue,0
+264,Keyboard,0
+264,King Crab,0
+264,Milk,0
+264,Mouse,0
+264,Nails,0
+264,Noodles,0
+264,Paint,0
+264,Phone Charger,0
+264,Power Cord,0
+264,Shrimp,0
+264,Steak,0
+264,Tape,0
+265,Bracket,0
+265,Brush,0
+265,Cereal,0
+265,Ear Buds,0
+265,Eggs,0
+265,Glue,0
+265,Keyboard,0
+265,King Crab,0
+265,Milk,0
+265,Mouse,0
+265,Nails,0
+265,Noodles,0
+265,Paint,0
+265,Phone Charger,0
+265,Power Cord,0
+265,Shrimp,0
+265,Steak,0
+265,Tape,0
+266,Bracket,0
+266,Brush,0
+266,Cereal,0
+266,Ear Buds,0
+266,Eggs,0
+266,Glue,0
+266,Keyboard,0
+266,King Crab,0
+266,Milk,0
+266,Mouse,0
+266,Nails,0
+266,Noodles,0
+266,Paint,0
+266,Phone Charger,0
+266,Power Cord,0
+266,Shrimp,1
+266,Steak,0
+266,Tape,0
+267,Bracket,0
+267,Brush,0
+267,Cereal,0
+267,Ear Buds,0
+267,Eggs,0
+267,Glue,0
+267,Keyboard,0
+267,King Crab,0
+267,Milk,0
+267,Mouse,0
+267,Nails,0
+267,Noodles,0
+267,Paint,0
+267,Phone Charger,0
+267,Power Cord,0
+267,Shrimp,0
+267,Steak,0
+267,Tape,0
+268,Bracket,0
+268,Brush,0
+268,Cereal,0
+268,Ear Buds,0
+268,Eggs,0
+268,Glue,0
+268,Keyboard,0
+268,King Crab,0
+268,Milk,0
+268,Mouse,0
+268,Nails,0
+268,Noodles,0
+268,Paint,0
+268,Phone Charger,1
+268,Power Cord,0
+268,Shrimp,2
+268,Steak,1
+268,Tape,0
+269,Bracket,0
+269,Brush,1
+269,Cereal,0
+269,Ear Buds,9
+269,Eggs,0
+269,Glue,0
+269,Keyboard,1
+269,King Crab,0
+269,Milk,0
+269,Mouse,2
+269,Nails,0
+269,Noodles,0
+269,Paint,0
+269,Phone Charger,0
+269,Power Cord,0
+269,Shrimp,2
+269,Steak,0
+269,Tape,0
+270,Bracket,0
+270,Brush,0
+270,Cereal,0
+270,Ear Buds,1
+270,Eggs,0
+270,Glue,0
+270,Keyboard,0
+270,King Crab,0
+270,Milk,0
+270,Mouse,0
+270,Nails,0
+270,Noodles,0
+270,Paint,0
+270,Phone Charger,0
+270,Power Cord,0
+270,Shrimp,0
+270,Steak,0
+270,Tape,0
+271,Bracket,0
+271,Brush,0
+271,Cereal,0
+271,Ear Buds,0
+271,Eggs,0
+271,Glue,0
+271,Keyboard,0
+271,King Crab,1
+271,Milk,0
+271,Mouse,1
+271,Nails,0
+271,Noodles,1
+271,Paint,0
+271,Phone Charger,0
+271,Power Cord,1
+271,Shrimp,0
+271,Steak,2
+271,Tape,0
+272,Bracket,0
+272,Brush,0
+272,Cereal,0
+272,Ear Buds,0
+272,Eggs,0
+272,Glue,0
+272,Keyboard,1
+272,King Crab,0
+272,Milk,0
+272,Mouse,0
+272,Nails,0
+272,Noodles,0
+272,Paint,0
+272,Phone Charger,0
+272,Power Cord,0
+272,Shrimp,2
+272,Steak,0
+272,Tape,0
+273,Bracket,0
+273,Brush,0
+273,Cereal,0
+273,Ear Buds,0
+273,Eggs,0
+273,Glue,0
+273,Keyboard,0
+273,King Crab,0
+273,Milk,0
+273,Mouse,0
+273,Nails,0
+273,Noodles,0
+273,Paint,0
+273,Phone Charger,0
+273,Power Cord,0
+273,Shrimp,0
+273,Steak,0
+273,Tape,0
+274,Bracket,0
+274,Brush,0
+274,Cereal,0
+274,Ear Buds,0
+274,Eggs,0
+274,Glue,0
+274,Keyboard,0
+274,King Crab,0
+274,Milk,0
+274,Mouse,0
+274,Nails,0
+274,Noodles,0
+274,Paint,0
+274,Phone Charger,0
+274,Power Cord,0
+274,Shrimp,0
+274,Steak,0
+274,Tape,0
+275,Bracket,0
+275,Brush,0
+275,Cereal,0
+275,Ear Buds,0
+275,Eggs,0
+275,Glue,0
+275,Keyboard,0
+275,King Crab,0
+275,Milk,0
+275,Mouse,0
+275,Nails,0
+275,Noodles,0
+275,Paint,0
+275,Phone Charger,0
+275,Power Cord,0
+275,Shrimp,0
+275,Steak,0
+275,Tape,0
+276,Bracket,0
+276,Brush,0
+276,Cereal,0
+276,Ear Buds,0
+276,Eggs,0
+276,Glue,0
+276,Keyboard,0
+276,King Crab,0
+276,Milk,0
+276,Mouse,0
+276,Nails,0
+276,Noodles,0
+276,Paint,0
+276,Phone Charger,0
+276,Power Cord,0
+276,Shrimp,0
+276,Steak,0
+276,Tape,0
+277,Bracket,0
+277,Brush,0
+277,Cereal,0
+277,Ear Buds,0
+277,Eggs,0
+277,Glue,0
+277,Keyboard,0
+277,King Crab,0
+277,Milk,0
+277,Mouse,0
+277,Nails,0
+277,Noodles,0
+277,Paint,0
+277,Phone Charger,0
+277,Power Cord,0
+277,Shrimp,0
+277,Steak,0
+277,Tape,0
+278,Bracket,0
+278,Brush,0
+278,Cereal,0
+278,Ear Buds,0
+278,Eggs,0
+278,Glue,0
+278,Keyboard,0
+278,King Crab,0
+278,Milk,0
+278,Mouse,0
+278,Nails,0
+278,Noodles,0
+278,Paint,0
+278,Phone Charger,1
+278,Power Cord,0
+278,Shrimp,0
+278,Steak,1
+278,Tape,0
+279,Bracket,0
+279,Brush,0
+279,Cereal,0
+279,Ear Buds,0
+279,Eggs,0
+279,Glue,0
+279,Keyboard,0
+279,King Crab,0
+279,Milk,0
+279,Mouse,1
+279,Nails,0
+279,Noodles,0
+279,Paint,0
+279,Phone Charger,0
+279,Power Cord,0
+279,Shrimp,0
+279,Steak,0
+279,Tape,0
+280,Bracket,0
+280,Brush,0
+280,Cereal,0
+280,Ear Buds,0
+280,Eggs,0
+280,Glue,0
+280,Keyboard,0
+280,King Crab,0
+280,Milk,0
+280,Mouse,0
+280,Nails,0
+280,Noodles,0
+280,Paint,0
+280,Phone Charger,0
+280,Power Cord,0
+280,Shrimp,0
+280,Steak,0
+280,Tape,0
+281,Bracket,0
+281,Brush,0
+281,Cereal,0
+281,Ear Buds,0
+281,Eggs,0
+281,Glue,0
+281,Keyboard,2
+281,King Crab,0
+281,Milk,0
+281,Mouse,0
+281,Nails,0
+281,Noodles,1
+281,Paint,0
+281,Phone Charger,0
+281,Power Cord,0
+281,Shrimp,0
+281,Steak,1
+281,Tape,0
+282,Bracket,0
+282,Brush,0
+282,Cereal,0
+282,Ear Buds,0
+282,Eggs,0
+282,Glue,0
+282,Keyboard,0
+282,King Crab,0
+282,Milk,0
+282,Mouse,0
+282,Nails,0
+282,Noodles,1
+282,Paint,0
+282,Phone Charger,0
+282,Power Cord,0
+282,Shrimp,2
+282,Steak,0
+282,Tape,0
+283,Bracket,0
+283,Brush,0
+283,Cereal,0
+283,Ear Buds,0
+283,Eggs,0
+283,Glue,0
+283,Keyboard,0
+283,King Crab,0
+283,Milk,0
+283,Mouse,0
+283,Nails,0
+283,Noodles,0
+283,Paint,0
+283,Phone Charger,1
+283,Power Cord,0
+283,Shrimp,0
+283,Steak,0
+283,Tape,0
+284,Bracket,0
+284,Brush,0
+284,Cereal,0
+284,Ear Buds,0
+284,Eggs,0
+284,Glue,0
+284,Keyboard,1
+284,King Crab,0
+284,Milk,0
+284,Mouse,1
+284,Nails,0
+284,Noodles,0
+284,Paint,0
+284,Phone Charger,0
+284,Power Cord,0
+284,Shrimp,0
+284,Steak,0
+284,Tape,0
+285,Bracket,0
+285,Brush,0
+285,Cereal,0
+285,Ear Buds,0
+285,Eggs,0
+285,Glue,1
+285,Keyboard,0
+285,King Crab,0
+285,Milk,0
+285,Mouse,0
+285,Nails,0
+285,Noodles,1
+285,Paint,0
+285,Phone Charger,0
+285,Power Cord,0
+285,Shrimp,0
+285,Steak,0
+285,Tape,0
+286,Bracket,0
+286,Brush,0
+286,Cereal,0
+286,Ear Buds,0
+286,Eggs,0
+286,Glue,0
+286,Keyboard,1
+286,King Crab,0
+286,Milk,0
+286,Mouse,1
+286,Nails,0
+286,Noodles,1
+286,Paint,0
+286,Phone Charger,0
+286,Power Cord,1
+286,Shrimp,0
+286,Steak,1
+286,Tape,0
+287,Bracket,0
+287,Brush,0
+287,Cereal,0
+287,Ear Buds,0
+287,Eggs,0
+287,Glue,0
+287,Keyboard,0
+287,King Crab,1
+287,Milk,0
+287,Mouse,0
+287,Nails,0
+287,Noodles,0
+287,Paint,0
+287,Phone Charger,0
+287,Power Cord,0
+287,Shrimp,0
+287,Steak,0
+287,Tape,0
+288,Bracket,0
+288,Brush,0
+288,Cereal,0
+288,Ear Buds,0
+288,Eggs,0
+288,Glue,0
+288,Keyboard,0
+288,King Crab,0
+288,Milk,0
+288,Mouse,0
+288,Nails,0
+288,Noodles,0
+288,Paint,0
+288,Phone Charger,0
+288,Power Cord,0
+288,Shrimp,0
+288,Steak,0
+288,Tape,0
+289,Bracket,0
+289,Brush,0
+289,Cereal,0
+289,Ear Buds,0
+289,Eggs,0
+289,Glue,0
+289,Keyboard,1
+289,King Crab,0
+289,Milk,0
+289,Mouse,0
+289,Nails,0
+289,Noodles,1
+289,Paint,0
+289,Phone Charger,0
+289,Power Cord,0
+289,Shrimp,0
+289,Steak,1
+289,Tape,0
+290,Bracket,0
+290,Brush,0
+290,Cereal,0
+290,Ear Buds,0
+290,Eggs,0
+290,Glue,0
+290,Keyboard,0
+290,King Crab,0
+290,Milk,0
+290,Mouse,0
+290,Nails,0
+290,Noodles,2
+290,Paint,0
+290,Phone Charger,0
+290,Power Cord,0
+290,Shrimp,0
+290,Steak,0
+290,Tape,0
+291,Bracket,0
+291,Brush,0
+291,Cereal,0
+291,Ear Buds,0
+291,Eggs,0
+291,Glue,0
+291,Keyboard,0
+291,King Crab,0
+291,Milk,0
+291,Mouse,0
+291,Nails,0
+291,Noodles,0
+291,Paint,0
+291,Phone Charger,0
+291,Power Cord,0
+291,Shrimp,0
+291,Steak,0
+291,Tape,0
+292,Bracket,0
+292,Brush,0
+292,Cereal,0
+292,Ear Buds,0
+292,Eggs,0
+292,Glue,0
+292,Keyboard,0
+292,King Crab,0
+292,Milk,0
+292,Mouse,0
+292,Nails,0
+292,Noodles,0
+292,Paint,0
+292,Phone Charger,0
+292,Power Cord,0
+292,Shrimp,0
+292,Steak,0
+292,Tape,0
+293,Bracket,0
+293,Brush,0
+293,Cereal,0
+293,Ear Buds,0
+293,Eggs,0
+293,Glue,0
+293,Keyboard,0
+293,King Crab,0
+293,Milk,0
+293,Mouse,0
+293,Nails,0
+293,Noodles,1
+293,Paint,0
+293,Phone Charger,0
+293,Power Cord,0
+293,Shrimp,2
+293,Steak,0
+293,Tape,0
+294,Bracket,0
+294,Brush,0
+294,Cereal,0
+294,Ear Buds,0
+294,Eggs,0
+294,Glue,0
+294,Keyboard,0
+294,King Crab,0
+294,Milk,0
+294,Mouse,0
+294,Nails,0
+294,Noodles,0
+294,Paint,0
+294,Phone Charger,0
+294,Power Cord,0
+294,Shrimp,0
+294,Steak,0
+294,Tape,0
+295,Bracket,0
+295,Brush,0
+295,Cereal,0
+295,Ear Buds,0
+295,Eggs,0
+295,Glue,0
+295,Keyboard,0
+295,King Crab,0
+295,Milk,0
+295,Mouse,0
+295,Nails,0
+295,Noodles,0
+295,Paint,0
+295,Phone Charger,0
+295,Power Cord,0
+295,Shrimp,0
+295,Steak,0
+295,Tape,0
+296,Bracket,0
+296,Brush,0
+296,Cereal,0
+296,Ear Buds,4
+296,Eggs,0
+296,Glue,0
+296,Keyboard,0
+296,King Crab,0
+296,Milk,0
+296,Mouse,0
+296,Nails,0
+296,Noodles,0
+296,Paint,0
+296,Phone Charger,1
+296,Power Cord,0
+296,Shrimp,0
+296,Steak,1
+296,Tape,0
+297,Bracket,0
+297,Brush,0
+297,Cereal,0
+297,Ear Buds,0
+297,Eggs,0
+297,Glue,2
+297,Keyboard,0
+297,King Crab,0
+297,Milk,0
+297,Mouse,0
+297,Nails,0
+297,Noodles,0
+297,Paint,0
+297,Phone Charger,0
+297,Power Cord,0
+297,Shrimp,0
+297,Steak,0
+297,Tape,0
+298,Bracket,0
+298,Brush,0
+298,Cereal,0
+298,Ear Buds,0
+298,Eggs,0
+298,Glue,0
+298,Keyboard,0
+298,King Crab,0
+298,Milk,0
+298,Mouse,0
+298,Nails,0
+298,Noodles,0
+298,Paint,0
+298,Phone Charger,0
+298,Power Cord,0
+298,Shrimp,0
+298,Steak,0
+298,Tape,0
+299,Bracket,0
+299,Brush,1
+299,Cereal,0
+299,Ear Buds,1
+299,Eggs,0
+299,Glue,0
+299,Keyboard,1
+299,King Crab,0
+299,Milk,0
+299,Mouse,0
+299,Nails,0
+299,Noodles,0
+299,Paint,0
+299,Phone Charger,0
+299,Power Cord,0
+299,Shrimp,1
+299,Steak,0
+299,Tape,0
+300,Bracket,0
+300,Brush,0
+300,Cereal,0
+300,Ear Buds,0
+300,Eggs,0
+300,Glue,0
+300,Keyboard,0
+300,King Crab,0
+300,Milk,0
+300,Mouse,0
+300,Nails,0
+300,Noodles,0
+300,Paint,0
+300,Phone Charger,0
+300,Power Cord,0
+300,Shrimp,0
+300,Steak,0
+300,Tape,0
+301,Bracket,0
+301,Brush,0
+301,Cereal,0
+301,Ear Buds,0
+301,Eggs,0
+301,Glue,1
+301,Keyboard,0
+301,King Crab,0
+301,Milk,0
+301,Mouse,0
+301,Nails,0
+301,Noodles,0
+301,Paint,0
+301,Phone Charger,4
+301,Power Cord,2
+301,Shrimp,5
+301,Steak,0
+301,Tape,0
+302,Bracket,0
+302,Brush,0
+302,Cereal,0
+302,Ear Buds,0
+302,Eggs,0
+302,Glue,0
+302,Keyboard,0
+302,King Crab,0
+302,Milk,0
+302,Mouse,0
+302,Nails,0
+302,Noodles,0
+302,Paint,0
+302,Phone Charger,0
+302,Power Cord,0
+302,Shrimp,0
+302,Steak,0
+302,Tape,0
+303,Bracket,0
+303,Brush,0
+303,Cereal,0
+303,Ear Buds,9
+303,Eggs,0
+303,Glue,0
+303,Keyboard,1
+303,King Crab,1
+303,Milk,0
+303,Mouse,2
+303,Nails,0
+303,Noodles,0
+303,Paint,0
+303,Phone Charger,0
+303,Power Cord,1
+303,Shrimp,1
+303,Steak,1
+303,Tape,0
+304,Bracket,0
+304,Brush,0
+304,Cereal,0
+304,Ear Buds,3
+304,Eggs,0
+304,Glue,0
+304,Keyboard,1
+304,King Crab,0
+304,Milk,0
+304,Mouse,0
+304,Nails,0
+304,Noodles,0
+304,Paint,0
+304,Phone Charger,0
+304,Power Cord,0
+304,Shrimp,0
+304,Steak,0
+304,Tape,0
+305,Bracket,0
+305,Brush,0
+305,Cereal,0
+305,Ear Buds,0
+305,Eggs,0
+305,Glue,0
+305,Keyboard,0
+305,King Crab,0
+305,Milk,0
+305,Mouse,0
+305,Nails,0
+305,Noodles,0
+305,Paint,0
+305,Phone Charger,0
+305,Power Cord,0
+305,Shrimp,0
+305,Steak,0
+305,Tape,0
+306,Bracket,0
+306,Brush,0
+306,Cereal,0
+306,Ear Buds,1
+306,Eggs,0
+306,Glue,0
+306,Keyboard,0
+306,King Crab,0
+306,Milk,0
+306,Mouse,0
+306,Nails,0
+306,Noodles,1
+306,Paint,0
+306,Phone Charger,0
+306,Power Cord,0
+306,Shrimp,0
+306,Steak,0
+306,Tape,0
+307,Bracket,0
+307,Brush,0
+307,Cereal,0
+307,Ear Buds,0
+307,Eggs,0
+307,Glue,0
+307,Keyboard,0
+307,King Crab,0
+307,Milk,0
+307,Mouse,0
+307,Nails,0
+307,Noodles,0
+307,Paint,0
+307,Phone Charger,0
+307,Power Cord,0
+307,Shrimp,0
+307,Steak,0
+307,Tape,0
+308,Bracket,0
+308,Brush,0
+308,Cereal,0
+308,Ear Buds,0
+308,Eggs,0
+308,Glue,0
+308,Keyboard,1
+308,King Crab,0
+308,Milk,0
+308,Mouse,0
+308,Nails,0
+308,Noodles,0
+308,Paint,0
+308,Phone Charger,3
+308,Power Cord,0
+308,Shrimp,0
+308,Steak,0
+308,Tape,0
+309,Bracket,0
+309,Brush,0
+309,Cereal,0
+309,Ear Buds,1
+309,Eggs,0
+309,Glue,0
+309,Keyboard,1
+309,King Crab,0
+309,Milk,0
+309,Mouse,1
+309,Nails,0
+309,Noodles,1
+309,Paint,0
+309,Phone Charger,1
+309,Power Cord,0
+309,Shrimp,0
+309,Steak,0
+309,Tape,0
+310,Bracket,0
+310,Brush,0
+310,Cereal,0
+310,Ear Buds,0
+310,Eggs,0
+310,Glue,0
+310,Keyboard,0
+310,King Crab,0
+310,Milk,0
+310,Mouse,0
+310,Nails,0
+310,Noodles,0
+310,Paint,0
+310,Phone Charger,0
+310,Power Cord,0
+310,Shrimp,0
+310,Steak,0
+310,Tape,0
+311,Bracket,0
+311,Brush,0
+311,Cereal,0
+311,Ear Buds,0
+311,Eggs,0
+311,Glue,0
+311,Keyboard,0
+311,King Crab,0
+311,Milk,0
+311,Mouse,2
+311,Nails,0
+311,Noodles,0
+311,Paint,0
+311,Phone Charger,0
+311,Power Cord,0
+311,Shrimp,1
+311,Steak,1
+311,Tape,0
+312,Bracket,0
+312,Brush,1
+312,Cereal,0
+312,Ear Buds,0
+312,Eggs,0
+312,Glue,0
+312,Keyboard,0
+312,King Crab,1
+312,Milk,0
+312,Mouse,0
+312,Nails,0
+312,Noodles,1
+312,Paint,0
+312,Phone Charger,2
+312,Power Cord,0
+312,Shrimp,0
+312,Steak,0
+312,Tape,0
+313,Bracket,0
+313,Brush,0
+313,Cereal,0
+313,Ear Buds,3
+313,Eggs,0
+313,Glue,0
+313,Keyboard,0
+313,King Crab,0
+313,Milk,0
+313,Mouse,1
+313,Nails,0
+313,Noodles,2
+313,Paint,0
+313,Phone Charger,3
+313,Power Cord,0
+313,Shrimp,1
+313,Steak,0
+313,Tape,0
+314,Bracket,0
+314,Brush,0
+314,Cereal,0
+314,Ear Buds,0
+314,Eggs,0
+314,Glue,1
+314,Keyboard,0
+314,King Crab,0
+314,Milk,0
+314,Mouse,0
+314,Nails,0
+314,Noodles,0
+314,Paint,0
+314,Phone Charger,1
+314,Power Cord,0
+314,Shrimp,1
+314,Steak,0
+314,Tape,0
+315,Bracket,0
+315,Brush,0
+315,Cereal,0
+315,Ear Buds,0
+315,Eggs,0
+315,Glue,0
+315,Keyboard,2
+315,King Crab,0
+315,Milk,0
+315,Mouse,0
+315,Nails,0
+315,Noodles,0
+315,Paint,0
+315,Phone Charger,0
+315,Power Cord,0
+315,Shrimp,0
+315,Steak,0
+315,Tape,0
+316,Bracket,0
+316,Brush,1
+316,Cereal,0
+316,Ear Buds,0
+316,Eggs,0
+316,Glue,0
+316,Keyboard,1
+316,King Crab,0
+316,Milk,0
+316,Mouse,0
+316,Nails,0
+316,Noodles,0
+316,Paint,0
+316,Phone Charger,0
+316,Power Cord,0
+316,Shrimp,0
+316,Steak,0
+316,Tape,0
+317,Bracket,0
+317,Brush,0
+317,Cereal,0
+317,Ear Buds,2
+317,Eggs,0
+317,Glue,0
+317,Keyboard,0
+317,King Crab,0
+317,Milk,0
+317,Mouse,1
+317,Nails,0
+317,Noodles,1
+317,Paint,0
+317,Phone Charger,1
+317,Power Cord,0
+317,Shrimp,0
+317,Steak,1
+317,Tape,0
+318,Bracket,0
+318,Brush,0
+318,Cereal,0
+318,Ear Buds,0
+318,Eggs,0
+318,Glue,0
+318,Keyboard,0
+318,King Crab,0
+318,Milk,0
+318,Mouse,0
+318,Nails,0
+318,Noodles,1
+318,Paint,0
+318,Phone Charger,0
+318,Power Cord,0
+318,Shrimp,0
+318,Steak,0
+318,Tape,0
+319,Bracket,0
+319,Brush,0
+319,Cereal,0
+319,Ear Buds,1
+319,Eggs,0
+319,Glue,0
+319,Keyboard,2
+319,King Crab,0
+319,Milk,0
+319,Mouse,1
+319,Nails,0
+319,Noodles,0
+319,Paint,0
+319,Phone Charger,0
+319,Power Cord,0
+319,Shrimp,0
+319,Steak,0
+319,Tape,0
+320,Bracket,0
+320,Brush,0
+320,Cereal,0
+320,Ear Buds,0
+320,Eggs,0
+320,Glue,0
+320,Keyboard,0
+320,King Crab,0
+320,Milk,0
+320,Mouse,0
+320,Nails,0
+320,Noodles,0
+320,Paint,0
+320,Phone Charger,0
+320,Power Cord,0
+320,Shrimp,0
+320,Steak,0
+320,Tape,0
+321,Bracket,0
+321,Brush,0
+321,Cereal,0
+321,Ear Buds,1
+321,Eggs,0
+321,Glue,0
+321,Keyboard,0
+321,King Crab,0
+321,Milk,0
+321,Mouse,1
+321,Nails,0
+321,Noodles,0
+321,Paint,0
+321,Phone Charger,1
+321,Power Cord,0
+321,Shrimp,0
+321,Steak,1
+321,Tape,0
+322,Bracket,0
+322,Brush,1
+322,Cereal,0
+322,Ear Buds,0
+322,Eggs,0
+322,Glue,0
+322,Keyboard,0
+322,King Crab,0
+322,Milk,0
+322,Mouse,0
+322,Nails,0
+322,Noodles,0
+322,Paint,0
+322,Phone Charger,0
+322,Power Cord,0
+322,Shrimp,0
+322,Steak,0
+322,Tape,0
+323,Bracket,0
+323,Brush,0
+323,Cereal,0
+323,Ear Buds,0
+323,Eggs,0
+323,Glue,0
+323,Keyboard,0
+323,King Crab,0
+323,Milk,0
+323,Mouse,0
+323,Nails,0
+323,Noodles,0
+323,Paint,0
+323,Phone Charger,1
+323,Power Cord,0
+323,Shrimp,0
+323,Steak,0
+323,Tape,0
+324,Bracket,0
+324,Brush,0
+324,Cereal,0
+324,Ear Buds,0
+324,Eggs,0
+324,Glue,0
+324,Keyboard,1
+324,King Crab,0
+324,Milk,0
+324,Mouse,0
+324,Nails,0
+324,Noodles,0
+324,Paint,0
+324,Phone Charger,0
+324,Power Cord,0
+324,Shrimp,0
+324,Steak,1
+324,Tape,0
+325,Bracket,0
+325,Brush,0
+325,Cereal,0
+325,Ear Buds,0
+325,Eggs,0
+325,Glue,0
+325,Keyboard,0
+325,King Crab,0
+325,Milk,0
+325,Mouse,0
+325,Nails,0
+325,Noodles,0
+325,Paint,0
+325,Phone Charger,0
+325,Power Cord,0
+325,Shrimp,0
+325,Steak,0
+325,Tape,0
+326,Bracket,0
+326,Brush,0
+326,Cereal,0
+326,Ear Buds,0
+326,Eggs,0
+326,Glue,0
+326,Keyboard,0
+326,King Crab,0
+326,Milk,0
+326,Mouse,0
+326,Nails,0
+326,Noodles,0
+326,Paint,0
+326,Phone Charger,0
+326,Power Cord,0
+326,Shrimp,1
+326,Steak,0
+326,Tape,0
+327,Bracket,0
+327,Brush,0
+327,Cereal,0
+327,Ear Buds,1
+327,Eggs,0
+327,Glue,0
+327,Keyboard,1
+327,King Crab,0
+327,Milk,0
+327,Mouse,0
+327,Nails,0
+327,Noodles,0
+327,Paint,0
+327,Phone Charger,3
+327,Power Cord,0
+327,Shrimp,0
+327,Steak,0
+327,Tape,0
+328,Bracket,0
+328,Brush,1
+328,Cereal,0
+328,Ear Buds,0
+328,Eggs,0
+328,Glue,0
+328,Keyboard,0
+328,King Crab,0
+328,Milk,0
+328,Mouse,1
+328,Nails,0
+328,Noodles,0
+328,Paint,0
+328,Phone Charger,0
+328,Power Cord,0
+328,Shrimp,0
+328,Steak,2
+328,Tape,0
+329,Bracket,0
+329,Brush,0
+329,Cereal,0
+329,Ear Buds,0
+329,Eggs,0
+329,Glue,0
+329,Keyboard,0
+329,King Crab,0
+329,Milk,0
+329,Mouse,0
+329,Nails,0
+329,Noodles,0
+329,Paint,0
+329,Phone Charger,0
+329,Power Cord,0
+329,Shrimp,0
+329,Steak,0
+329,Tape,0
+330,Bracket,0
+330,Brush,0
+330,Cereal,0
+330,Ear Buds,0
+330,Eggs,0
+330,Glue,0
+330,Keyboard,0
+330,King Crab,0
+330,Milk,0
+330,Mouse,0
+330,Nails,0
+330,Noodles,0
+330,Paint,0
+330,Phone Charger,0
+330,Power Cord,0
+330,Shrimp,0
+330,Steak,0
+330,Tape,0
+331,Bracket,0
+331,Brush,0
+331,Cereal,0
+331,Ear Buds,0
+331,Eggs,0
+331,Glue,0
+331,Keyboard,0
+331,King Crab,0
+331,Milk,0
+331,Mouse,0
+331,Nails,0
+331,Noodles,0
+331,Paint,0
+331,Phone Charger,0
+331,Power Cord,0
+331,Shrimp,0
+331,Steak,0
+331,Tape,0
+332,Bracket,0
+332,Brush,1
+332,Cereal,0
+332,Ear Buds,4
+332,Eggs,0
+332,Glue,0
+332,Keyboard,0
+332,King Crab,0
+332,Milk,0
+332,Mouse,0
+332,Nails,0
+332,Noodles,1
+332,Paint,0
+332,Phone Charger,0
+332,Power Cord,0
+332,Shrimp,0
+332,Steak,0
+332,Tape,0
+333,Bracket,0
+333,Brush,0
+333,Cereal,0
+333,Ear Buds,0
+333,Eggs,0
+333,Glue,0
+333,Keyboard,1
+333,King Crab,0
+333,Milk,0
+333,Mouse,0
+333,Nails,0
+333,Noodles,0
+333,Paint,0
+333,Phone Charger,0
+333,Power Cord,0
+333,Shrimp,0
+333,Steak,0
+333,Tape,0
+334,Bracket,0
+334,Brush,0
+334,Cereal,0
+334,Ear Buds,0
+334,Eggs,0
+334,Glue,0
+334,Keyboard,0
+334,King Crab,0
+334,Milk,0
+334,Mouse,0
+334,Nails,0
+334,Noodles,0
+334,Paint,0
+334,Phone Charger,0
+334,Power Cord,1
+334,Shrimp,0
+334,Steak,1
+334,Tape,0
+335,Bracket,0
+335,Brush,0
+335,Cereal,0
+335,Ear Buds,0
+335,Eggs,0
+335,Glue,0
+335,Keyboard,0
+335,King Crab,0
+335,Milk,0
+335,Mouse,0
+335,Nails,0
+335,Noodles,0
+335,Paint,0
+335,Phone Charger,0
+335,Power Cord,0
+335,Shrimp,0
+335,Steak,0
+335,Tape,0
+336,Bracket,0
+336,Brush,2
+336,Cereal,0
+336,Ear Buds,0
+336,Eggs,0
+336,Glue,0
+336,Keyboard,0
+336,King Crab,0
+336,Milk,0
+336,Mouse,0
+336,Nails,0
+336,Noodles,0
+336,Paint,0
+336,Phone Charger,0
+336,Power Cord,0
+336,Shrimp,0
+336,Steak,0
+336,Tape,0
+337,Bracket,0
+337,Brush,0
+337,Cereal,0
+337,Ear Buds,0
+337,Eggs,0
+337,Glue,0
+337,Keyboard,0
+337,King Crab,0
+337,Milk,0
+337,Mouse,0
+337,Nails,0
+337,Noodles,0
+337,Paint,0
+337,Phone Charger,0
+337,Power Cord,0
+337,Shrimp,0
+337,Steak,0
+337,Tape,0
+338,Bracket,0
+338,Brush,4
+338,Cereal,0
+338,Ear Buds,2
+338,Eggs,0
+338,Glue,0
+338,Keyboard,0
+338,King Crab,0
+338,Milk,0
+338,Mouse,0
+338,Nails,0
+338,Noodles,0
+338,Paint,0
+338,Phone Charger,3
+338,Power Cord,0
+338,Shrimp,2
+338,Steak,1
+338,Tape,0
+339,Bracket,0
+339,Brush,0
+339,Cereal,0
+339,Ear Buds,1
+339,Eggs,0
+339,Glue,0
+339,Keyboard,0
+339,King Crab,0
+339,Milk,0
+339,Mouse,0
+339,Nails,0
+339,Noodles,0
+339,Paint,0
+339,Phone Charger,0
+339,Power Cord,0
+339,Shrimp,1
+339,Steak,0
+339,Tape,0
+340,Bracket,0
+340,Brush,0
+340,Cereal,0
+340,Ear Buds,1
+340,Eggs,0
+340,Glue,1
+340,Keyboard,4
+340,King Crab,0
+340,Milk,0
+340,Mouse,1
+340,Nails,0
+340,Noodles,0
+340,Paint,0
+340,Phone Charger,2
+340,Power Cord,0
+340,Shrimp,5
+340,Steak,1
+340,Tape,0
+341,Bracket,0
+341,Brush,0
+341,Cereal,0
+341,Ear Buds,1
+341,Eggs,0
+341,Glue,0
+341,Keyboard,0
+341,King Crab,1
+341,Milk,0
+341,Mouse,0
+341,Nails,0
+341,Noodles,0
+341,Paint,0
+341,Phone Charger,0
+341,Power Cord,0
+341,Shrimp,0
+341,Steak,2
+341,Tape,0
+342,Bracket,0
+342,Brush,0
+342,Cereal,0
+342,Ear Buds,0
+342,Eggs,0
+342,Glue,0
+342,Keyboard,0
+342,King Crab,0
+342,Milk,0
+342,Mouse,0
+342,Nails,0
+342,Noodles,0
+342,Paint,0
+342,Phone Charger,0
+342,Power Cord,0
+342,Shrimp,0
+342,Steak,0
+342,Tape,0
+343,Bracket,0
+343,Brush,0
+343,Cereal,0
+343,Ear Buds,0
+343,Eggs,0
+343,Glue,0
+343,Keyboard,0
+343,King Crab,0
+343,Milk,0
+343,Mouse,0
+343,Nails,0
+343,Noodles,0
+343,Paint,0
+343,Phone Charger,0
+343,Power Cord,0
+343,Shrimp,0
+343,Steak,1
+343,Tape,0
+344,Bracket,0
+344,Brush,0
+344,Cereal,0
+344,Ear Buds,0
+344,Eggs,0
+344,Glue,0
+344,Keyboard,0
+344,King Crab,0
+344,Milk,0
+344,Mouse,2
+344,Nails,0
+344,Noodles,0
+344,Paint,0
+344,Phone Charger,1
+344,Power Cord,0
+344,Shrimp,0
+344,Steak,0
+344,Tape,0
+345,Bracket,0
+345,Brush,0
+345,Cereal,0
+345,Ear Buds,0
+345,Eggs,0
+345,Glue,0
+345,Keyboard,0
+345,King Crab,0
+345,Milk,0
+345,Mouse,0
+345,Nails,0
+345,Noodles,0
+345,Paint,0
+345,Phone Charger,0
+345,Power Cord,0
+345,Shrimp,0
+345,Steak,0
+345,Tape,0
+346,Bracket,0
+346,Brush,1
+346,Cereal,0
+346,Ear Buds,4
+346,Eggs,0
+346,Glue,0
+346,Keyboard,3
+346,King Crab,0
+346,Milk,0
+346,Mouse,0
+346,Nails,0
+346,Noodles,1
+346,Paint,1
+346,Phone Charger,0
+346,Power Cord,1
+346,Shrimp,1
+346,Steak,0
+346,Tape,0
+347,Bracket,0
+347,Brush,0
+347,Cereal,0
+347,Ear Buds,0
+347,Eggs,0
+347,Glue,0
+347,Keyboard,1
+347,King Crab,0
+347,Milk,0
+347,Mouse,0
+347,Nails,0
+347,Noodles,1
+347,Paint,0
+347,Phone Charger,0
+347,Power Cord,0
+347,Shrimp,0
+347,Steak,0
+347,Tape,0
+348,Bracket,0
+348,Brush,0
+348,Cereal,0
+348,Ear Buds,0
+348,Eggs,0
+348,Glue,0
+348,Keyboard,0
+348,King Crab,0
+348,Milk,0
+348,Mouse,0
+348,Nails,0
+348,Noodles,0
+348,Paint,0
+348,Phone Charger,0
+348,Power Cord,0
+348,Shrimp,1
+348,Steak,1
+348,Tape,0
+349,Bracket,0
+349,Brush,0
+349,Cereal,0
+349,Ear Buds,0
+349,Eggs,0
+349,Glue,0
+349,Keyboard,0
+349,King Crab,0
+349,Milk,0
+349,Mouse,0
+349,Nails,0
+349,Noodles,0
+349,Paint,0
+349,Phone Charger,0
+349,Power Cord,0
+349,Shrimp,0
+349,Steak,1
+349,Tape,0
+350,Bracket,0
+350,Brush,0
+350,Cereal,0
+350,Ear Buds,0
+350,Eggs,0
+350,Glue,0
+350,Keyboard,0
+350,King Crab,0
+350,Milk,0
+350,Mouse,1
+350,Nails,0
+350,Noodles,0
+350,Paint,0
+350,Phone Charger,0
+350,Power Cord,0
+350,Shrimp,0
+350,Steak,0
+350,Tape,0
+351,Bracket,0
+351,Brush,0
+351,Cereal,0
+351,Ear Buds,0
+351,Eggs,0
+351,Glue,0
+351,Keyboard,0
+351,King Crab,0
+351,Milk,0
+351,Mouse,0
+351,Nails,0
+351,Noodles,0
+351,Paint,0
+351,Phone Charger,0
+351,Power Cord,0
+351,Shrimp,1
+351,Steak,0
+351,Tape,0
+352,Bracket,0
+352,Brush,0
+352,Cereal,0
+352,Ear Buds,0
+352,Eggs,0
+352,Glue,0
+352,Keyboard,0
+352,King Crab,0
+352,Milk,0
+352,Mouse,0
+352,Nails,0
+352,Noodles,0
+352,Paint,0
+352,Phone Charger,0
+352,Power Cord,0
+352,Shrimp,0
+352,Steak,0
+352,Tape,0
+353,Bracket,0
+353,Brush,0
+353,Cereal,0
+353,Ear Buds,0
+353,Eggs,0
+353,Glue,0
+353,Keyboard,0
+353,King Crab,0
+353,Milk,0
+353,Mouse,1
+353,Nails,0
+353,Noodles,0
+353,Paint,0
+353,Phone Charger,0
+353,Power Cord,0
+353,Shrimp,0
+353,Steak,0
+353,Tape,0
+354,Bracket,0
+354,Brush,0
+354,Cereal,0
+354,Ear Buds,1
+354,Eggs,0
+354,Glue,1
+354,Keyboard,1
+354,King Crab,0
+354,Milk,0
+354,Mouse,0
+354,Nails,0
+354,Noodles,0
+354,Paint,0
+354,Phone Charger,0
+354,Power Cord,0
+354,Shrimp,1
+354,Steak,1
+354,Tape,0
+355,Bracket,0
+355,Brush,0
+355,Cereal,0
+355,Ear Buds,0
+355,Eggs,0
+355,Glue,0
+355,Keyboard,0
+355,King Crab,0
+355,Milk,0
+355,Mouse,0
+355,Nails,0
+355,Noodles,1
+355,Paint,0
+355,Phone Charger,0
+355,Power Cord,0
+355,Shrimp,1
+355,Steak,0
+355,Tape,0
+356,Bracket,0
+356,Brush,0
+356,Cereal,0
+356,Ear Buds,1
+356,Eggs,0
+356,Glue,0
+356,Keyboard,2
+356,King Crab,0
+356,Milk,0
+356,Mouse,1
+356,Nails,0
+356,Noodles,1
+356,Paint,0
+356,Phone Charger,0
+356,Power Cord,0
+356,Shrimp,1
+356,Steak,0
+356,Tape,0
+357,Bracket,0
+357,Brush,0
+357,Cereal,0
+357,Ear Buds,0
+357,Eggs,0
+357,Glue,0
+357,Keyboard,0
+357,King Crab,0
+357,Milk,0
+357,Mouse,0
+357,Nails,0
+357,Noodles,0
+357,Paint,0
+357,Phone Charger,0
+357,Power Cord,0
+357,Shrimp,1
+357,Steak,1
+357,Tape,0
+358,Bracket,0
+358,Brush,0
+358,Cereal,0
+358,Ear Buds,0
+358,Eggs,0
+358,Glue,0
+358,Keyboard,0
+358,King Crab,0
+358,Milk,0
+358,Mouse,1
+358,Nails,0
+358,Noodles,0
+358,Paint,0
+358,Phone Charger,0
+358,Power Cord,0
+358,Shrimp,0
+358,Steak,0
+358,Tape,0
+359,Bracket,0
+359,Brush,0
+359,Cereal,0
+359,Ear Buds,0
+359,Eggs,0
+359,Glue,0
+359,Keyboard,0
+359,King Crab,0
+359,Milk,0
+359,Mouse,0
+359,Nails,0
+359,Noodles,0
+359,Paint,0
+359,Phone Charger,0
+359,Power Cord,0
+359,Shrimp,0
+359,Steak,0
+359,Tape,0
+360,Bracket,0
+360,Brush,0
+360,Cereal,0
+360,Ear Buds,0
+360,Eggs,0
+360,Glue,0
+360,Keyboard,0
+360,King Crab,1
+360,Milk,0
+360,Mouse,0
+360,Nails,0
+360,Noodles,0
+360,Paint,0
+360,Phone Charger,0
+360,Power Cord,0
+360,Shrimp,2
+360,Steak,0
+360,Tape,0
+361,Bracket,0
+361,Brush,0
+361,Cereal,0
+361,Ear Buds,0
+361,Eggs,0
+361,Glue,1
+361,Keyboard,0
+361,King Crab,0
+361,Milk,0
+361,Mouse,0
+361,Nails,0
+361,Noodles,0
+361,Paint,0
+361,Phone Charger,1
+361,Power Cord,0
+361,Shrimp,0
+361,Steak,0
+361,Tape,0
+362,Bracket,0
+362,Brush,0
+362,Cereal,0
+362,Ear Buds,0
+362,Eggs,0
+362,Glue,0
+362,Keyboard,0
+362,King Crab,0
+362,Milk,0
+362,Mouse,0
+362,Nails,0
+362,Noodles,1
+362,Paint,0
+362,Phone Charger,0
+362,Power Cord,0
+362,Shrimp,0
+362,Steak,0
+362,Tape,0
+363,Bracket,0
+363,Brush,0
+363,Cereal,0
+363,Ear Buds,0
+363,Eggs,0
+363,Glue,0
+363,Keyboard,0
+363,King Crab,0
+363,Milk,0
+363,Mouse,0
+363,Nails,0
+363,Noodles,0
+363,Paint,0
+363,Phone Charger,0
+363,Power Cord,0
+363,Shrimp,0
+363,Steak,0
+363,Tape,0
+364,Bracket,0
+364,Brush,0
+364,Cereal,0
+364,Ear Buds,0
+364,Eggs,0
+364,Glue,0
+364,Keyboard,0
+364,King Crab,0
+364,Milk,0
+364,Mouse,0
+364,Nails,0
+364,Noodles,0
+364,Paint,0
+364,Phone Charger,0
+364,Power Cord,0
+364,Shrimp,0
+364,Steak,0
+364,Tape,0
+365,Bracket,0
+365,Brush,0
+365,Cereal,0
+365,Ear Buds,0
+365,Eggs,0
+365,Glue,0
+365,Keyboard,0
+365,King Crab,0
+365,Milk,0
+365,Mouse,0
+365,Nails,0
+365,Noodles,0
+365,Paint,0
+365,Phone Charger,0
+365,Power Cord,0
+365,Shrimp,1
+365,Steak,0
+365,Tape,0
+366,Bracket,0
+366,Brush,0
+366,Cereal,0
+366,Ear Buds,1
+366,Eggs,0
+366,Glue,0
+366,Keyboard,0
+366,King Crab,0
+366,Milk,0
+366,Mouse,0
+366,Nails,0
+366,Noodles,0
+366,Paint,0
+366,Phone Charger,0
+366,Power Cord,0
+366,Shrimp,0
+366,Steak,0
+366,Tape,0
+367,Bracket,0
+367,Brush,0
+367,Cereal,0
+367,Ear Buds,0
+367,Eggs,0
+367,Glue,0
+367,Keyboard,1
+367,King Crab,0
+367,Milk,0
+367,Mouse,0
+367,Nails,0
+367,Noodles,2
+367,Paint,0
+367,Phone Charger,0
+367,Power Cord,0
+367,Shrimp,1
+367,Steak,0
+367,Tape,0
+368,Bracket,0
+368,Brush,0
+368,Cereal,0
+368,Ear Buds,0
+368,Eggs,0
+368,Glue,0
+368,Keyboard,0
+368,King Crab,1
+368,Milk,0
+368,Mouse,0
+368,Nails,0
+368,Noodles,1
+368,Paint,0
+368,Phone Charger,0
+368,Power Cord,0
+368,Shrimp,1
+368,Steak,1
+368,Tape,0
+369,Bracket,0
+369,Brush,0
+369,Cereal,0
+369,Ear Buds,0
+369,Eggs,0
+369,Glue,0
+369,Keyboard,0
+369,King Crab,0
+369,Milk,0
+369,Mouse,1
+369,Nails,0
+369,Noodles,0
+369,Paint,0
+369,Phone Charger,0
+369,Power Cord,0
+369,Shrimp,0
+369,Steak,0
+369,Tape,0
+370,Bracket,0
+370,Brush,0
+370,Cereal,0
+370,Ear Buds,4
+370,Eggs,0
+370,Glue,0
+370,Keyboard,0
+370,King Crab,0
+370,Milk,0
+370,Mouse,1
+370,Nails,0
+370,Noodles,2
+370,Paint,0
+370,Phone Charger,0
+370,Power Cord,1
+370,Shrimp,2
+370,Steak,1
+370,Tape,0
+371,Bracket,0
+371,Brush,0
+371,Cereal,0
+371,Ear Buds,2
+371,Eggs,0
+371,Glue,0
+371,Keyboard,2
+371,King Crab,1
+371,Milk,0
+371,Mouse,3
+371,Nails,0
+371,Noodles,1
+371,Paint,0
+371,Phone Charger,0
+371,Power Cord,0
+371,Shrimp,0
+371,Steak,1
+371,Tape,0
+372,Bracket,0
+372,Brush,0
+372,Cereal,0
+372,Ear Buds,2
+372,Eggs,0
+372,Glue,0
+372,Keyboard,0
+372,King Crab,0
+372,Milk,0
+372,Mouse,5
+372,Nails,0
+372,Noodles,0
+372,Paint,0
+372,Phone Charger,0
+372,Power Cord,0
+372,Shrimp,0
+372,Steak,2
+372,Tape,0
+373,Bracket,0
+373,Brush,0
+373,Cereal,0
+373,Ear Buds,0
+373,Eggs,0
+373,Glue,1
+373,Keyboard,0
+373,King Crab,0
+373,Milk,0
+373,Mouse,0
+373,Nails,0
+373,Noodles,0
+373,Paint,0
+373,Phone Charger,0
+373,Power Cord,0
+373,Shrimp,0
+373,Steak,0
+373,Tape,0
+374,Bracket,0
+374,Brush,0
+374,Cereal,0
+374,Ear Buds,0
+374,Eggs,0
+374,Glue,0
+374,Keyboard,0
+374,King Crab,0
+374,Milk,0
+374,Mouse,1
+374,Nails,0
+374,Noodles,0
+374,Paint,0
+374,Phone Charger,0
+374,Power Cord,0
+374,Shrimp,0
+374,Steak,0
+374,Tape,0
+375,Bracket,0
+375,Brush,0
+375,Cereal,0
+375,Ear Buds,0
+375,Eggs,0
+375,Glue,0
+375,Keyboard,0
+375,King Crab,0
+375,Milk,0
+375,Mouse,0
+375,Nails,0
+375,Noodles,0
+375,Paint,0
+375,Phone Charger,0
+375,Power Cord,0
+375,Shrimp,0
+375,Steak,0
+375,Tape,0
+376,Bracket,0
+376,Brush,0
+376,Cereal,0
+376,Ear Buds,0
+376,Eggs,0
+376,Glue,0
+376,Keyboard,1
+376,King Crab,0
+376,Milk,0
+376,Mouse,0
+376,Nails,0
+376,Noodles,0
+376,Paint,1
+376,Phone Charger,0
+376,Power Cord,0
+376,Shrimp,3
+376,Steak,0
+376,Tape,0
+377,Bracket,0
+377,Brush,0
+377,Cereal,0
+377,Ear Buds,0
+377,Eggs,0
+377,Glue,0
+377,Keyboard,0
+377,King Crab,0
+377,Milk,0
+377,Mouse,0
+377,Nails,0
+377,Noodles,0
+377,Paint,0
+377,Phone Charger,0
+377,Power Cord,0
+377,Shrimp,1
+377,Steak,0
+377,Tape,0
+378,Bracket,0
+378,Brush,0
+378,Cereal,0
+378,Ear Buds,0
+378,Eggs,0
+378,Glue,0
+378,Keyboard,0
+378,King Crab,0
+378,Milk,0
+378,Mouse,0
+378,Nails,0
+378,Noodles,0
+378,Paint,0
+378,Phone Charger,0
+378,Power Cord,0
+378,Shrimp,0
+378,Steak,0
+378,Tape,0
+379,Bracket,0
+379,Brush,0
+379,Cereal,0
+379,Ear Buds,0
+379,Eggs,0
+379,Glue,0
+379,Keyboard,0
+379,King Crab,0
+379,Milk,0
+379,Mouse,0
+379,Nails,0
+379,Noodles,0
+379,Paint,0
+379,Phone Charger,0
+379,Power Cord,0
+379,Shrimp,0
+379,Steak,0
+379,Tape,0
+380,Bracket,0
+380,Brush,0
+380,Cereal,0
+380,Ear Buds,0
+380,Eggs,0
+380,Glue,0
+380,Keyboard,0
+380,King Crab,0
+380,Milk,0
+380,Mouse,0
+380,Nails,0
+380,Noodles,0
+380,Paint,0
+380,Phone Charger,0
+380,Power Cord,0
+380,Shrimp,0
+380,Steak,0
+380,Tape,0
+381,Bracket,0
+381,Brush,0
+381,Cereal,0
+381,Ear Buds,0
+381,Eggs,0
+381,Glue,0
+381,Keyboard,0
+381,King Crab,0
+381,Milk,0
+381,Mouse,0
+381,Nails,0
+381,Noodles,0
+381,Paint,0
+381,Phone Charger,0
+381,Power Cord,0
+381,Shrimp,0
+381,Steak,1
+381,Tape,0
+382,Bracket,0
+382,Brush,1
+382,Cereal,0
+382,Ear Buds,0
+382,Eggs,0
+382,Glue,1
+382,Keyboard,0
+382,King Crab,0
+382,Milk,0
+382,Mouse,0
+382,Nails,0
+382,Noodles,0
+382,Paint,0
+382,Phone Charger,0
+382,Power Cord,0
+382,Shrimp,0
+382,Steak,1
+382,Tape,0
+383,Bracket,0
+383,Brush,0
+383,Cereal,0
+383,Ear Buds,0
+383,Eggs,0
+383,Glue,0
+383,Keyboard,0
+383,King Crab,0
+383,Milk,0
+383,Mouse,0
+383,Nails,0
+383,Noodles,0
+383,Paint,0
+383,Phone Charger,0
+383,Power Cord,0
+383,Shrimp,0
+383,Steak,0
+383,Tape,0
+384,Bracket,0
+384,Brush,0
+384,Cereal,0
+384,Ear Buds,0
+384,Eggs,0
+384,Glue,0
+384,Keyboard,0
+384,King Crab,0
+384,Milk,0
+384,Mouse,1
+384,Nails,0
+384,Noodles,0
+384,Paint,0
+384,Phone Charger,0
+384,Power Cord,0
+384,Shrimp,0
+384,Steak,0
+384,Tape,0
+385,Bracket,0
+385,Brush,0
+385,Cereal,0
+385,Ear Buds,0
+385,Eggs,0
+385,Glue,0
+385,Keyboard,0
+385,King Crab,0
+385,Milk,0
+385,Mouse,0
+385,Nails,0
+385,Noodles,0
+385,Paint,0
+385,Phone Charger,0
+385,Power Cord,0
+385,Shrimp,0
+385,Steak,0
+385,Tape,0
+386,Bracket,0
+386,Brush,0
+386,Cereal,0
+386,Ear Buds,0
+386,Eggs,0
+386,Glue,0
+386,Keyboard,0
+386,King Crab,0
+386,Milk,0
+386,Mouse,0
+386,Nails,0
+386,Noodles,0
+386,Paint,0
+386,Phone Charger,0
+386,Power Cord,0
+386,Shrimp,0
+386,Steak,0
+386,Tape,0
+387,Bracket,0
+387,Brush,0
+387,Cereal,0
+387,Ear Buds,0
+387,Eggs,0
+387,Glue,0
+387,Keyboard,0
+387,King Crab,0
+387,Milk,0
+387,Mouse,0
+387,Nails,0
+387,Noodles,0
+387,Paint,0
+387,Phone Charger,0
+387,Power Cord,0
+387,Shrimp,0
+387,Steak,0
+387,Tape,0
+388,Bracket,0
+388,Brush,1
+388,Cereal,0
+388,Ear Buds,1
+388,Eggs,0
+388,Glue,0
+388,Keyboard,0
+388,King Crab,0
+388,Milk,0
+388,Mouse,0
+388,Nails,0
+388,Noodles,0
+388,Paint,0
+388,Phone Charger,1
+388,Power Cord,0
+388,Shrimp,0
+388,Steak,0
+388,Tape,0
+389,Bracket,0
+389,Brush,0
+389,Cereal,0
+389,Ear Buds,0
+389,Eggs,0
+389,Glue,0
+389,Keyboard,0
+389,King Crab,0
+389,Milk,0
+389,Mouse,0
+389,Nails,0
+389,Noodles,0
+389,Paint,0
+389,Phone Charger,0
+389,Power Cord,0
+389,Shrimp,0
+389,Steak,0
+389,Tape,0
+390,Bracket,0
+390,Brush,0
+390,Cereal,0
+390,Ear Buds,1
+390,Eggs,0
+390,Glue,0
+390,Keyboard,0
+390,King Crab,0
+390,Milk,0
+390,Mouse,1
+390,Nails,0
+390,Noodles,2
+390,Paint,0
+390,Phone Charger,0
+390,Power Cord,0
+390,Shrimp,1
+390,Steak,2
+390,Tape,0
+391,Bracket,0
+391,Brush,0
+391,Cereal,0
+391,Ear Buds,5
+391,Eggs,0
+391,Glue,0
+391,Keyboard,1
+391,King Crab,1
+391,Milk,0
+391,Mouse,4
+391,Nails,0
+391,Noodles,1
+391,Paint,0
+391,Phone Charger,0
+391,Power Cord,0
+391,Shrimp,2
+391,Steak,1
+391,Tape,0
+392,Bracket,0
+392,Brush,0
+392,Cereal,0
+392,Ear Buds,0
+392,Eggs,0
+392,Glue,0
+392,Keyboard,0
+392,King Crab,0
+392,Milk,0
+392,Mouse,0
+392,Nails,0
+392,Noodles,0
+392,Paint,0
+392,Phone Charger,0
+392,Power Cord,0
+392,Shrimp,0
+392,Steak,0
+392,Tape,0
+393,Bracket,0
+393,Brush,1
+393,Cereal,0
+393,Ear Buds,1
+393,Eggs,0
+393,Glue,0
+393,Keyboard,1
+393,King Crab,0
+393,Milk,0
+393,Mouse,2
+393,Nails,0
+393,Noodles,0
+393,Paint,0
+393,Phone Charger,1
+393,Power Cord,2
+393,Shrimp,1
+393,Steak,0
+393,Tape,0
+394,Bracket,0
+394,Brush,0
+394,Cereal,0
+394,Ear Buds,3
+394,Eggs,0
+394,Glue,1
+394,Keyboard,1
+394,King Crab,0
+394,Milk,0
+394,Mouse,1
+394,Nails,0
+394,Noodles,0
+394,Paint,0
+394,Phone Charger,1
+394,Power Cord,1
+394,Shrimp,0
+394,Steak,1
+394,Tape,0
+395,Bracket,0
+395,Brush,0
+395,Cereal,0
+395,Ear Buds,0
+395,Eggs,0
+395,Glue,0
+395,Keyboard,0
+395,King Crab,0
+395,Milk,0
+395,Mouse,0
+395,Nails,0
+395,Noodles,0
+395,Paint,0
+395,Phone Charger,0
+395,Power Cord,0
+395,Shrimp,0
+395,Steak,0
+395,Tape,0
+396,Bracket,0
+396,Brush,0
+396,Cereal,0
+396,Ear Buds,0
+396,Eggs,0
+396,Glue,0
+396,Keyboard,0
+396,King Crab,0
+396,Milk,0
+396,Mouse,0
+396,Nails,0
+396,Noodles,0
+396,Paint,0
+396,Phone Charger,0
+396,Power Cord,0
+396,Shrimp,0
+396,Steak,0
+396,Tape,0
+397,Bracket,0
+397,Brush,0
+397,Cereal,0
+397,Ear Buds,0
+397,Eggs,0
+397,Glue,0
+397,Keyboard,0
+397,King Crab,0
+397,Milk,0
+397,Mouse,0
+397,Nails,0
+397,Noodles,0
+397,Paint,0
+397,Phone Charger,0
+397,Power Cord,0
+397,Shrimp,0
+397,Steak,0
+397,Tape,0
+398,Bracket,0
+398,Brush,0
+398,Cereal,0
+398,Ear Buds,0
+398,Eggs,0
+398,Glue,0
+398,Keyboard,0
+398,King Crab,0
+398,Milk,0
+398,Mouse,0
+398,Nails,0
+398,Noodles,0
+398,Paint,0
+398,Phone Charger,0
+398,Power Cord,0
+398,Shrimp,0
+398,Steak,0
+398,Tape,0
+399,Bracket,0
+399,Brush,0
+399,Cereal,0
+399,Ear Buds,0
+399,Eggs,0
+399,Glue,0
+399,Keyboard,0
+399,King Crab,0
+399,Milk,0
+399,Mouse,2
+399,Nails,0
+399,Noodles,0
+399,Paint,0
+399,Phone Charger,1
+399,Power Cord,0
+399,Shrimp,0
+399,Steak,0
+399,Tape,0
+400,Bracket,0
+400,Brush,0
+400,Cereal,0
+400,Ear Buds,1
+400,Eggs,0
+400,Glue,0
+400,Keyboard,0
+400,King Crab,0
+400,Milk,0
+400,Mouse,0
+400,Nails,0
+400,Noodles,0
+400,Paint,0
+400,Phone Charger,2
+400,Power Cord,0
+400,Shrimp,0
+400,Steak,0
+400,Tape,0
+401,Bracket,0
+401,Brush,0
+401,Cereal,0
+401,Ear Buds,0
+401,Eggs,0
+401,Glue,0
+401,Keyboard,0
+401,King Crab,0
+401,Milk,0
+401,Mouse,0
+401,Nails,0
+401,Noodles,0
+401,Paint,0
+401,Phone Charger,0
+401,Power Cord,0
+401,Shrimp,0
+401,Steak,0
+401,Tape,0
+402,Bracket,0
+402,Brush,0
+402,Cereal,0
+402,Ear Buds,0
+402,Eggs,0
+402,Glue,0
+402,Keyboard,0
+402,King Crab,0
+402,Milk,0
+402,Mouse,0
+402,Nails,0
+402,Noodles,0
+402,Paint,0
+402,Phone Charger,0
+402,Power Cord,0
+402,Shrimp,0
+402,Steak,0
+402,Tape,0
+403,Bracket,0
+403,Brush,0
+403,Cereal,0
+403,Ear Buds,0
+403,Eggs,0
+403,Glue,1
+403,Keyboard,0
+403,King Crab,0
+403,Milk,0
+403,Mouse,0
+403,Nails,0
+403,Noodles,0
+403,Paint,0
+403,Phone Charger,0
+403,Power Cord,0
+403,Shrimp,0
+403,Steak,0
+403,Tape,0
+404,Bracket,0
+404,Brush,0
+404,Cereal,0
+404,Ear Buds,2
+404,Eggs,0
+404,Glue,0
+404,Keyboard,0
+404,King Crab,0
+404,Milk,0
+404,Mouse,0
+404,Nails,0
+404,Noodles,1
+404,Paint,0
+404,Phone Charger,3
+404,Power Cord,0
+404,Shrimp,1
+404,Steak,0
+404,Tape,0
+405,Bracket,0
+405,Brush,0
+405,Cereal,0
+405,Ear Buds,1
+405,Eggs,0
+405,Glue,0
+405,Keyboard,2
+405,King Crab,0
+405,Milk,0
+405,Mouse,0
+405,Nails,0
+405,Noodles,1
+405,Paint,0
+405,Phone Charger,2
+405,Power Cord,0
+405,Shrimp,1
+405,Steak,0
+405,Tape,0
+406,Bracket,0
+406,Brush,0
+406,Cereal,0
+406,Ear Buds,0
+406,Eggs,0
+406,Glue,0
+406,Keyboard,0
+406,King Crab,1
+406,Milk,0
+406,Mouse,0
+406,Nails,0
+406,Noodles,1
+406,Paint,0
+406,Phone Charger,0
+406,Power Cord,0
+406,Shrimp,3
+406,Steak,0
+406,Tape,0
+407,Bracket,0
+407,Brush,1
+407,Cereal,0
+407,Ear Buds,2
+407,Eggs,0
+407,Glue,0
+407,Keyboard,1
+407,King Crab,0
+407,Milk,0
+407,Mouse,0
+407,Nails,0
+407,Noodles,0
+407,Paint,0
+407,Phone Charger,2
+407,Power Cord,0
+407,Shrimp,0
+407,Steak,1
+407,Tape,0
+408,Bracket,0
+408,Brush,0
+408,Cereal,0
+408,Ear Buds,0
+408,Eggs,0
+408,Glue,0
+408,Keyboard,1
+408,King Crab,0
+408,Milk,0
+408,Mouse,1
+408,Nails,0
+408,Noodles,1
+408,Paint,0
+408,Phone Charger,0
+408,Power Cord,0
+408,Shrimp,0
+408,Steak,0
+408,Tape,0
+409,Bracket,0
+409,Brush,0
+409,Cereal,0
+409,Ear Buds,0
+409,Eggs,0
+409,Glue,0
+409,Keyboard,0
+409,King Crab,0
+409,Milk,0
+409,Mouse,0
+409,Nails,0
+409,Noodles,0
+409,Paint,0
+409,Phone Charger,0
+409,Power Cord,0
+409,Shrimp,0
+409,Steak,0
+409,Tape,0
+410,Bracket,0
+410,Brush,0
+410,Cereal,0
+410,Ear Buds,0
+410,Eggs,0
+410,Glue,0
+410,Keyboard,0
+410,King Crab,0
+410,Milk,0
+410,Mouse,0
+410,Nails,0
+410,Noodles,0
+410,Paint,0
+410,Phone Charger,0
+410,Power Cord,0
+410,Shrimp,0
+410,Steak,0
+410,Tape,0
+411,Bracket,0
+411,Brush,0
+411,Cereal,0
+411,Ear Buds,0
+411,Eggs,0
+411,Glue,0
+411,Keyboard,0
+411,King Crab,0
+411,Milk,0
+411,Mouse,0
+411,Nails,0
+411,Noodles,0
+411,Paint,0
+411,Phone Charger,0
+411,Power Cord,0
+411,Shrimp,1
+411,Steak,0
+411,Tape,0
+412,Bracket,0
+412,Brush,1
+412,Cereal,0
+412,Ear Buds,1
+412,Eggs,0
+412,Glue,0
+412,Keyboard,0
+412,King Crab,0
+412,Milk,0
+412,Mouse,0
+412,Nails,0
+412,Noodles,1
+412,Paint,0
+412,Phone Charger,0
+412,Power Cord,0
+412,Shrimp,0
+412,Steak,1
+412,Tape,0
+413,Bracket,0
+413,Brush,0
+413,Cereal,0
+413,Ear Buds,0
+413,Eggs,0
+413,Glue,0
+413,Keyboard,1
+413,King Crab,0
+413,Milk,0
+413,Mouse,0
+413,Nails,0
+413,Noodles,0
+413,Paint,0
+413,Phone Charger,0
+413,Power Cord,0
+413,Shrimp,0
+413,Steak,0
+413,Tape,0
+414,Bracket,0
+414,Brush,0
+414,Cereal,0
+414,Ear Buds,0
+414,Eggs,0
+414,Glue,0
+414,Keyboard,0
+414,King Crab,0
+414,Milk,0
+414,Mouse,0
+414,Nails,0
+414,Noodles,0
+414,Paint,0
+414,Phone Charger,0
+414,Power Cord,0
+414,Shrimp,0
+414,Steak,0
+414,Tape,0
+415,Bracket,0
+415,Brush,0
+415,Cereal,0
+415,Ear Buds,0
+415,Eggs,0
+415,Glue,0
+415,Keyboard,0
+415,King Crab,0
+415,Milk,0
+415,Mouse,0
+415,Nails,0
+415,Noodles,0
+415,Paint,0
+415,Phone Charger,0
+415,Power Cord,0
+415,Shrimp,0
+415,Steak,0
+415,Tape,0
+416,Bracket,0
+416,Brush,0
+416,Cereal,0
+416,Ear Buds,0
+416,Eggs,0
+416,Glue,0
+416,Keyboard,1
+416,King Crab,1
+416,Milk,0
+416,Mouse,1
+416,Nails,0
+416,Noodles,1
+416,Paint,0
+416,Phone Charger,0
+416,Power Cord,0
+416,Shrimp,0
+416,Steak,0
+416,Tape,0
+417,Bracket,0
+417,Brush,0
+417,Cereal,0
+417,Ear Buds,0
+417,Eggs,0
+417,Glue,0
+417,Keyboard,0
+417,King Crab,0
+417,Milk,0
+417,Mouse,0
+417,Nails,0
+417,Noodles,0
+417,Paint,0
+417,Phone Charger,0
+417,Power Cord,0
+417,Shrimp,0
+417,Steak,0
+417,Tape,0
+418,Bracket,0
+418,Brush,0
+418,Cereal,0
+418,Ear Buds,1
+418,Eggs,0
+418,Glue,0
+418,Keyboard,3
+418,King Crab,0
+418,Milk,0
+418,Mouse,0
+418,Nails,0
+418,Noodles,0
+418,Paint,0
+418,Phone Charger,0
+418,Power Cord,0
+418,Shrimp,0
+418,Steak,0
+418,Tape,0
+419,Bracket,0
+419,Brush,0
+419,Cereal,0
+419,Ear Buds,0
+419,Eggs,0
+419,Glue,0
+419,Keyboard,0
+419,King Crab,0
+419,Milk,0
+419,Mouse,0
+419,Nails,0
+419,Noodles,0
+419,Paint,0
+419,Phone Charger,0
+419,Power Cord,0
+419,Shrimp,1
+419,Steak,0
+419,Tape,0
+420,Bracket,0
+420,Brush,0
+420,Cereal,0
+420,Ear Buds,2
+420,Eggs,0
+420,Glue,0
+420,Keyboard,0
+420,King Crab,0
+420,Milk,0
+420,Mouse,0
+420,Nails,0
+420,Noodles,0
+420,Paint,0
+420,Phone Charger,0
+420,Power Cord,0
+420,Shrimp,0
+420,Steak,0
+420,Tape,0
+421,Bracket,0
+421,Brush,0
+421,Cereal,0
+421,Ear Buds,0
+421,Eggs,0
+421,Glue,0
+421,Keyboard,0
+421,King Crab,0
+421,Milk,0
+421,Mouse,0
+421,Nails,0
+421,Noodles,0
+421,Paint,0
+421,Phone Charger,0
+421,Power Cord,0
+421,Shrimp,2
+421,Steak,0
+421,Tape,0
+422,Bracket,0
+422,Brush,0
+422,Cereal,0
+422,Ear Buds,0
+422,Eggs,0
+422,Glue,0
+422,Keyboard,0
+422,King Crab,0
+422,Milk,0
+422,Mouse,0
+422,Nails,0
+422,Noodles,0
+422,Paint,0
+422,Phone Charger,0
+422,Power Cord,0
+422,Shrimp,0
+422,Steak,1
+422,Tape,0
+423,Bracket,0
+423,Brush,0
+423,Cereal,0
+423,Ear Buds,0
+423,Eggs,0
+423,Glue,0
+423,Keyboard,0
+423,King Crab,0
+423,Milk,0
+423,Mouse,0
+423,Nails,0
+423,Noodles,0
+423,Paint,0
+423,Phone Charger,0
+423,Power Cord,0
+423,Shrimp,1
+423,Steak,0
+423,Tape,0
+424,Bracket,0
+424,Brush,0
+424,Cereal,0
+424,Ear Buds,0
+424,Eggs,0
+424,Glue,0
+424,Keyboard,0
+424,King Crab,1
+424,Milk,0
+424,Mouse,1
+424,Nails,0
+424,Noodles,0
+424,Paint,0
+424,Phone Charger,0
+424,Power Cord,0
+424,Shrimp,1
+424,Steak,0
+424,Tape,0
+425,Bracket,0
+425,Brush,1
+425,Cereal,0
+425,Ear Buds,0
+425,Eggs,0
+425,Glue,0
+425,Keyboard,0
+425,King Crab,0
+425,Milk,0
+425,Mouse,0
+425,Nails,0
+425,Noodles,0
+425,Paint,0
+425,Phone Charger,0
+425,Power Cord,0
+425,Shrimp,0
+425,Steak,0
+425,Tape,0
+426,Bracket,0
+426,Brush,0
+426,Cereal,0
+426,Ear Buds,0
+426,Eggs,0
+426,Glue,0
+426,Keyboard,0
+426,King Crab,0
+426,Milk,0
+426,Mouse,0
+426,Nails,0
+426,Noodles,0
+426,Paint,0
+426,Phone Charger,0
+426,Power Cord,0
+426,Shrimp,2
+426,Steak,0
+426,Tape,0
+427,Bracket,0
+427,Brush,0
+427,Cereal,0
+427,Ear Buds,0
+427,Eggs,0
+427,Glue,0
+427,Keyboard,0
+427,King Crab,0
+427,Milk,0
+427,Mouse,0
+427,Nails,0
+427,Noodles,0
+427,Paint,0
+427,Phone Charger,0
+427,Power Cord,0
+427,Shrimp,1
+427,Steak,0
+427,Tape,0
+428,Bracket,0
+428,Brush,0
+428,Cereal,0
+428,Ear Buds,7
+428,Eggs,0
+428,Glue,0
+428,Keyboard,0
+428,King Crab,0
+428,Milk,0
+428,Mouse,0
+428,Nails,0
+428,Noodles,0
+428,Paint,0
+428,Phone Charger,3
+428,Power Cord,0
+428,Shrimp,1
+428,Steak,0
+428,Tape,0
+429,Bracket,0
+429,Brush,0
+429,Cereal,0
+429,Ear Buds,0
+429,Eggs,0
+429,Glue,1
+429,Keyboard,0
+429,King Crab,0
+429,Milk,0
+429,Mouse,0
+429,Nails,0
+429,Noodles,0
+429,Paint,0
+429,Phone Charger,0
+429,Power Cord,0
+429,Shrimp,0
+429,Steak,0
+429,Tape,0
+430,Bracket,0
+430,Brush,0
+430,Cereal,0
+430,Ear Buds,0
+430,Eggs,0
+430,Glue,0
+430,Keyboard,0
+430,King Crab,0
+430,Milk,0
+430,Mouse,0
+430,Nails,0
+430,Noodles,0
+430,Paint,0
+430,Phone Charger,0
+430,Power Cord,0
+430,Shrimp,0
+430,Steak,0
+430,Tape,0
+431,Bracket,0
+431,Brush,0
+431,Cereal,0
+431,Ear Buds,0
+431,Eggs,0
+431,Glue,0
+431,Keyboard,0
+431,King Crab,0
+431,Milk,0
+431,Mouse,0
+431,Nails,0
+431,Noodles,0
+431,Paint,1
+431,Phone Charger,0
+431,Power Cord,0
+431,Shrimp,0
+431,Steak,0
+431,Tape,0
+432,Bracket,0
+432,Brush,0
+432,Cereal,0
+432,Ear Buds,0
+432,Eggs,0
+432,Glue,0
+432,Keyboard,0
+432,King Crab,0
+432,Milk,0
+432,Mouse,0
+432,Nails,0
+432,Noodles,0
+432,Paint,0
+432,Phone Charger,0
+432,Power Cord,0
+432,Shrimp,0
+432,Steak,0
+432,Tape,0
+433,Bracket,0
+433,Brush,0
+433,Cereal,0
+433,Ear Buds,0
+433,Eggs,0
+433,Glue,0
+433,Keyboard,0
+433,King Crab,0
+433,Milk,0
+433,Mouse,0
+433,Nails,0
+433,Noodles,0
+433,Paint,0
+433,Phone Charger,0
+433,Power Cord,0
+433,Shrimp,0
+433,Steak,0
+433,Tape,0
+434,Bracket,0
+434,Brush,0
+434,Cereal,0
+434,Ear Buds,0
+434,Eggs,0
+434,Glue,0
+434,Keyboard,0
+434,King Crab,0
+434,Milk,0
+434,Mouse,0
+434,Nails,0
+434,Noodles,0
+434,Paint,0
+434,Phone Charger,0
+434,Power Cord,0
+434,Shrimp,0
+434,Steak,0
+434,Tape,0
+435,Bracket,0
+435,Brush,0
+435,Cereal,0
+435,Ear Buds,0
+435,Eggs,0
+435,Glue,0
+435,Keyboard,0
+435,King Crab,0
+435,Milk,0
+435,Mouse,1
+435,Nails,0
+435,Noodles,0
+435,Paint,0
+435,Phone Charger,0
+435,Power Cord,0
+435,Shrimp,1
+435,Steak,0
+435,Tape,0
+436,Bracket,0
+436,Brush,0
+436,Cereal,0
+436,Ear Buds,1
+436,Eggs,0
+436,Glue,0
+436,Keyboard,0
+436,King Crab,0
+436,Milk,0
+436,Mouse,0
+436,Nails,0
+436,Noodles,0
+436,Paint,1
+436,Phone Charger,0
+436,Power Cord,0
+436,Shrimp,3
+436,Steak,0
+436,Tape,0
+437,Bracket,0
+437,Brush,0
+437,Cereal,0
+437,Ear Buds,0
+437,Eggs,0
+437,Glue,0
+437,Keyboard,0
+437,King Crab,0
+437,Milk,0
+437,Mouse,0
+437,Nails,0
+437,Noodles,0
+437,Paint,0
+437,Phone Charger,0
+437,Power Cord,0
+437,Shrimp,0
+437,Steak,0
+437,Tape,0
+438,Bracket,0
+438,Brush,0
+438,Cereal,0
+438,Ear Buds,0
+438,Eggs,0
+438,Glue,1
+438,Keyboard,0
+438,King Crab,0
+438,Milk,0
+438,Mouse,0
+438,Nails,0
+438,Noodles,1
+438,Paint,0
+438,Phone Charger,1
+438,Power Cord,0
+438,Shrimp,2
+438,Steak,0
+438,Tape,0
+439,Bracket,0
+439,Brush,0
+439,Cereal,0
+439,Ear Buds,0
+439,Eggs,0
+439,Glue,0
+439,Keyboard,0
+439,King Crab,0
+439,Milk,0
+439,Mouse,0
+439,Nails,0
+439,Noodles,0
+439,Paint,0
+439,Phone Charger,4
+439,Power Cord,0
+439,Shrimp,0
+439,Steak,1
+439,Tape,0
+440,Bracket,0
+440,Brush,0
+440,Cereal,0
+440,Ear Buds,0
+440,Eggs,0
+440,Glue,0
+440,Keyboard,1
+440,King Crab,0
+440,Milk,0
+440,Mouse,0
+440,Nails,0
+440,Noodles,0
+440,Paint,0
+440,Phone Charger,0
+440,Power Cord,0
+440,Shrimp,0
+440,Steak,0
+440,Tape,0
+441,Bracket,0
+441,Brush,0
+441,Cereal,0
+441,Ear Buds,0
+441,Eggs,0
+441,Glue,0
+441,Keyboard,0
+441,King Crab,0
+441,Milk,0
+441,Mouse,0
+441,Nails,0
+441,Noodles,0
+441,Paint,0
+441,Phone Charger,0
+441,Power Cord,0
+441,Shrimp,0
+441,Steak,1
+441,Tape,0
+442,Bracket,0
+442,Brush,0
+442,Cereal,0
+442,Ear Buds,1
+442,Eggs,0
+442,Glue,0
+442,Keyboard,0
+442,King Crab,0
+442,Milk,0
+442,Mouse,0
+442,Nails,0
+442,Noodles,0
+442,Paint,0
+442,Phone Charger,0
+442,Power Cord,0
+442,Shrimp,0
+442,Steak,0
+442,Tape,0
+443,Bracket,0
+443,Brush,0
+443,Cereal,0
+443,Ear Buds,1
+443,Eggs,0
+443,Glue,0
+443,Keyboard,0
+443,King Crab,0
+443,Milk,0
+443,Mouse,2
+443,Nails,0
+443,Noodles,0
+443,Paint,0
+443,Phone Charger,1
+443,Power Cord,0
+443,Shrimp,0
+443,Steak,0
+443,Tape,0
+444,Bracket,0
+444,Brush,0
+444,Cereal,0
+444,Ear Buds,0
+444,Eggs,0
+444,Glue,0
+444,Keyboard,1
+444,King Crab,1
+444,Milk,0
+444,Mouse,0
+444,Nails,0
+444,Noodles,1
+444,Paint,0
+444,Phone Charger,0
+444,Power Cord,0
+444,Shrimp,2
+444,Steak,1
+444,Tape,0
+445,Bracket,0
+445,Brush,0
+445,Cereal,0
+445,Ear Buds,0
+445,Eggs,0
+445,Glue,0
+445,Keyboard,0
+445,King Crab,0
+445,Milk,0
+445,Mouse,0
+445,Nails,0
+445,Noodles,0
+445,Paint,0
+445,Phone Charger,0
+445,Power Cord,0
+445,Shrimp,0
+445,Steak,0
+445,Tape,0
+446,Bracket,0
+446,Brush,0
+446,Cereal,0
+446,Ear Buds,1
+446,Eggs,0
+446,Glue,0
+446,Keyboard,3
+446,King Crab,0
+446,Milk,0
+446,Mouse,1
+446,Nails,0
+446,Noodles,0
+446,Paint,0
+446,Phone Charger,1
+446,Power Cord,0
+446,Shrimp,2
+446,Steak,0
+446,Tape,0
+447,Bracket,0
+447,Brush,0
+447,Cereal,0
+447,Ear Buds,0
+447,Eggs,0
+447,Glue,0
+447,Keyboard,1
+447,King Crab,0
+447,Milk,0
+447,Mouse,1
+447,Nails,0
+447,Noodles,1
+447,Paint,0
+447,Phone Charger,0
+447,Power Cord,0
+447,Shrimp,0
+447,Steak,0
+447,Tape,0
+448,Bracket,0
+448,Brush,0
+448,Cereal,0
+448,Ear Buds,0
+448,Eggs,0
+448,Glue,0
+448,Keyboard,1
+448,King Crab,0
+448,Milk,0
+448,Mouse,0
+448,Nails,0
+448,Noodles,0
+448,Paint,0
+448,Phone Charger,0
+448,Power Cord,0
+448,Shrimp,1
+448,Steak,0
+448,Tape,0
+449,Bracket,0
+449,Brush,0
+449,Cereal,0
+449,Ear Buds,1
+449,Eggs,0
+449,Glue,0
+449,Keyboard,0
+449,King Crab,0
+449,Milk,0
+449,Mouse,0
+449,Nails,0
+449,Noodles,0
+449,Paint,0
+449,Phone Charger,0
+449,Power Cord,0
+449,Shrimp,2
+449,Steak,0
+449,Tape,0
+450,Bracket,0
+450,Brush,0
+450,Cereal,0
+450,Ear Buds,1
+450,Eggs,0
+450,Glue,0
+450,Keyboard,0
+450,King Crab,0
+450,Milk,0
+450,Mouse,1
+450,Nails,0
+450,Noodles,1
+450,Paint,2
+450,Phone Charger,0
+450,Power Cord,0
+450,Shrimp,0
+450,Steak,0
+450,Tape,0
+451,Bracket,0
+451,Brush,0
+451,Cereal,0
+451,Ear Buds,1
+451,Eggs,0
+451,Glue,0
+451,Keyboard,1
+451,King Crab,0
+451,Milk,0
+451,Mouse,1
+451,Nails,0
+451,Noodles,0
+451,Paint,0
+451,Phone Charger,0
+451,Power Cord,0
+451,Shrimp,0
+451,Steak,0
+451,Tape,0
+452,Bracket,0
+452,Brush,0
+452,Cereal,0
+452,Ear Buds,0
+452,Eggs,0
+452,Glue,0
+452,Keyboard,0
+452,King Crab,0
+452,Milk,0
+452,Mouse,0
+452,Nails,0
+452,Noodles,1
+452,Paint,0
+452,Phone Charger,0
+452,Power Cord,0
+452,Shrimp,0
+452,Steak,1
+452,Tape,0
+453,Bracket,0
+453,Brush,0
+453,Cereal,0
+453,Ear Buds,0
+453,Eggs,0
+453,Glue,0
+453,Keyboard,1
+453,King Crab,0
+453,Milk,0
+453,Mouse,0
+453,Nails,0
+453,Noodles,0
+453,Paint,0
+453,Phone Charger,0
+453,Power Cord,0
+453,Shrimp,0
+453,Steak,0
+453,Tape,0
+454,Bracket,0
+454,Brush,0
+454,Cereal,0
+454,Ear Buds,1
+454,Eggs,0
+454,Glue,0
+454,Keyboard,0
+454,King Crab,0
+454,Milk,0
+454,Mouse,1
+454,Nails,0
+454,Noodles,0
+454,Paint,0
+454,Phone Charger,0
+454,Power Cord,0
+454,Shrimp,0
+454,Steak,0
+454,Tape,0
+455,Bracket,0
+455,Brush,0
+455,Cereal,0
+455,Ear Buds,0
+455,Eggs,0
+455,Glue,1
+455,Keyboard,3
+455,King Crab,0
+455,Milk,0
+455,Mouse,1
+455,Nails,0
+455,Noodles,0
+455,Paint,0
+455,Phone Charger,1
+455,Power Cord,0
+455,Shrimp,0
+455,Steak,1
+455,Tape,0
+456,Bracket,0
+456,Brush,0
+456,Cereal,0
+456,Ear Buds,0
+456,Eggs,0
+456,Glue,1
+456,Keyboard,1
+456,King Crab,0
+456,Milk,0
+456,Mouse,0
+456,Nails,0
+456,Noodles,1
+456,Paint,0
+456,Phone Charger,0
+456,Power Cord,0
+456,Shrimp,1
+456,Steak,0
+456,Tape,0
+457,Bracket,0
+457,Brush,0
+457,Cereal,0
+457,Ear Buds,1
+457,Eggs,0
+457,Glue,0
+457,Keyboard,1
+457,King Crab,0
+457,Milk,0
+457,Mouse,0
+457,Nails,0
+457,Noodles,0
+457,Paint,0
+457,Phone Charger,0
+457,Power Cord,0
+457,Shrimp,0
+457,Steak,0
+457,Tape,0
+458,Bracket,0
+458,Brush,0
+458,Cereal,0
+458,Ear Buds,1
+458,Eggs,0
+458,Glue,0
+458,Keyboard,0
+458,King Crab,0
+458,Milk,0
+458,Mouse,0
+458,Nails,0
+458,Noodles,0
+458,Paint,0
+458,Phone Charger,0
+458,Power Cord,0
+458,Shrimp,1
+458,Steak,0
+458,Tape,0
+459,Bracket,0
+459,Brush,0
+459,Cereal,0
+459,Ear Buds,0
+459,Eggs,0
+459,Glue,0
+459,Keyboard,2
+459,King Crab,1
+459,Milk,0
+459,Mouse,3
+459,Nails,0
+459,Noodles,1
+459,Paint,0
+459,Phone Charger,0
+459,Power Cord,0
+459,Shrimp,3
+459,Steak,3
+459,Tape,0
+460,Bracket,0
+460,Brush,0
+460,Cereal,0
+460,Ear Buds,0
+460,Eggs,0
+460,Glue,0
+460,Keyboard,0
+460,King Crab,0
+460,Milk,0
+460,Mouse,0
+460,Nails,0
+460,Noodles,0
+460,Paint,0
+460,Phone Charger,0
+460,Power Cord,0
+460,Shrimp,1
+460,Steak,0
+460,Tape,0
+461,Bracket,0
+461,Brush,0
+461,Cereal,0
+461,Ear Buds,0
+461,Eggs,0
+461,Glue,0
+461,Keyboard,0
+461,King Crab,0
+461,Milk,0
+461,Mouse,0
+461,Nails,0
+461,Noodles,0
+461,Paint,0
+461,Phone Charger,0
+461,Power Cord,0
+461,Shrimp,0
+461,Steak,0
+461,Tape,0
+462,Bracket,0
+462,Brush,0
+462,Cereal,0
+462,Ear Buds,0
+462,Eggs,0
+462,Glue,0
+462,Keyboard,0
+462,King Crab,0
+462,Milk,0
+462,Mouse,0
+462,Nails,0
+462,Noodles,0
+462,Paint,0
+462,Phone Charger,0
+462,Power Cord,0
+462,Shrimp,0
+462,Steak,0
+462,Tape,0
+463,Bracket,0
+463,Brush,0
+463,Cereal,0
+463,Ear Buds,0
+463,Eggs,0
+463,Glue,0
+463,Keyboard,0
+463,King Crab,0
+463,Milk,0
+463,Mouse,0
+463,Nails,0
+463,Noodles,0
+463,Paint,0
+463,Phone Charger,0
+463,Power Cord,0
+463,Shrimp,0
+463,Steak,0
+463,Tape,0
+464,Bracket,0
+464,Brush,0
+464,Cereal,0
+464,Ear Buds,0
+464,Eggs,0
+464,Glue,0
+464,Keyboard,0
+464,King Crab,0
+464,Milk,0
+464,Mouse,0
+464,Nails,0
+464,Noodles,0
+464,Paint,0
+464,Phone Charger,0
+464,Power Cord,0
+464,Shrimp,0
+464,Steak,0
+464,Tape,0
+465,Bracket,0
+465,Brush,0
+465,Cereal,0
+465,Ear Buds,7
+465,Eggs,0
+465,Glue,0
+465,Keyboard,2
+465,King Crab,0
+465,Milk,0
+465,Mouse,0
+465,Nails,0
+465,Noodles,0
+465,Paint,0
+465,Phone Charger,1
+465,Power Cord,1
+465,Shrimp,3
+465,Steak,0
+465,Tape,0
+466,Bracket,0
+466,Brush,0
+466,Cereal,0
+466,Ear Buds,1
+466,Eggs,0
+466,Glue,0
+466,Keyboard,1
+466,King Crab,0
+466,Milk,0
+466,Mouse,0
+466,Nails,0
+466,Noodles,1
+466,Paint,0
+466,Phone Charger,0
+466,Power Cord,0
+466,Shrimp,0
+466,Steak,0
+466,Tape,0
+467,Bracket,0
+467,Brush,0
+467,Cereal,0
+467,Ear Buds,0
+467,Eggs,0
+467,Glue,0
+467,Keyboard,1
+467,King Crab,0
+467,Milk,0
+467,Mouse,1
+467,Nails,0
+467,Noodles,0
+467,Paint,0
+467,Phone Charger,0
+467,Power Cord,0
+467,Shrimp,0
+467,Steak,1
+467,Tape,0
+468,Bracket,0
+468,Brush,0
+468,Cereal,0
+468,Ear Buds,0
+468,Eggs,0
+468,Glue,0
+468,Keyboard,0
+468,King Crab,0
+468,Milk,0
+468,Mouse,0
+468,Nails,0
+468,Noodles,0
+468,Paint,0
+468,Phone Charger,0
+468,Power Cord,0
+468,Shrimp,0
+468,Steak,0
+468,Tape,0
+469,Bracket,0
+469,Brush,0
+469,Cereal,0
+469,Ear Buds,0
+469,Eggs,0
+469,Glue,0
+469,Keyboard,0
+469,King Crab,0
+469,Milk,0
+469,Mouse,0
+469,Nails,0
+469,Noodles,0
+469,Paint,0
+469,Phone Charger,0
+469,Power Cord,0
+469,Shrimp,0
+469,Steak,0
+469,Tape,0
+470,Bracket,0
+470,Brush,0
+470,Cereal,0
+470,Ear Buds,0
+470,Eggs,0
+470,Glue,0
+470,Keyboard,0
+470,King Crab,0
+470,Milk,0
+470,Mouse,0
+470,Nails,0
+470,Noodles,0
+470,Paint,0
+470,Phone Charger,0
+470,Power Cord,0
+470,Shrimp,0
+470,Steak,0
+470,Tape,0
+471,Bracket,0
+471,Brush,0
+471,Cereal,0
+471,Ear Buds,0
+471,Eggs,0
+471,Glue,0
+471,Keyboard,0
+471,King Crab,0
+471,Milk,0
+471,Mouse,0
+471,Nails,0
+471,Noodles,0
+471,Paint,1
+471,Phone Charger,0
+471,Power Cord,0
+471,Shrimp,0
+471,Steak,0
+471,Tape,0
+472,Bracket,0
+472,Brush,0
+472,Cereal,0
+472,Ear Buds,0
+472,Eggs,0
+472,Glue,0
+472,Keyboard,1
+472,King Crab,0
+472,Milk,0
+472,Mouse,0
+472,Nails,0
+472,Noodles,0
+472,Paint,0
+472,Phone Charger,0
+472,Power Cord,0
+472,Shrimp,0
+472,Steak,0
+472,Tape,0
+473,Bracket,0
+473,Brush,1
+473,Cereal,0
+473,Ear Buds,0
+473,Eggs,0
+473,Glue,0
+473,Keyboard,0
+473,King Crab,0
+473,Milk,0
+473,Mouse,0
+473,Nails,0
+473,Noodles,0
+473,Paint,0
+473,Phone Charger,0
+473,Power Cord,0
+473,Shrimp,0
+473,Steak,0
+473,Tape,0
+474,Bracket,0
+474,Brush,0
+474,Cereal,0
+474,Ear Buds,0
+474,Eggs,0
+474,Glue,0
+474,Keyboard,0
+474,King Crab,0
+474,Milk,0
+474,Mouse,0
+474,Nails,0
+474,Noodles,0
+474,Paint,0
+474,Phone Charger,0
+474,Power Cord,0
+474,Shrimp,0
+474,Steak,0
+474,Tape,0
+475,Bracket,0
+475,Brush,0
+475,Cereal,0
+475,Ear Buds,0
+475,Eggs,0
+475,Glue,0
+475,Keyboard,0
+475,King Crab,0
+475,Milk,0
+475,Mouse,0
+475,Nails,0
+475,Noodles,0
+475,Paint,0
+475,Phone Charger,0
+475,Power Cord,0
+475,Shrimp,0
+475,Steak,0
+475,Tape,0
+476,Bracket,0
+476,Brush,0
+476,Cereal,0
+476,Ear Buds,0
+476,Eggs,0
+476,Glue,0
+476,Keyboard,0
+476,King Crab,0
+476,Milk,0
+476,Mouse,0
+476,Nails,0
+476,Noodles,0
+476,Paint,0
+476,Phone Charger,0
+476,Power Cord,0
+476,Shrimp,2
+476,Steak,2
+476,Tape,0
+477,Bracket,0
+477,Brush,0
+477,Cereal,0
+477,Ear Buds,0
+477,Eggs,0
+477,Glue,0
+477,Keyboard,0
+477,King Crab,0
+477,Milk,0
+477,Mouse,0
+477,Nails,0
+477,Noodles,0
+477,Paint,0
+477,Phone Charger,0
+477,Power Cord,0
+477,Shrimp,0
+477,Steak,0
+477,Tape,0
+478,Bracket,0
+478,Brush,0
+478,Cereal,0
+478,Ear Buds,0
+478,Eggs,0
+478,Glue,0
+478,Keyboard,0
+478,King Crab,0
+478,Milk,0
+478,Mouse,0
+478,Nails,0
+478,Noodles,0
+478,Paint,0
+478,Phone Charger,0
+478,Power Cord,0
+478,Shrimp,0
+478,Steak,0
+478,Tape,0
+479,Bracket,0
+479,Brush,0
+479,Cereal,0
+479,Ear Buds,0
+479,Eggs,0
+479,Glue,0
+479,Keyboard,0
+479,King Crab,0
+479,Milk,0
+479,Mouse,0
+479,Nails,0
+479,Noodles,0
+479,Paint,0
+479,Phone Charger,0
+479,Power Cord,0
+479,Shrimp,0
+479,Steak,1
+479,Tape,0
+480,Bracket,0
+480,Brush,0
+480,Cereal,0
+480,Ear Buds,11
+480,Eggs,0
+480,Glue,1
+480,Keyboard,1
+480,King Crab,0
+480,Milk,0
+480,Mouse,3
+480,Nails,0
+480,Noodles,1
+480,Paint,1
+480,Phone Charger,1
+480,Power Cord,0
+480,Shrimp,3
+480,Steak,3
+480,Tape,0
+481,Bracket,0
+481,Brush,0
+481,Cereal,0
+481,Ear Buds,0
+481,Eggs,0
+481,Glue,0
+481,Keyboard,0
+481,King Crab,0
+481,Milk,0
+481,Mouse,1
+481,Nails,0
+481,Noodles,0
+481,Paint,0
+481,Phone Charger,0
+481,Power Cord,0
+481,Shrimp,0
+481,Steak,0
+481,Tape,0
+482,Bracket,0
+482,Brush,0
+482,Cereal,0
+482,Ear Buds,0
+482,Eggs,0
+482,Glue,0
+482,Keyboard,0
+482,King Crab,0
+482,Milk,0
+482,Mouse,0
+482,Nails,0
+482,Noodles,0
+482,Paint,0
+482,Phone Charger,0
+482,Power Cord,0
+482,Shrimp,0
+482,Steak,0
+482,Tape,0
+483,Bracket,0
+483,Brush,0
+483,Cereal,0
+483,Ear Buds,0
+483,Eggs,0
+483,Glue,0
+483,Keyboard,0
+483,King Crab,0
+483,Milk,0
+483,Mouse,0
+483,Nails,0
+483,Noodles,0
+483,Paint,0
+483,Phone Charger,0
+483,Power Cord,0
+483,Shrimp,0
+483,Steak,0
+483,Tape,0
+484,Bracket,0
+484,Brush,1
+484,Cereal,0
+484,Ear Buds,4
+484,Eggs,0
+484,Glue,0
+484,Keyboard,0
+484,King Crab,0
+484,Milk,0
+484,Mouse,1
+484,Nails,0
+484,Noodles,1
+484,Paint,0
+484,Phone Charger,0
+484,Power Cord,0
+484,Shrimp,2
+484,Steak,1
+484,Tape,0
+485,Bracket,0
+485,Brush,0
+485,Cereal,0
+485,Ear Buds,0
+485,Eggs,0
+485,Glue,0
+485,Keyboard,1
+485,King Crab,0
+485,Milk,0
+485,Mouse,0
+485,Nails,0
+485,Noodles,1
+485,Paint,0
+485,Phone Charger,1
+485,Power Cord,0
+485,Shrimp,3
+485,Steak,0
+485,Tape,0
+486,Bracket,0
+486,Brush,0
+486,Cereal,0
+486,Ear Buds,0
+486,Eggs,0
+486,Glue,0
+486,Keyboard,0
+486,King Crab,0
+486,Milk,0
+486,Mouse,0
+486,Nails,0
+486,Noodles,0
+486,Paint,0
+486,Phone Charger,0
+486,Power Cord,0
+486,Shrimp,0
+486,Steak,0
+486,Tape,0
+487,Bracket,0
+487,Brush,0
+487,Cereal,0
+487,Ear Buds,0
+487,Eggs,0
+487,Glue,0
+487,Keyboard,0
+487,King Crab,0
+487,Milk,0
+487,Mouse,0
+487,Nails,0
+487,Noodles,0
+487,Paint,0
+487,Phone Charger,0
+487,Power Cord,0
+487,Shrimp,0
+487,Steak,0
+487,Tape,0
+488,Bracket,0
+488,Brush,0
+488,Cereal,0
+488,Ear Buds,0
+488,Eggs,0
+488,Glue,0
+488,Keyboard,0
+488,King Crab,0
+488,Milk,0
+488,Mouse,0
+488,Nails,0
+488,Noodles,0
+488,Paint,0
+488,Phone Charger,0
+488,Power Cord,0
+488,Shrimp,0
+488,Steak,0
+488,Tape,0
+489,Bracket,0
+489,Brush,0
+489,Cereal,0
+489,Ear Buds,0
+489,Eggs,0
+489,Glue,0
+489,Keyboard,1
+489,King Crab,0
+489,Milk,0
+489,Mouse,0
+489,Nails,0
+489,Noodles,0
+489,Paint,0
+489,Phone Charger,0
+489,Power Cord,0
+489,Shrimp,3
+489,Steak,0
+489,Tape,0
+490,Bracket,0
+490,Brush,0
+490,Cereal,0
+490,Ear Buds,0
+490,Eggs,0
+490,Glue,0
+490,Keyboard,0
+490,King Crab,0
+490,Milk,0
+490,Mouse,0
+490,Nails,0
+490,Noodles,0
+490,Paint,0
+490,Phone Charger,0
+490,Power Cord,0
+490,Shrimp,1
+490,Steak,0
+490,Tape,0
+491,Bracket,0
+491,Brush,0
+491,Cereal,0
+491,Ear Buds,5
+491,Eggs,0
+491,Glue,0
+491,Keyboard,0
+491,King Crab,0
+491,Milk,0
+491,Mouse,1
+491,Nails,0
+491,Noodles,0
+491,Paint,0
+491,Phone Charger,0
+491,Power Cord,0
+491,Shrimp,1
+491,Steak,0
+491,Tape,0
+492,Bracket,0
+492,Brush,0
+492,Cereal,0
+492,Ear Buds,0
+492,Eggs,0
+492,Glue,0
+492,Keyboard,0
+492,King Crab,0
+492,Milk,0
+492,Mouse,0
+492,Nails,0
+492,Noodles,1
+492,Paint,0
+492,Phone Charger,1
+492,Power Cord,0
+492,Shrimp,3
+492,Steak,1
+492,Tape,0
+493,Bracket,0
+493,Brush,0
+493,Cereal,0
+493,Ear Buds,0
+493,Eggs,0
+493,Glue,0
+493,Keyboard,1
+493,King Crab,0
+493,Milk,0
+493,Mouse,0
+493,Nails,0
+493,Noodles,1
+493,Paint,0
+493,Phone Charger,0
+493,Power Cord,0
+493,Shrimp,0
+493,Steak,0
+493,Tape,0
+494,Bracket,0
+494,Brush,0
+494,Cereal,0
+494,Ear Buds,0
+494,Eggs,0
+494,Glue,0
+494,Keyboard,0
+494,King Crab,0
+494,Milk,0
+494,Mouse,0
+494,Nails,0
+494,Noodles,0
+494,Paint,0
+494,Phone Charger,0
+494,Power Cord,0
+494,Shrimp,0
+494,Steak,0
+494,Tape,0
+495,Bracket,0
+495,Brush,0
+495,Cereal,0
+495,Ear Buds,0
+495,Eggs,0
+495,Glue,1
+495,Keyboard,1
+495,King Crab,0
+495,Milk,0
+495,Mouse,0
+495,Nails,0
+495,Noodles,0
+495,Paint,0
+495,Phone Charger,0
+495,Power Cord,0
+495,Shrimp,0
+495,Steak,0
+495,Tape,0
+496,Bracket,0
+496,Brush,0
+496,Cereal,0
+496,Ear Buds,0
+496,Eggs,0
+496,Glue,0
+496,Keyboard,0
+496,King Crab,0
+496,Milk,0
+496,Mouse,0
+496,Nails,0
+496,Noodles,0
+496,Paint,0
+496,Phone Charger,0
+496,Power Cord,0
+496,Shrimp,0
+496,Steak,0
+496,Tape,0
+497,Bracket,0
+497,Brush,0
+497,Cereal,0
+497,Ear Buds,1
+497,Eggs,0
+497,Glue,0
+497,Keyboard,0
+497,King Crab,0
+497,Milk,0
+497,Mouse,0
+497,Nails,0
+497,Noodles,0
+497,Paint,0
+497,Phone Charger,0
+497,Power Cord,0
+497,Shrimp,1
+497,Steak,0
+497,Tape,0
+498,Bracket,0
+498,Brush,0
+498,Cereal,0
+498,Ear Buds,4
+498,Eggs,0
+498,Glue,0
+498,Keyboard,0
+498,King Crab,0
+498,Milk,0
+498,Mouse,0
+498,Nails,0
+498,Noodles,1
+498,Paint,0
+498,Phone Charger,0
+498,Power Cord,0
+498,Shrimp,1
+498,Steak,0
+498,Tape,0
+499,Bracket,0
+499,Brush,0
+499,Cereal,0
+499,Ear Buds,0
+499,Eggs,0
+499,Glue,0
+499,Keyboard,0
+499,King Crab,0
+499,Milk,0
+499,Mouse,0
+499,Nails,0
+499,Noodles,1
+499,Paint,0
+499,Phone Charger,0
+499,Power Cord,0
+499,Shrimp,0
+499,Steak,0
+499,Tape,0
+500,Bracket,0
+500,Brush,0
+500,Cereal,0
+500,Ear Buds,1
+500,Eggs,0
+500,Glue,0
+500,Keyboard,0
+500,King Crab,0
+500,Milk,0
+500,Mouse,0
+500,Nails,0
+500,Noodles,0
+500,Paint,0
+500,Phone Charger,0
+500,Power Cord,0
+500,Shrimp,1
+500,Steak,1
+500,Tape,0
+501,Bracket,0
+501,Brush,0
+501,Cereal,0
+501,Ear Buds,2
+501,Eggs,0
+501,Glue,0
+501,Keyboard,0
+501,King Crab,0
+501,Milk,0
+501,Mouse,0
+501,Nails,0
+501,Noodles,0
+501,Paint,0
+501,Phone Charger,0
+501,Power Cord,0
+501,Shrimp,0
+501,Steak,0
+501,Tape,0
+502,Bracket,0
+502,Brush,0
+502,Cereal,0
+502,Ear Buds,0
+502,Eggs,0
+502,Glue,0
+502,Keyboard,0
+502,King Crab,0
+502,Milk,0
+502,Mouse,0
+502,Nails,0
+502,Noodles,1
+502,Paint,0
+502,Phone Charger,0
+502,Power Cord,0
+502,Shrimp,0
+502,Steak,1
+502,Tape,0
+503,Bracket,0
+503,Brush,0
+503,Cereal,0
+503,Ear Buds,0
+503,Eggs,0
+503,Glue,0
+503,Keyboard,0
+503,King Crab,0
+503,Milk,0
+503,Mouse,0
+503,Nails,0
+503,Noodles,0
+503,Paint,0
+503,Phone Charger,0
+503,Power Cord,0
+503,Shrimp,0
+503,Steak,0
+503,Tape,0
+504,Bracket,0
+504,Brush,0
+504,Cereal,0
+504,Ear Buds,0
+504,Eggs,0
+504,Glue,0
+504,Keyboard,0
+504,King Crab,0
+504,Milk,0
+504,Mouse,0
+504,Nails,0
+504,Noodles,0
+504,Paint,0
+504,Phone Charger,0
+504,Power Cord,0
+504,Shrimp,0
+504,Steak,0
+504,Tape,0
+505,Bracket,0
+505,Brush,0
+505,Cereal,0
+505,Ear Buds,0
+505,Eggs,0
+505,Glue,0
+505,Keyboard,0
+505,King Crab,0
+505,Milk,0
+505,Mouse,0
+505,Nails,0
+505,Noodles,0
+505,Paint,0
+505,Phone Charger,0
+505,Power Cord,0
+505,Shrimp,0
+505,Steak,0
+505,Tape,0
+506,Bracket,0
+506,Brush,0
+506,Cereal,0
+506,Ear Buds,0
+506,Eggs,0
+506,Glue,0
+506,Keyboard,0
+506,King Crab,0
+506,Milk,0
+506,Mouse,0
+506,Nails,0
+506,Noodles,0
+506,Paint,0
+506,Phone Charger,0
+506,Power Cord,0
+506,Shrimp,0
+506,Steak,0
+506,Tape,0
+507,Bracket,0
+507,Brush,0
+507,Cereal,0
+507,Ear Buds,0
+507,Eggs,0
+507,Glue,0
+507,Keyboard,0
+507,King Crab,0
+507,Milk,0
+507,Mouse,0
+507,Nails,0
+507,Noodles,0
+507,Paint,0
+507,Phone Charger,0
+507,Power Cord,0
+507,Shrimp,0
+507,Steak,1
+507,Tape,0
+508,Bracket,0
+508,Brush,0
+508,Cereal,0
+508,Ear Buds,0
+508,Eggs,0
+508,Glue,0
+508,Keyboard,0
+508,King Crab,0
+508,Milk,0
+508,Mouse,0
+508,Nails,0
+508,Noodles,0
+508,Paint,0
+508,Phone Charger,0
+508,Power Cord,0
+508,Shrimp,0
+508,Steak,0
+508,Tape,0
+509,Bracket,0
+509,Brush,0
+509,Cereal,0
+509,Ear Buds,0
+509,Eggs,0
+509,Glue,0
+509,Keyboard,0
+509,King Crab,0
+509,Milk,0
+509,Mouse,0
+509,Nails,0
+509,Noodles,0
+509,Paint,0
+509,Phone Charger,0
+509,Power Cord,0
+509,Shrimp,0
+509,Steak,1
+509,Tape,0
+510,Bracket,0
+510,Brush,0
+510,Cereal,0
+510,Ear Buds,0
+510,Eggs,0
+510,Glue,0
+510,Keyboard,0
+510,King Crab,0
+510,Milk,0
+510,Mouse,1
+510,Nails,0
+510,Noodles,0
+510,Paint,0
+510,Phone Charger,0
+510,Power Cord,0
+510,Shrimp,0
+510,Steak,0
+510,Tape,0
+511,Bracket,0
+511,Brush,0
+511,Cereal,0
+511,Ear Buds,0
+511,Eggs,0
+511,Glue,0
+511,Keyboard,0
+511,King Crab,0
+511,Milk,0
+511,Mouse,0
+511,Nails,0
+511,Noodles,0
+511,Paint,0
+511,Phone Charger,0
+511,Power Cord,0
+511,Shrimp,0
+511,Steak,0
+511,Tape,0
+512,Bracket,0
+512,Brush,0
+512,Cereal,0
+512,Ear Buds,0
+512,Eggs,0
+512,Glue,0
+512,Keyboard,0
+512,King Crab,0
+512,Milk,0
+512,Mouse,0
+512,Nails,0
+512,Noodles,0
+512,Paint,0
+512,Phone Charger,0
+512,Power Cord,0
+512,Shrimp,0
+512,Steak,0
+512,Tape,0
+513,Bracket,0
+513,Brush,0
+513,Cereal,0
+513,Ear Buds,0
+513,Eggs,0
+513,Glue,0
+513,Keyboard,0
+513,King Crab,0
+513,Milk,0
+513,Mouse,0
+513,Nails,0
+513,Noodles,0
+513,Paint,0
+513,Phone Charger,0
+513,Power Cord,0
+513,Shrimp,0
+513,Steak,0
+513,Tape,0
+514,Bracket,0
+514,Brush,0
+514,Cereal,0
+514,Ear Buds,0
+514,Eggs,0
+514,Glue,0
+514,Keyboard,0
+514,King Crab,0
+514,Milk,0
+514,Mouse,0
+514,Nails,0
+514,Noodles,0
+514,Paint,0
+514,Phone Charger,0
+514,Power Cord,0
+514,Shrimp,0
+514,Steak,0
+514,Tape,0
+515,Bracket,0
+515,Brush,2
+515,Cereal,0
+515,Ear Buds,1
+515,Eggs,0
+515,Glue,0
+515,Keyboard,1
+515,King Crab,0
+515,Milk,0
+515,Mouse,2
+515,Nails,0
+515,Noodles,0
+515,Paint,0
+515,Phone Charger,0
+515,Power Cord,0
+515,Shrimp,1
+515,Steak,1
+515,Tape,0
+516,Bracket,0
+516,Brush,0
+516,Cereal,0
+516,Ear Buds,0
+516,Eggs,0
+516,Glue,0
+516,Keyboard,0
+516,King Crab,0
+516,Milk,0
+516,Mouse,0
+516,Nails,0
+516,Noodles,0
+516,Paint,0
+516,Phone Charger,0
+516,Power Cord,0
+516,Shrimp,0
+516,Steak,1
+516,Tape,0
+517,Bracket,0
+517,Brush,0
+517,Cereal,0
+517,Ear Buds,0
+517,Eggs,0
+517,Glue,0
+517,Keyboard,0
+517,King Crab,0
+517,Milk,0
+517,Mouse,0
+517,Nails,0
+517,Noodles,0
+517,Paint,0
+517,Phone Charger,0
+517,Power Cord,0
+517,Shrimp,0
+517,Steak,0
+517,Tape,0
+518,Bracket,0
+518,Brush,1
+518,Cereal,0
+518,Ear Buds,0
+518,Eggs,0
+518,Glue,0
+518,Keyboard,0
+518,King Crab,0
+518,Milk,0
+518,Mouse,0
+518,Nails,0
+518,Noodles,0
+518,Paint,0
+518,Phone Charger,0
+518,Power Cord,0
+518,Shrimp,0
+518,Steak,0
+518,Tape,0
+519,Bracket,0
+519,Brush,0
+519,Cereal,0
+519,Ear Buds,0
+519,Eggs,0
+519,Glue,0
+519,Keyboard,0
+519,King Crab,0
+519,Milk,0
+519,Mouse,0
+519,Nails,0
+519,Noodles,0
+519,Paint,0
+519,Phone Charger,0
+519,Power Cord,0
+519,Shrimp,0
+519,Steak,0
+519,Tape,0
+520,Bracket,0
+520,Brush,0
+520,Cereal,0
+520,Ear Buds,0
+520,Eggs,0
+520,Glue,0
+520,Keyboard,0
+520,King Crab,0
+520,Milk,0
+520,Mouse,0
+520,Nails,0
+520,Noodles,0
+520,Paint,0
+520,Phone Charger,0
+520,Power Cord,0
+520,Shrimp,0
+520,Steak,1
+520,Tape,0
+521,Bracket,0
+521,Brush,0
+521,Cereal,0
+521,Ear Buds,0
+521,Eggs,0
+521,Glue,0
+521,Keyboard,4
+521,King Crab,0
+521,Milk,0
+521,Mouse,2
+521,Nails,0
+521,Noodles,0
+521,Paint,0
+521,Phone Charger,0
+521,Power Cord,2
+521,Shrimp,0
+521,Steak,0
+521,Tape,0
+522,Bracket,0
+522,Brush,0
+522,Cereal,0
+522,Ear Buds,0
+522,Eggs,0
+522,Glue,0
+522,Keyboard,1
+522,King Crab,0
+522,Milk,0
+522,Mouse,1
+522,Nails,0
+522,Noodles,0
+522,Paint,1
+522,Phone Charger,0
+522,Power Cord,2
+522,Shrimp,0
+522,Steak,1
+522,Tape,0
+523,Bracket,0
+523,Brush,0
+523,Cereal,0
+523,Ear Buds,0
+523,Eggs,0
+523,Glue,0
+523,Keyboard,0
+523,King Crab,0
+523,Milk,0
+523,Mouse,0
+523,Nails,0
+523,Noodles,0
+523,Paint,0
+523,Phone Charger,0
+523,Power Cord,0
+523,Shrimp,0
+523,Steak,0
+523,Tape,0
+524,Bracket,0
+524,Brush,0
+524,Cereal,0
+524,Ear Buds,0
+524,Eggs,0
+524,Glue,0
+524,Keyboard,0
+524,King Crab,0
+524,Milk,0
+524,Mouse,0
+524,Nails,0
+524,Noodles,0
+524,Paint,0
+524,Phone Charger,0
+524,Power Cord,0
+524,Shrimp,0
+524,Steak,0
+524,Tape,0
+525,Bracket,0
+525,Brush,0
+525,Cereal,0
+525,Ear Buds,0
+525,Eggs,0
+525,Glue,0
+525,Keyboard,0
+525,King Crab,0
+525,Milk,0
+525,Mouse,0
+525,Nails,0
+525,Noodles,0
+525,Paint,0
+525,Phone Charger,0
+525,Power Cord,0
+525,Shrimp,0
+525,Steak,0
+525,Tape,0
+526,Bracket,0
+526,Brush,0
+526,Cereal,0
+526,Ear Buds,2
+526,Eggs,0
+526,Glue,0
+526,Keyboard,3
+526,King Crab,0
+526,Milk,0
+526,Mouse,0
+526,Nails,0
+526,Noodles,0
+526,Paint,0
+526,Phone Charger,0
+526,Power Cord,0
+526,Shrimp,4
+526,Steak,3
+526,Tape,0
+527,Bracket,0
+527,Brush,0
+527,Cereal,0
+527,Ear Buds,3
+527,Eggs,0
+527,Glue,0
+527,Keyboard,5
+527,King Crab,0
+527,Milk,0
+527,Mouse,0
+527,Nails,0
+527,Noodles,0
+527,Paint,0
+527,Phone Charger,1
+527,Power Cord,1
+527,Shrimp,5
+527,Steak,3
+527,Tape,0
+528,Bracket,0
+528,Brush,0
+528,Cereal,0
+528,Ear Buds,0
+528,Eggs,0
+528,Glue,0
+528,Keyboard,0
+528,King Crab,0
+528,Milk,0
+528,Mouse,0
+528,Nails,0
+528,Noodles,0
+528,Paint,0
+528,Phone Charger,0
+528,Power Cord,0
+528,Shrimp,0
+528,Steak,1
+528,Tape,0
+529,Bracket,0
+529,Brush,0
+529,Cereal,0
+529,Ear Buds,1
+529,Eggs,0
+529,Glue,0
+529,Keyboard,0
+529,King Crab,0
+529,Milk,0
+529,Mouse,0
+529,Nails,0
+529,Noodles,0
+529,Paint,0
+529,Phone Charger,0
+529,Power Cord,0
+529,Shrimp,5
+529,Steak,4
+529,Tape,0
+530,Bracket,0
+530,Brush,0
+530,Cereal,0
+530,Ear Buds,0
+530,Eggs,0
+530,Glue,0
+530,Keyboard,0
+530,King Crab,0
+530,Milk,0
+530,Mouse,0
+530,Nails,0
+530,Noodles,0
+530,Paint,0
+530,Phone Charger,0
+530,Power Cord,0
+530,Shrimp,1
+530,Steak,1
+530,Tape,0
+531,Bracket,0
+531,Brush,0
+531,Cereal,0
+531,Ear Buds,0
+531,Eggs,0
+531,Glue,0
+531,Keyboard,0
+531,King Crab,0
+531,Milk,0
+531,Mouse,0
+531,Nails,0
+531,Noodles,0
+531,Paint,0
+531,Phone Charger,0
+531,Power Cord,0
+531,Shrimp,1
+531,Steak,1
+531,Tape,0
+532,Bracket,0
+532,Brush,0
+532,Cereal,0
+532,Ear Buds,0
+532,Eggs,0
+532,Glue,0
+532,Keyboard,1
+532,King Crab,0
+532,Milk,0
+532,Mouse,0
+532,Nails,0
+532,Noodles,0
+532,Paint,0
+532,Phone Charger,0
+532,Power Cord,0
+532,Shrimp,0
+532,Steak,0
+532,Tape,0
+533,Bracket,0
+533,Brush,0
+533,Cereal,0
+533,Ear Buds,0
+533,Eggs,0
+533,Glue,0
+533,Keyboard,0
+533,King Crab,0
+533,Milk,0
+533,Mouse,0
+533,Nails,0
+533,Noodles,0
+533,Paint,0
+533,Phone Charger,0
+533,Power Cord,0
+533,Shrimp,0
+533,Steak,0
+533,Tape,0
+534,Bracket,0
+534,Brush,0
+534,Cereal,0
+534,Ear Buds,0
+534,Eggs,0
+534,Glue,0
+534,Keyboard,0
+534,King Crab,0
+534,Milk,0
+534,Mouse,0
+534,Nails,0
+534,Noodles,0
+534,Paint,0
+534,Phone Charger,0
+534,Power Cord,0
+534,Shrimp,0
+534,Steak,0
+534,Tape,0
+535,Bracket,0
+535,Brush,0
+535,Cereal,0
+535,Ear Buds,0
+535,Eggs,0
+535,Glue,0
+535,Keyboard,0
+535,King Crab,0
+535,Milk,0
+535,Mouse,0
+535,Nails,0
+535,Noodles,0
+535,Paint,0
+535,Phone Charger,0
+535,Power Cord,0
+535,Shrimp,0
+535,Steak,0
+535,Tape,0
+536,Bracket,0
+536,Brush,0
+536,Cereal,0
+536,Ear Buds,0
+536,Eggs,0
+536,Glue,1
+536,Keyboard,0
+536,King Crab,0
+536,Milk,0
+536,Mouse,0
+536,Nails,0
+536,Noodles,0
+536,Paint,0
+536,Phone Charger,0
+536,Power Cord,0
+536,Shrimp,0
+536,Steak,0
+536,Tape,0
+537,Bracket,0
+537,Brush,0
+537,Cereal,0
+537,Ear Buds,0
+537,Eggs,0
+537,Glue,0
+537,Keyboard,0
+537,King Crab,0
+537,Milk,0
+537,Mouse,0
+537,Nails,0
+537,Noodles,0
+537,Paint,0
+537,Phone Charger,0
+537,Power Cord,0
+537,Shrimp,0
+537,Steak,1
+537,Tape,0
+538,Bracket,0
+538,Brush,0
+538,Cereal,0
+538,Ear Buds,1
+538,Eggs,0
+538,Glue,0
+538,Keyboard,0
+538,King Crab,0
+538,Milk,0
+538,Mouse,0
+538,Nails,0
+538,Noodles,1
+538,Paint,0
+538,Phone Charger,0
+538,Power Cord,0
+538,Shrimp,3
+538,Steak,0
+538,Tape,0
+539,Bracket,0
+539,Brush,0
+539,Cereal,0
+539,Ear Buds,0
+539,Eggs,0
+539,Glue,0
+539,Keyboard,0
+539,King Crab,0
+539,Milk,0
+539,Mouse,0
+539,Nails,0
+539,Noodles,0
+539,Paint,0
+539,Phone Charger,0
+539,Power Cord,1
+539,Shrimp,0
+539,Steak,0
+539,Tape,0
+540,Bracket,0
+540,Brush,0
+540,Cereal,0
+540,Ear Buds,0
+540,Eggs,0
+540,Glue,0
+540,Keyboard,0
+540,King Crab,0
+540,Milk,0
+540,Mouse,0
+540,Nails,0
+540,Noodles,0
+540,Paint,0
+540,Phone Charger,0
+540,Power Cord,0
+540,Shrimp,0
+540,Steak,0
+540,Tape,0
+541,Bracket,0
+541,Brush,0
+541,Cereal,0
+541,Ear Buds,0
+541,Eggs,0
+541,Glue,0
+541,Keyboard,1
+541,King Crab,0
+541,Milk,0
+541,Mouse,1
+541,Nails,0
+541,Noodles,0
+541,Paint,0
+541,Phone Charger,0
+541,Power Cord,0
+541,Shrimp,1
+541,Steak,0
+541,Tape,0
+542,Bracket,0
+542,Brush,0
+542,Cereal,0
+542,Ear Buds,0
+542,Eggs,0
+542,Glue,0
+542,Keyboard,0
+542,King Crab,0
+542,Milk,0
+542,Mouse,0
+542,Nails,0
+542,Noodles,0
+542,Paint,0
+542,Phone Charger,0
+542,Power Cord,0
+542,Shrimp,0
+542,Steak,0
+542,Tape,0
+543,Bracket,0
+543,Brush,0
+543,Cereal,0
+543,Ear Buds,1
+543,Eggs,0
+543,Glue,0
+543,Keyboard,0
+543,King Crab,0
+543,Milk,0
+543,Mouse,0
+543,Nails,0
+543,Noodles,0
+543,Paint,0
+543,Phone Charger,0
+543,Power Cord,0
+543,Shrimp,0
+543,Steak,0
+543,Tape,0
+544,Bracket,0
+544,Brush,0
+544,Cereal,0
+544,Ear Buds,0
+544,Eggs,0
+544,Glue,0
+544,Keyboard,0
+544,King Crab,0
+544,Milk,0
+544,Mouse,0
+544,Nails,0
+544,Noodles,0
+544,Paint,0
+544,Phone Charger,0
+544,Power Cord,0
+544,Shrimp,0
+544,Steak,0
+544,Tape,0
+545,Bracket,0
+545,Brush,0
+545,Cereal,0
+545,Ear Buds,0
+545,Eggs,0
+545,Glue,0
+545,Keyboard,0
+545,King Crab,0
+545,Milk,0
+545,Mouse,0
+545,Nails,0
+545,Noodles,0
+545,Paint,0
+545,Phone Charger,0
+545,Power Cord,0
+545,Shrimp,0
+545,Steak,0
+545,Tape,0
+546,Bracket,0
+546,Brush,0
+546,Cereal,0
+546,Ear Buds,1
+546,Eggs,0
+546,Glue,0
+546,Keyboard,0
+546,King Crab,0
+546,Milk,0
+546,Mouse,0
+546,Nails,0
+546,Noodles,0
+546,Paint,0
+546,Phone Charger,0
+546,Power Cord,0
+546,Shrimp,0
+546,Steak,0
+546,Tape,0
+547,Bracket,0
+547,Brush,0
+547,Cereal,0
+547,Ear Buds,0
+547,Eggs,0
+547,Glue,0
+547,Keyboard,0
+547,King Crab,0
+547,Milk,0
+547,Mouse,0
+547,Nails,0
+547,Noodles,0
+547,Paint,0
+547,Phone Charger,0
+547,Power Cord,0
+547,Shrimp,1
+547,Steak,1
+547,Tape,0
+548,Bracket,0
+548,Brush,0
+548,Cereal,0
+548,Ear Buds,1
+548,Eggs,0
+548,Glue,0
+548,Keyboard,0
+548,King Crab,0
+548,Milk,0
+548,Mouse,0
+548,Nails,0
+548,Noodles,0
+548,Paint,0
+548,Phone Charger,1
+548,Power Cord,0
+548,Shrimp,0
+548,Steak,0
+548,Tape,0
+549,Bracket,0
+549,Brush,0
+549,Cereal,0
+549,Ear Buds,0
+549,Eggs,0
+549,Glue,0
+549,Keyboard,0
+549,King Crab,0
+549,Milk,0
+549,Mouse,0
+549,Nails,0
+549,Noodles,0
+549,Paint,0
+549,Phone Charger,0
+549,Power Cord,0
+549,Shrimp,0
+549,Steak,0
+549,Tape,0
+550,Bracket,0
+550,Brush,0
+550,Cereal,0
+550,Ear Buds,0
+550,Eggs,0
+550,Glue,0
+550,Keyboard,1
+550,King Crab,0
+550,Milk,0
+550,Mouse,0
+550,Nails,0
+550,Noodles,0
+550,Paint,0
+550,Phone Charger,1
+550,Power Cord,0
+550,Shrimp,0
+550,Steak,0
+550,Tape,0
+551,Bracket,0
+551,Brush,0
+551,Cereal,0
+551,Ear Buds,0
+551,Eggs,0
+551,Glue,0
+551,Keyboard,0
+551,King Crab,0
+551,Milk,0
+551,Mouse,0
+551,Nails,0
+551,Noodles,0
+551,Paint,0
+551,Phone Charger,0
+551,Power Cord,0
+551,Shrimp,0
+551,Steak,0
+551,Tape,0
+552,Bracket,0
+552,Brush,0
+552,Cereal,0
+552,Ear Buds,0
+552,Eggs,0
+552,Glue,0
+552,Keyboard,0
+552,King Crab,0
+552,Milk,0
+552,Mouse,0
+552,Nails,0
+552,Noodles,1
+552,Paint,0
+552,Phone Charger,0
+552,Power Cord,1
+552,Shrimp,1
+552,Steak,0
+552,Tape,0
+553,Bracket,0
+553,Brush,0
+553,Cereal,0
+553,Ear Buds,0
+553,Eggs,0
+553,Glue,0
+553,Keyboard,1
+553,King Crab,0
+553,Milk,0
+553,Mouse,3
+553,Nails,0
+553,Noodles,0
+553,Paint,0
+553,Phone Charger,0
+553,Power Cord,0
+553,Shrimp,0
+553,Steak,0
+553,Tape,0
+554,Bracket,0
+554,Brush,0
+554,Cereal,0
+554,Ear Buds,0
+554,Eggs,0
+554,Glue,0
+554,Keyboard,1
+554,King Crab,0
+554,Milk,0
+554,Mouse,0
+554,Nails,0
+554,Noodles,0
+554,Paint,0
+554,Phone Charger,1
+554,Power Cord,0
+554,Shrimp,0
+554,Steak,0
+554,Tape,0
+555,Bracket,0
+555,Brush,0
+555,Cereal,0
+555,Ear Buds,0
+555,Eggs,0
+555,Glue,0
+555,Keyboard,0
+555,King Crab,0
+555,Milk,0
+555,Mouse,0
+555,Nails,0
+555,Noodles,0
+555,Paint,0
+555,Phone Charger,0
+555,Power Cord,0
+555,Shrimp,0
+555,Steak,0
+555,Tape,0
+556,Bracket,0
+556,Brush,0
+556,Cereal,0
+556,Ear Buds,0
+556,Eggs,0
+556,Glue,0
+556,Keyboard,0
+556,King Crab,0
+556,Milk,0
+556,Mouse,0
+556,Nails,0
+556,Noodles,0
+556,Paint,0
+556,Phone Charger,0
+556,Power Cord,0
+556,Shrimp,0
+556,Steak,0
+556,Tape,0
+557,Bracket,0
+557,Brush,0
+557,Cereal,0
+557,Ear Buds,0
+557,Eggs,0
+557,Glue,1
+557,Keyboard,0
+557,King Crab,0
+557,Milk,0
+557,Mouse,0
+557,Nails,0
+557,Noodles,0
+557,Paint,0
+557,Phone Charger,0
+557,Power Cord,0
+557,Shrimp,1
+557,Steak,0
+557,Tape,0
+558,Bracket,0
+558,Brush,0
+558,Cereal,0
+558,Ear Buds,0
+558,Eggs,0
+558,Glue,0
+558,Keyboard,0
+558,King Crab,0
+558,Milk,0
+558,Mouse,0
+558,Nails,0
+558,Noodles,0
+558,Paint,0
+558,Phone Charger,0
+558,Power Cord,0
+558,Shrimp,0
+558,Steak,0
+558,Tape,0
+559,Bracket,0
+559,Brush,0
+559,Cereal,0
+559,Ear Buds,1
+559,Eggs,0
+559,Glue,0
+559,Keyboard,0
+559,King Crab,0
+559,Milk,0
+559,Mouse,0
+559,Nails,0
+559,Noodles,0
+559,Paint,0
+559,Phone Charger,0
+559,Power Cord,0
+559,Shrimp,0
+559,Steak,0
+559,Tape,0
+560,Bracket,0
+560,Brush,0
+560,Cereal,0
+560,Ear Buds,0
+560,Eggs,0
+560,Glue,0
+560,Keyboard,0
+560,King Crab,0
+560,Milk,0
+560,Mouse,0
+560,Nails,0
+560,Noodles,0
+560,Paint,0
+560,Phone Charger,1
+560,Power Cord,0
+560,Shrimp,0
+560,Steak,0
+560,Tape,0
+561,Bracket,0
+561,Brush,0
+561,Cereal,0
+561,Ear Buds,0
+561,Eggs,0
+561,Glue,1
+561,Keyboard,0
+561,King Crab,0
+561,Milk,0
+561,Mouse,0
+561,Nails,0
+561,Noodles,0
+561,Paint,0
+561,Phone Charger,0
+561,Power Cord,0
+561,Shrimp,0
+561,Steak,1
+561,Tape,0
+562,Bracket,0
+562,Brush,0
+562,Cereal,0
+562,Ear Buds,0
+562,Eggs,0
+562,Glue,0
+562,Keyboard,0
+562,King Crab,0
+562,Milk,0
+562,Mouse,0
+562,Nails,0
+562,Noodles,0
+562,Paint,0
+562,Phone Charger,0
+562,Power Cord,0
+562,Shrimp,0
+562,Steak,0
+562,Tape,0
+563,Bracket,0
+563,Brush,0
+563,Cereal,0
+563,Ear Buds,0
+563,Eggs,0
+563,Glue,0
+563,Keyboard,0
+563,King Crab,0
+563,Milk,0
+563,Mouse,0
+563,Nails,0
+563,Noodles,0
+563,Paint,1
+563,Phone Charger,0
+563,Power Cord,0
+563,Shrimp,0
+563,Steak,0
+563,Tape,0
+564,Bracket,0
+564,Brush,0
+564,Cereal,0
+564,Ear Buds,0
+564,Eggs,0
+564,Glue,0
+564,Keyboard,1
+564,King Crab,0
+564,Milk,0
+564,Mouse,0
+564,Nails,0
+564,Noodles,0
+564,Paint,0
+564,Phone Charger,0
+564,Power Cord,0
+564,Shrimp,0
+564,Steak,0
+564,Tape,0
+565,Bracket,0
+565,Brush,0
+565,Cereal,0
+565,Ear Buds,3
+565,Eggs,0
+565,Glue,0
+565,Keyboard,0
+565,King Crab,0
+565,Milk,0
+565,Mouse,0
+565,Nails,0
+565,Noodles,0
+565,Paint,0
+565,Phone Charger,0
+565,Power Cord,0
+565,Shrimp,1
+565,Steak,0
+565,Tape,0
+566,Bracket,0
+566,Brush,0
+566,Cereal,0
+566,Ear Buds,1
+566,Eggs,0
+566,Glue,0
+566,Keyboard,0
+566,King Crab,1
+566,Milk,0
+566,Mouse,3
+566,Nails,0
+566,Noodles,1
+566,Paint,0
+566,Phone Charger,0
+566,Power Cord,0
+566,Shrimp,1
+566,Steak,1
+566,Tape,0
+567,Bracket,0
+567,Brush,0
+567,Cereal,0
+567,Ear Buds,0
+567,Eggs,0
+567,Glue,1
+567,Keyboard,0
+567,King Crab,0
+567,Milk,0
+567,Mouse,0
+567,Nails,0
+567,Noodles,0
+567,Paint,1
+567,Phone Charger,0
+567,Power Cord,0
+567,Shrimp,2
+567,Steak,0
+567,Tape,0
+568,Bracket,0
+568,Brush,0
+568,Cereal,0
+568,Ear Buds,1
+568,Eggs,0
+568,Glue,0
+568,Keyboard,0
+568,King Crab,0
+568,Milk,0
+568,Mouse,0
+568,Nails,0
+568,Noodles,1
+568,Paint,0
+568,Phone Charger,0
+568,Power Cord,0
+568,Shrimp,0
+568,Steak,0
+568,Tape,0
+569,Bracket,0
+569,Brush,0
+569,Cereal,0
+569,Ear Buds,0
+569,Eggs,0
+569,Glue,0
+569,Keyboard,0
+569,King Crab,0
+569,Milk,0
+569,Mouse,0
+569,Nails,0
+569,Noodles,0
+569,Paint,0
+569,Phone Charger,0
+569,Power Cord,0
+569,Shrimp,0
+569,Steak,0
+569,Tape,0
+570,Bracket,0
+570,Brush,0
+570,Cereal,0
+570,Ear Buds,0
+570,Eggs,0
+570,Glue,0
+570,Keyboard,0
+570,King Crab,0
+570,Milk,0
+570,Mouse,0
+570,Nails,0
+570,Noodles,0
+570,Paint,0
+570,Phone Charger,0
+570,Power Cord,0
+570,Shrimp,0
+570,Steak,0
+570,Tape,0
+571,Bracket,0
+571,Brush,0
+571,Cereal,0
+571,Ear Buds,5
+571,Eggs,0
+571,Glue,0
+571,Keyboard,0
+571,King Crab,1
+571,Milk,0
+571,Mouse,1
+571,Nails,0
+571,Noodles,0
+571,Paint,0
+571,Phone Charger,1
+571,Power Cord,0
+571,Shrimp,0
+571,Steak,0
+571,Tape,0
+572,Bracket,0
+572,Brush,0
+572,Cereal,0
+572,Ear Buds,0
+572,Eggs,0
+572,Glue,0
+572,Keyboard,0
+572,King Crab,0
+572,Milk,0
+572,Mouse,0
+572,Nails,0
+572,Noodles,0
+572,Paint,0
+572,Phone Charger,0
+572,Power Cord,0
+572,Shrimp,1
+572,Steak,0
+572,Tape,0
+573,Bracket,0
+573,Brush,0
+573,Cereal,0
+573,Ear Buds,0
+573,Eggs,0
+573,Glue,0
+573,Keyboard,0
+573,King Crab,0
+573,Milk,0
+573,Mouse,0
+573,Nails,0
+573,Noodles,0
+573,Paint,0
+573,Phone Charger,0
+573,Power Cord,0
+573,Shrimp,1
+573,Steak,0
+573,Tape,0
+574,Bracket,0
+574,Brush,0
+574,Cereal,0
+574,Ear Buds,0
+574,Eggs,0
+574,Glue,0
+574,Keyboard,1
+574,King Crab,0
+574,Milk,0
+574,Mouse,0
+574,Nails,0
+574,Noodles,1
+574,Paint,0
+574,Phone Charger,2
+574,Power Cord,0
+574,Shrimp,0
+574,Steak,0
+574,Tape,0
+575,Bracket,0
+575,Brush,0
+575,Cereal,0
+575,Ear Buds,3
+575,Eggs,0
+575,Glue,0
+575,Keyboard,0
+575,King Crab,0
+575,Milk,0
+575,Mouse,0
+575,Nails,0
+575,Noodles,1
+575,Paint,1
+575,Phone Charger,1
+575,Power Cord,0
+575,Shrimp,0
+575,Steak,0
+575,Tape,0
+576,Bracket,0
+576,Brush,0
+576,Cereal,0
+576,Ear Buds,0
+576,Eggs,0
+576,Glue,0
+576,Keyboard,0
+576,King Crab,0
+576,Milk,0
+576,Mouse,0
+576,Nails,0
+576,Noodles,0
+576,Paint,0
+576,Phone Charger,0
+576,Power Cord,0
+576,Shrimp,0
+576,Steak,0
+576,Tape,0
+577,Bracket,0
+577,Brush,0
+577,Cereal,0
+577,Ear Buds,0
+577,Eggs,0
+577,Glue,0
+577,Keyboard,0
+577,King Crab,0
+577,Milk,0
+577,Mouse,0
+577,Nails,0
+577,Noodles,0
+577,Paint,0
+577,Phone Charger,0
+577,Power Cord,0
+577,Shrimp,1
+577,Steak,0
+577,Tape,0
+578,Bracket,0
+578,Brush,0
+578,Cereal,0
+578,Ear Buds,0
+578,Eggs,0
+578,Glue,0
+578,Keyboard,0
+578,King Crab,0
+578,Milk,0
+578,Mouse,0
+578,Nails,0
+578,Noodles,0
+578,Paint,0
+578,Phone Charger,0
+578,Power Cord,0
+578,Shrimp,0
+578,Steak,0
+578,Tape,0
+579,Bracket,0
+579,Brush,0
+579,Cereal,0
+579,Ear Buds,0
+579,Eggs,0
+579,Glue,0
+579,Keyboard,0
+579,King Crab,0
+579,Milk,0
+579,Mouse,0
+579,Nails,0
+579,Noodles,0
+579,Paint,0
+579,Phone Charger,0
+579,Power Cord,0
+579,Shrimp,0
+579,Steak,0
+579,Tape,0
+580,Bracket,0
+580,Brush,0
+580,Cereal,0
+580,Ear Buds,0
+580,Eggs,0
+580,Glue,0
+580,Keyboard,0
+580,King Crab,0
+580,Milk,0
+580,Mouse,0
+580,Nails,0
+580,Noodles,0
+580,Paint,0
+580,Phone Charger,0
+580,Power Cord,0
+580,Shrimp,0
+580,Steak,0
+580,Tape,0
+581,Bracket,0
+581,Brush,0
+581,Cereal,0
+581,Ear Buds,0
+581,Eggs,0
+581,Glue,0
+581,Keyboard,0
+581,King Crab,0
+581,Milk,0
+581,Mouse,0
+581,Nails,0
+581,Noodles,0
+581,Paint,0
+581,Phone Charger,0
+581,Power Cord,0
+581,Shrimp,0
+581,Steak,0
+581,Tape,0
+582,Bracket,0
+582,Brush,0
+582,Cereal,0
+582,Ear Buds,0
+582,Eggs,0
+582,Glue,1
+582,Keyboard,0
+582,King Crab,0
+582,Milk,0
+582,Mouse,0
+582,Nails,0
+582,Noodles,0
+582,Paint,0
+582,Phone Charger,0
+582,Power Cord,0
+582,Shrimp,0
+582,Steak,0
+582,Tape,0
+583,Bracket,0
+583,Brush,0
+583,Cereal,0
+583,Ear Buds,0
+583,Eggs,0
+583,Glue,0
+583,Keyboard,0
+583,King Crab,0
+583,Milk,0
+583,Mouse,0
+583,Nails,0
+583,Noodles,0
+583,Paint,0
+583,Phone Charger,0
+583,Power Cord,0
+583,Shrimp,0
+583,Steak,0
+583,Tape,0
+584,Bracket,0
+584,Brush,0
+584,Cereal,0
+584,Ear Buds,0
+584,Eggs,0
+584,Glue,1
+584,Keyboard,0
+584,King Crab,0
+584,Milk,0
+584,Mouse,0
+584,Nails,0
+584,Noodles,0
+584,Paint,0
+584,Phone Charger,0
+584,Power Cord,0
+584,Shrimp,0
+584,Steak,0
+584,Tape,0
+585,Bracket,0
+585,Brush,0
+585,Cereal,0
+585,Ear Buds,0
+585,Eggs,0
+585,Glue,1
+585,Keyboard,1
+585,King Crab,0
+585,Milk,0
+585,Mouse,0
+585,Nails,0
+585,Noodles,0
+585,Paint,0
+585,Phone Charger,0
+585,Power Cord,0
+585,Shrimp,0
+585,Steak,0
+585,Tape,0
+586,Bracket,0
+586,Brush,0
+586,Cereal,0
+586,Ear Buds,2
+586,Eggs,0
+586,Glue,0
+586,Keyboard,0
+586,King Crab,0
+586,Milk,0
+586,Mouse,0
+586,Nails,0
+586,Noodles,0
+586,Paint,0
+586,Phone Charger,0
+586,Power Cord,0
+586,Shrimp,0
+586,Steak,0
+586,Tape,0
+587,Bracket,0
+587,Brush,0
+587,Cereal,0
+587,Ear Buds,0
+587,Eggs,0
+587,Glue,0
+587,Keyboard,0
+587,King Crab,0
+587,Milk,0
+587,Mouse,0
+587,Nails,0
+587,Noodles,0
+587,Paint,0
+587,Phone Charger,0
+587,Power Cord,1
+587,Shrimp,0
+587,Steak,0
+587,Tape,0
+588,Bracket,0
+588,Brush,0
+588,Cereal,0
+588,Ear Buds,1
+588,Eggs,0
+588,Glue,0
+588,Keyboard,1
+588,King Crab,0
+588,Milk,0
+588,Mouse,0
+588,Nails,0
+588,Noodles,0
+588,Paint,1
+588,Phone Charger,1
+588,Power Cord,0
+588,Shrimp,0
+588,Steak,0
+588,Tape,0
+589,Bracket,0
+589,Brush,0
+589,Cereal,0
+589,Ear Buds,4
+589,Eggs,0
+589,Glue,0
+589,Keyboard,0
+589,King Crab,0
+589,Milk,0
+589,Mouse,1
+589,Nails,0
+589,Noodles,0
+589,Paint,1
+589,Phone Charger,1
+589,Power Cord,1
+589,Shrimp,0
+589,Steak,0
+589,Tape,0
+590,Bracket,0
+590,Brush,0
+590,Cereal,0
+590,Ear Buds,0
+590,Eggs,0
+590,Glue,0
+590,Keyboard,0
+590,King Crab,0
+590,Milk,0
+590,Mouse,0
+590,Nails,0
+590,Noodles,0
+590,Paint,0
+590,Phone Charger,0
+590,Power Cord,0
+590,Shrimp,0
+590,Steak,0
+590,Tape,0
+591,Bracket,0
+591,Brush,0
+591,Cereal,0
+591,Ear Buds,0
+591,Eggs,0
+591,Glue,0
+591,Keyboard,0
+591,King Crab,0
+591,Milk,0
+591,Mouse,0
+591,Nails,0
+591,Noodles,0
+591,Paint,0
+591,Phone Charger,0
+591,Power Cord,0
+591,Shrimp,0
+591,Steak,0
+591,Tape,0
+592,Bracket,0
+592,Brush,0
+592,Cereal,0
+592,Ear Buds,0
+592,Eggs,0
+592,Glue,0
+592,Keyboard,0
+592,King Crab,0
+592,Milk,0
+592,Mouse,0
+592,Nails,0
+592,Noodles,0
+592,Paint,0
+592,Phone Charger,0
+592,Power Cord,0
+592,Shrimp,0
+592,Steak,0
+592,Tape,0
+593,Bracket,0
+593,Brush,0
+593,Cereal,0
+593,Ear Buds,0
+593,Eggs,0
+593,Glue,0
+593,Keyboard,0
+593,King Crab,0
+593,Milk,0
+593,Mouse,0
+593,Nails,0
+593,Noodles,0
+593,Paint,0
+593,Phone Charger,0
+593,Power Cord,0
+593,Shrimp,0
+593,Steak,0
+593,Tape,0
+594,Bracket,0
+594,Brush,0
+594,Cereal,0
+594,Ear Buds,0
+594,Eggs,0
+594,Glue,0
+594,Keyboard,0
+594,King Crab,0
+594,Milk,0
+594,Mouse,0
+594,Nails,0
+594,Noodles,0
+594,Paint,0
+594,Phone Charger,0
+594,Power Cord,0
+594,Shrimp,0
+594,Steak,0
+594,Tape,0
+595,Bracket,0
+595,Brush,0
+595,Cereal,0
+595,Ear Buds,0
+595,Eggs,0
+595,Glue,0
+595,Keyboard,0
+595,King Crab,0
+595,Milk,0
+595,Mouse,0
+595,Nails,0
+595,Noodles,0
+595,Paint,0
+595,Phone Charger,0
+595,Power Cord,0
+595,Shrimp,0
+595,Steak,0
+595,Tape,0
+596,Bracket,0
+596,Brush,0
+596,Cereal,0
+596,Ear Buds,1
+596,Eggs,0
+596,Glue,0
+596,Keyboard,1
+596,King Crab,1
+596,Milk,0
+596,Mouse,1
+596,Nails,0
+596,Noodles,3
+596,Paint,0
+596,Phone Charger,2
+596,Power Cord,1
+596,Shrimp,0
+596,Steak,2
+596,Tape,0
+597,Bracket,0
+597,Brush,0
+597,Cereal,0
+597,Ear Buds,0
+597,Eggs,0
+597,Glue,0
+597,Keyboard,1
+597,King Crab,0
+597,Milk,0
+597,Mouse,0
+597,Nails,0
+597,Noodles,0
+597,Paint,0
+597,Phone Charger,0
+597,Power Cord,2
+597,Shrimp,0
+597,Steak,0
+597,Tape,0
+598,Bracket,0
+598,Brush,0
+598,Cereal,0
+598,Ear Buds,0
+598,Eggs,0
+598,Glue,1
+598,Keyboard,0
+598,King Crab,0
+598,Milk,0
+598,Mouse,0
+598,Nails,0
+598,Noodles,0
+598,Paint,0
+598,Phone Charger,0
+598,Power Cord,0
+598,Shrimp,1
+598,Steak,0
+598,Tape,0
+599,Bracket,0
+599,Brush,0
+599,Cereal,0
+599,Ear Buds,0
+599,Eggs,0
+599,Glue,0
+599,Keyboard,1
+599,King Crab,0
+599,Milk,0
+599,Mouse,0
+599,Nails,0
+599,Noodles,0
+599,Paint,0
+599,Phone Charger,0
+599,Power Cord,0
+599,Shrimp,1
+599,Steak,0
+599,Tape,0
+600,Bracket,0
+600,Brush,0
+600,Cereal,0
+600,Ear Buds,1
+600,Eggs,0
+600,Glue,0
+600,Keyboard,0
+600,King Crab,0
+600,Milk,0
+600,Mouse,1
+600,Nails,0
+600,Noodles,0
+600,Paint,0
+600,Phone Charger,2
+600,Power Cord,0
+600,Shrimp,0
+600,Steak,1
+600,Tape,0
+601,Bracket,0
+601,Brush,0
+601,Cereal,0
+601,Ear Buds,1
+601,Eggs,0
+601,Glue,0
+601,Keyboard,0
+601,King Crab,0
+601,Milk,0
+601,Mouse,0
+601,Nails,0
+601,Noodles,0
+601,Paint,0
+601,Phone Charger,0
+601,Power Cord,0
+601,Shrimp,0
+601,Steak,0
+601,Tape,0
+602,Bracket,0
+602,Brush,0
+602,Cereal,0
+602,Ear Buds,0
+602,Eggs,0
+602,Glue,0
+602,Keyboard,1
+602,King Crab,1
+602,Milk,0
+602,Mouse,0
+602,Nails,0
+602,Noodles,0
+602,Paint,0
+602,Phone Charger,0
+602,Power Cord,0
+602,Shrimp,3
+602,Steak,0
+602,Tape,0
+603,Bracket,0
+603,Brush,0
+603,Cereal,0
+603,Ear Buds,0
+603,Eggs,0
+603,Glue,0
+603,Keyboard,1
+603,King Crab,0
+603,Milk,0
+603,Mouse,1
+603,Nails,0
+603,Noodles,0
+603,Paint,0
+603,Phone Charger,0
+603,Power Cord,0
+603,Shrimp,0
+603,Steak,0
+603,Tape,0
+604,Bracket,0
+604,Brush,0
+604,Cereal,0
+604,Ear Buds,0
+604,Eggs,0
+604,Glue,0
+604,Keyboard,0
+604,King Crab,0
+604,Milk,0
+604,Mouse,0
+604,Nails,0
+604,Noodles,0
+604,Paint,0
+604,Phone Charger,0
+604,Power Cord,0
+604,Shrimp,0
+604,Steak,0
+604,Tape,0
+605,Bracket,0
+605,Brush,0
+605,Cereal,0
+605,Ear Buds,0
+605,Eggs,0
+605,Glue,0
+605,Keyboard,0
+605,King Crab,0
+605,Milk,0
+605,Mouse,0
+605,Nails,0
+605,Noodles,0
+605,Paint,0
+605,Phone Charger,0
+605,Power Cord,0
+605,Shrimp,0
+605,Steak,0
+605,Tape,0
+606,Bracket,0
+606,Brush,0
+606,Cereal,0
+606,Ear Buds,0
+606,Eggs,0
+606,Glue,0
+606,Keyboard,0
+606,King Crab,0
+606,Milk,0
+606,Mouse,0
+606,Nails,0
+606,Noodles,0
+606,Paint,0
+606,Phone Charger,0
+606,Power Cord,0
+606,Shrimp,1
+606,Steak,0
+606,Tape,0
+607,Bracket,0
+607,Brush,0
+607,Cereal,0
+607,Ear Buds,0
+607,Eggs,0
+607,Glue,0
+607,Keyboard,0
+607,King Crab,0
+607,Milk,0
+607,Mouse,0
+607,Nails,0
+607,Noodles,0
+607,Paint,0
+607,Phone Charger,0
+607,Power Cord,0
+607,Shrimp,0
+607,Steak,0
+607,Tape,0
+608,Bracket,0
+608,Brush,0
+608,Cereal,0
+608,Ear Buds,0
+608,Eggs,0
+608,Glue,0
+608,Keyboard,0
+608,King Crab,0
+608,Milk,0
+608,Mouse,0
+608,Nails,0
+608,Noodles,0
+608,Paint,0
+608,Phone Charger,0
+608,Power Cord,0
+608,Shrimp,1
+608,Steak,0
+608,Tape,0
+609,Bracket,0
+609,Brush,0
+609,Cereal,0
+609,Ear Buds,4
+609,Eggs,0
+609,Glue,0
+609,Keyboard,1
+609,King Crab,0
+609,Milk,0
+609,Mouse,1
+609,Nails,0
+609,Noodles,3
+609,Paint,0
+609,Phone Charger,3
+609,Power Cord,1
+609,Shrimp,1
+609,Steak,1
+609,Tape,0
+610,Bracket,0
+610,Brush,0
+610,Cereal,0
+610,Ear Buds,1
+610,Eggs,0
+610,Glue,0
+610,Keyboard,0
+610,King Crab,0
+610,Milk,0
+610,Mouse,0
+610,Nails,0
+610,Noodles,1
+610,Paint,0
+610,Phone Charger,0
+610,Power Cord,0
+610,Shrimp,1
+610,Steak,0
+610,Tape,0
+611,Bracket,0
+611,Brush,0
+611,Cereal,0
+611,Ear Buds,3
+611,Eggs,0
+611,Glue,0
+611,Keyboard,4
+611,King Crab,1
+611,Milk,0
+611,Mouse,3
+611,Nails,0
+611,Noodles,1
+611,Paint,1
+611,Phone Charger,2
+611,Power Cord,0
+611,Shrimp,0
+611,Steak,2
+611,Tape,0
+612,Bracket,0
+612,Brush,0
+612,Cereal,0
+612,Ear Buds,0
+612,Eggs,0
+612,Glue,0
+612,Keyboard,0
+612,King Crab,0
+612,Milk,0
+612,Mouse,0
+612,Nails,0
+612,Noodles,0
+612,Paint,0
+612,Phone Charger,0
+612,Power Cord,0
+612,Shrimp,0
+612,Steak,0
+612,Tape,0
+613,Bracket,0
+613,Brush,0
+613,Cereal,0
+613,Ear Buds,0
+613,Eggs,0
+613,Glue,1
+613,Keyboard,0
+613,King Crab,1
+613,Milk,0
+613,Mouse,1
+613,Nails,0
+613,Noodles,0
+613,Paint,0
+613,Phone Charger,0
+613,Power Cord,0
+613,Shrimp,1
+613,Steak,0
+613,Tape,0
+614,Bracket,0
+614,Brush,0
+614,Cereal,0
+614,Ear Buds,2
+614,Eggs,0
+614,Glue,0
+614,Keyboard,1
+614,King Crab,1
+614,Milk,0
+614,Mouse,0
+614,Nails,0
+614,Noodles,0
+614,Paint,0
+614,Phone Charger,0
+614,Power Cord,0
+614,Shrimp,2
+614,Steak,0
+614,Tape,0
+615,Bracket,0
+615,Brush,0
+615,Cereal,0
+615,Ear Buds,0
+615,Eggs,0
+615,Glue,0
+615,Keyboard,0
+615,King Crab,0
+615,Milk,0
+615,Mouse,0
+615,Nails,0
+615,Noodles,0
+615,Paint,0
+615,Phone Charger,0
+615,Power Cord,0
+615,Shrimp,0
+615,Steak,0
+615,Tape,0
+616,Bracket,0
+616,Brush,0
+616,Cereal,0
+616,Ear Buds,0
+616,Eggs,0
+616,Glue,0
+616,Keyboard,0
+616,King Crab,0
+616,Milk,0
+616,Mouse,0
+616,Nails,0
+616,Noodles,0
+616,Paint,0
+616,Phone Charger,0
+616,Power Cord,0
+616,Shrimp,0
+616,Steak,0
+616,Tape,0
+617,Bracket,0
+617,Brush,0
+617,Cereal,0
+617,Ear Buds,0
+617,Eggs,0
+617,Glue,0
+617,Keyboard,0
+617,King Crab,0
+617,Milk,0
+617,Mouse,0
+617,Nails,0
+617,Noodles,0
+617,Paint,0
+617,Phone Charger,0
+617,Power Cord,0
+617,Shrimp,0
+617,Steak,0
+617,Tape,0
+618,Bracket,0
+618,Brush,0
+618,Cereal,0
+618,Ear Buds,0
+618,Eggs,0
+618,Glue,0
+618,Keyboard,1
+618,King Crab,0
+618,Milk,0
+618,Mouse,0
+618,Nails,0
+618,Noodles,0
+618,Paint,0
+618,Phone Charger,0
+618,Power Cord,0
+618,Shrimp,0
+618,Steak,0
+618,Tape,0
+619,Bracket,0
+619,Brush,0
+619,Cereal,0
+619,Ear Buds,0
+619,Eggs,0
+619,Glue,0
+619,Keyboard,0
+619,King Crab,0
+619,Milk,0
+619,Mouse,0
+619,Nails,0
+619,Noodles,0
+619,Paint,0
+619,Phone Charger,0
+619,Power Cord,0
+619,Shrimp,0
+619,Steak,0
+619,Tape,0
+620,Bracket,0
+620,Brush,0
+620,Cereal,0
+620,Ear Buds,0
+620,Eggs,0
+620,Glue,0
+620,Keyboard,0
+620,King Crab,0
+620,Milk,0
+620,Mouse,0
+620,Nails,0
+620,Noodles,0
+620,Paint,0
+620,Phone Charger,0
+620,Power Cord,0
+620,Shrimp,0
+620,Steak,0
+620,Tape,0
+621,Bracket,0
+621,Brush,0
+621,Cereal,0
+621,Ear Buds,0
+621,Eggs,0
+621,Glue,0
+621,Keyboard,0
+621,King Crab,0
+621,Milk,0
+621,Mouse,0
+621,Nails,0
+621,Noodles,0
+621,Paint,0
+621,Phone Charger,0
+621,Power Cord,0
+621,Shrimp,0
+621,Steak,0
+621,Tape,0
+622,Bracket,0
+622,Brush,0
+622,Cereal,0
+622,Ear Buds,0
+622,Eggs,0
+622,Glue,0
+622,Keyboard,0
+622,King Crab,0
+622,Milk,0
+622,Mouse,0
+622,Nails,0
+622,Noodles,0
+622,Paint,0
+622,Phone Charger,0
+622,Power Cord,0
+622,Shrimp,0
+622,Steak,0
+622,Tape,0
+623,Bracket,0
+623,Brush,0
+623,Cereal,0
+623,Ear Buds,1
+623,Eggs,0
+623,Glue,0
+623,Keyboard,1
+623,King Crab,1
+623,Milk,0
+623,Mouse,0
+623,Nails,0
+623,Noodles,0
+623,Paint,0
+623,Phone Charger,1
+623,Power Cord,0
+623,Shrimp,0
+623,Steak,0
+623,Tape,0
+624,Bracket,0
+624,Brush,0
+624,Cereal,0
+624,Ear Buds,1
+624,Eggs,0
+624,Glue,0
+624,Keyboard,1
+624,King Crab,0
+624,Milk,0
+624,Mouse,0
+624,Nails,0
+624,Noodles,0
+624,Paint,0
+624,Phone Charger,0
+624,Power Cord,0
+624,Shrimp,1
+624,Steak,0
+624,Tape,0
+625,Bracket,0
+625,Brush,0
+625,Cereal,0
+625,Ear Buds,2
+625,Eggs,0
+625,Glue,0
+625,Keyboard,3
+625,King Crab,0
+625,Milk,0
+625,Mouse,6
+625,Nails,0
+625,Noodles,0
+625,Paint,0
+625,Phone Charger,1
+625,Power Cord,0
+625,Shrimp,0
+625,Steak,0
+625,Tape,0
+626,Bracket,0
+626,Brush,0
+626,Cereal,0
+626,Ear Buds,3
+626,Eggs,0
+626,Glue,0
+626,Keyboard,0
+626,King Crab,0
+626,Milk,0
+626,Mouse,3
+626,Nails,0
+626,Noodles,2
+626,Paint,1
+626,Phone Charger,1
+626,Power Cord,0
+626,Shrimp,0
+626,Steak,0
+626,Tape,0
+627,Bracket,0
+627,Brush,0
+627,Cereal,0
+627,Ear Buds,7
+627,Eggs,0
+627,Glue,0
+627,Keyboard,2
+627,King Crab,0
+627,Milk,0
+627,Mouse,10
+627,Nails,0
+627,Noodles,1
+627,Paint,0
+627,Phone Charger,0
+627,Power Cord,0
+627,Shrimp,3
+627,Steak,2
+627,Tape,0
+628,Bracket,0
+628,Brush,0
+628,Cereal,0
+628,Ear Buds,1
+628,Eggs,0
+628,Glue,0
+628,Keyboard,0
+628,King Crab,0
+628,Milk,0
+628,Mouse,0
+628,Nails,0
+628,Noodles,2
+628,Paint,0
+628,Phone Charger,0
+628,Power Cord,0
+628,Shrimp,0
+628,Steak,0
+628,Tape,0
+629,Bracket,0
+629,Brush,0
+629,Cereal,0
+629,Ear Buds,0
+629,Eggs,0
+629,Glue,0
+629,Keyboard,1
+629,King Crab,0
+629,Milk,0
+629,Mouse,0
+629,Nails,0
+629,Noodles,1
+629,Paint,0
+629,Phone Charger,0
+629,Power Cord,0
+629,Shrimp,0
+629,Steak,0
+629,Tape,0
+630,Bracket,0
+630,Brush,0
+630,Cereal,0
+630,Ear Buds,0
+630,Eggs,0
+630,Glue,1
+630,Keyboard,0
+630,King Crab,0
+630,Milk,0
+630,Mouse,0
+630,Nails,0
+630,Noodles,0
+630,Paint,0
+630,Phone Charger,0
+630,Power Cord,0
+630,Shrimp,0
+630,Steak,1
+630,Tape,0
+631,Bracket,0
+631,Brush,0
+631,Cereal,0
+631,Ear Buds,0
+631,Eggs,0
+631,Glue,0
+631,Keyboard,0
+631,King Crab,0
+631,Milk,0
+631,Mouse,4
+631,Nails,0
+631,Noodles,2
+631,Paint,0
+631,Phone Charger,0
+631,Power Cord,0
+631,Shrimp,4
+631,Steak,1
+631,Tape,0
+632,Bracket,0
+632,Brush,1
+632,Cereal,0
+632,Ear Buds,0
+632,Eggs,0
+632,Glue,0
+632,Keyboard,0
+632,King Crab,0
+632,Milk,0
+632,Mouse,0
+632,Nails,0
+632,Noodles,0
+632,Paint,0
+632,Phone Charger,0
+632,Power Cord,1
+632,Shrimp,1
+632,Steak,1
+632,Tape,0
+633,Bracket,0
+633,Brush,0
+633,Cereal,0
+633,Ear Buds,0
+633,Eggs,0
+633,Glue,0
+633,Keyboard,0
+633,King Crab,0
+633,Milk,0
+633,Mouse,0
+633,Nails,0
+633,Noodles,0
+633,Paint,0
+633,Phone Charger,1
+633,Power Cord,0
+633,Shrimp,0
+633,Steak,0
+633,Tape,0
+634,Bracket,0
+634,Brush,0
+634,Cereal,0
+634,Ear Buds,1
+634,Eggs,0
+634,Glue,0
+634,Keyboard,0
+634,King Crab,0
+634,Milk,0
+634,Mouse,1
+634,Nails,0
+634,Noodles,0
+634,Paint,0
+634,Phone Charger,2
+634,Power Cord,0
+634,Shrimp,0
+634,Steak,2
+634,Tape,0
+635,Bracket,0
+635,Brush,0
+635,Cereal,0
+635,Ear Buds,0
+635,Eggs,0
+635,Glue,0
+635,Keyboard,1
+635,King Crab,0
+635,Milk,0
+635,Mouse,0
+635,Nails,0
+635,Noodles,0
+635,Paint,0
+635,Phone Charger,0
+635,Power Cord,0
+635,Shrimp,0
+635,Steak,0
+635,Tape,0
+636,Bracket,0
+636,Brush,0
+636,Cereal,0
+636,Ear Buds,1
+636,Eggs,0
+636,Glue,0
+636,Keyboard,0
+636,King Crab,0
+636,Milk,0
+636,Mouse,0
+636,Nails,0
+636,Noodles,0
+636,Paint,0
+636,Phone Charger,1
+636,Power Cord,0
+636,Shrimp,0
+636,Steak,0
+636,Tape,0
+637,Bracket,0
+637,Brush,0
+637,Cereal,0
+637,Ear Buds,1
+637,Eggs,0
+637,Glue,0
+637,Keyboard,0
+637,King Crab,0
+637,Milk,0
+637,Mouse,1
+637,Nails,0
+637,Noodles,1
+637,Paint,0
+637,Phone Charger,1
+637,Power Cord,0
+637,Shrimp,0
+637,Steak,1
+637,Tape,0
+638,Bracket,0
+638,Brush,0
+638,Cereal,0
+638,Ear Buds,0
+638,Eggs,0
+638,Glue,0
+638,Keyboard,0
+638,King Crab,0
+638,Milk,0
+638,Mouse,0
+638,Nails,0
+638,Noodles,0
+638,Paint,0
+638,Phone Charger,0
+638,Power Cord,0
+638,Shrimp,0
+638,Steak,0
+638,Tape,0
+639,Bracket,0
+639,Brush,1
+639,Cereal,0
+639,Ear Buds,0
+639,Eggs,0
+639,Glue,0
+639,Keyboard,0
+639,King Crab,0
+639,Milk,0
+639,Mouse,0
+639,Nails,0
+639,Noodles,0
+639,Paint,0
+639,Phone Charger,0
+639,Power Cord,0
+639,Shrimp,0
+639,Steak,0
+639,Tape,0
+640,Bracket,0
+640,Brush,0
+640,Cereal,0
+640,Ear Buds,0
+640,Eggs,0
+640,Glue,0
+640,Keyboard,0
+640,King Crab,0
+640,Milk,0
+640,Mouse,0
+640,Nails,0
+640,Noodles,0
+640,Paint,1
+640,Phone Charger,0
+640,Power Cord,0
+640,Shrimp,0
+640,Steak,0
+640,Tape,0
+641,Bracket,0
+641,Brush,1
+641,Cereal,0
+641,Ear Buds,0
+641,Eggs,0
+641,Glue,0
+641,Keyboard,0
+641,King Crab,0
+641,Milk,0
+641,Mouse,0
+641,Nails,0
+641,Noodles,1
+641,Paint,0
+641,Phone Charger,0
+641,Power Cord,0
+641,Shrimp,0
+641,Steak,1
+641,Tape,0
+642,Bracket,0
+642,Brush,0
+642,Cereal,0
+642,Ear Buds,0
+642,Eggs,0
+642,Glue,0
+642,Keyboard,0
+642,King Crab,0
+642,Milk,0
+642,Mouse,0
+642,Nails,0
+642,Noodles,0
+642,Paint,0
+642,Phone Charger,0
+642,Power Cord,0
+642,Shrimp,0
+642,Steak,0
+642,Tape,0

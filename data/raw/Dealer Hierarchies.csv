@@ -1,0 +1,643 @@
+Store,Store Owner,Region Level 1,Region Level 2,Urban/Rural
+1,00001,Eisenstadt-Umgebung,GWR,Urban
+2,00001,Politischer Bezirk G?ssing,GWR,Urban
+3,00001,Politischer Bezirk Jennersdorf,GWR,Urban
+4,00001,Politischer Bezirk Jennersdorf,GWR,Urban
+5,00001,Politischer Bezirk Oberpullendorf,GWR,Urban
+6,00001,Politischer Bezirk Oberwart,GWR,Urban
+7,00001,Villach Stadt,PUF,Urban
+8,00001,Politischer Bezirk Hermagor,MSD,Rural
+9,00002,Politischer Bezirk Klagenfurt Land,SQI,Urban
+10,00002,Politischer Bezirk Sankt Veit an der Glan,SQI,Urban
+11,00003,Politischer Bezirk Spittal an der Drau,OOO,Rural
+12,00004,Politischer Bezirk Villach Land,JHJ,Urban
+13,00005,Politischer Bezirk V?lkermarkt,KWA,Rural
+14,00006,Politischer Bezirk Wolfsberg,QDA,Urban
+15,00007,Politischer Bezirk Feldkirchen,WPH,Urban
+16,00008,Krems an der Donau Stadt,FAC,Urban
+17,00009,Sankt P?lten Stadt,GCG,Rural
+18,00010,Wiener Neustadt Stadt,KCF,Rural
+19,00010,Politischer Bezirk Amstetten,KCF,Urban
+20,00010,Wiener Neustadt Stadt,KCF,Rural
+21,00011,Politischer Bezirk Baden,NSX,Urban
+22,00012,Politischer Bezirk Bruck an der Leitha,TPV,Urban
+23,00011,Politischer Bezirk G?nserndorf,VSZ,Rural
+24,00012,Politischer Bezirk Gm?nd,TPV,Rural
+25,00010,Wiener Neustadt Stadt,KCF,Rural
+26,00013,Politischer Bezirk Hollabrunn,QDA,Urban
+27,00014,Politischer Bezirk Horn,IRG,Urban
+28,00014,Politischer Bezirk Korneuburg,IRG,Rural
+29,00012,Politischer Bezirk Gm?nd,TPV,Rural
+30,00015,Politischer Bezirk Krems,TIG,Rural
+31,00016,Politischer Bezirk V?lkermarkt,KWA,Rural
+32,00017,Politischer Bezirk Lilienfeld,VSZ,Urban
+33,00016,Politischer Bezirk Melk,KWA,Urban
+34,00018,Politischer Bezirk Mistelbach,LAV,Urban
+35,00019,Sankt P?lten Stadt,GCG,Rural
+36,00020,Politischer Bezirk M?dling,NLG,Rural
+37,00021,Politischer Bezirk Neunkirchen,PPM,Urban
+38,00022,Politischer Bezirk Sankt P?lten,NSX,Rural
+39,00023,Politischer Bezirk Scheibbs,JOP,Urban
+40,00020,Politischer Bezirk Tulln,NLG,Urban
+41,00024,Politischer Bezirk Waidhofen an der Thaya,YIU,Urban
+42,00025,Politischer Bezirk Wiener Neustadt,QZN,Rural
+43,00026,Politischer Bezirk Zwettl,WPH,Rural
+44,00020,Wels Stadt,MEO,Urban
+45,00027,Politischer Bezirk Braunau am Inn,ICA,Urban
+46,00027,Politischer Bezirk Eferding,ICA,Rural
+47,00028,Politischer Bezirk Freistadt,TZF,Rural
+48,00029,Politischer Bezirk Gmunden,LRJ,Urban
+49,00029,Politischer Bezirk Grieskirchen,LRJ,Urban
+50,00028,Politischer Bezirk Freistadt,TZF,Rural
+51,00030,Politischer Bezirk Kirchdorf an der Krems,SQI,Urban
+52,00031,Politischer Bezirk Linz-Land,TOH,Urban
+53,00032,Politischer Bezirk Perg,TZF,Urban
+54,00028,Politischer Bezirk Ried im Innkreis,TZF,Urban
+55,00033,Politischer Bezirk Rohrbach,MDM,Rural
+56,00034,Politischer Bezirk Sch?rding,WJO,Urban
+57,00035,Politischer Bezirk Steyr-Land,VFN,Rural
+58,00036,Politischer Bezirk Urfahr-Umgebung,WFJ,Urban
+59,00008,Krems an der Donau Stadt,FAC,Urban
+60,00037,Politischer Bezirk V?cklabruck,IPP,Urban
+61,00038,Wels-Land,LAV,Urban
+62,00039,Politischer Bezirk Hallein,JLJ,Rural
+63,00040,Politischer Bezirk Hallein,JLJ,Rural
+64,00041,Politischer Bezirk Hallein,JLJ,Rural
+65,00041,Politischer Bezirk Hallein,JLJ,Rural
+66,00042,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+67,00008,Krems an der Donau Stadt,FAC,Urban
+68,00043,Politischer Bezirk Eferding,ICA,Rural
+69,00044,Politischer Bezirk Steyr-Land,VFN,Rural
+70,00045,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+71,00046,Politischer Bezirk Tamsweg,UAY,Rural
+72,00047,Politischer Bezirk G?nserndorf,VSZ,Rural
+73,00048,Politischer Bezirk Zell am See,IYN,Urban
+74,00049,Sankt P?lten Stadt,GCG,Rural
+75,00050,Politischer Bezirk Steyr-Land,VFN,Rural
+76,00051,Graz Stadt,MMJ,Rural
+77,00030,Politischer Bezirk Kirchdorf an der Krems,SQI,Urban
+78,00030,Politischer Bezirk Kirchdorf an der Krems,SQI,Urban
+79,00030,Politischer Bezirk Kirchdorf an der Krems,SQI,Urban
+80,00030,Politischer Bezirk Deutschlandsberg,JOP,Urban
+81,00029,Politischer Bezirk Graz-Umgebung,LRJ,Urban
+82,00030,Politischer Bezirk Leibnitz,SQI,Urban
+83,00052,Politischer Bezirk Leoben,DNJ,Rural
+84,00053,Politischer Bezirk Liezen,JOP,Urban
+85,00008,Krems an der Donau Stadt,FAC,Urban
+86,00008,Politischer Bezirk Murau,TPV,Urban
+87,00004,Politischer Bezirk Voitsberg,SQI,Rural
+88,00054,Politischer Bezirk Weiz,JHJ,Urban
+89,00055,Politischer Bezirk Murtal,TPV,Urban
+90,00051,Politischer Bezirk Bruck-M?rzzuschlag,MMJ,Urban
+91,00054,Politischer Bezirk Hartberg-F?rstenfeld,JHJ,Urban
+92,00051,Politischer Bezirk S?doststeiermark,MMJ,Urban
+93,00032,Innsbruck Stadt,TZF,Urban
+94,00051,Politischer Bezirk Imst,MMJ,Urban
+95,00051,Politischer Bezirk Innsbruck Land,MMJ,Urban
+96,00051,Politischer Bezirk Bruck-M?rzzuschlag,MMJ,Urban
+97,00056,Politischer Bezirk Kufstein,QDA,Urban
+98,00051,Politischer Bezirk Bruck-M?rzzuschlag,MMJ,Urban
+99,00051,Politischer Bezirk Landeck,MMJ,Urban
+100,00051,Politischer Bezirk Lienz,QZN,Urban
+101,00057,Politischer Bezirk Reutte,WJO,Urban
+102,00022,Politischer Bezirk Bludenz,MEO,Urban
+103,00032,Innsbruck Stadt,TZF,Urban
+104,00058,Politischer Bezirk Bregenz,PUF,Rural
+105,00058,Politischer Bezirk Feldkirch,PUF,Urban
+106,00055,Politischer Bezirk Murtal,TPV,Urban
+107,00059,Graz Stadt,MMJ,Rural
+108,00038,Salzburg Stadt,LAV,Urban
+109,00060,Politischer Bezirk Kitzb?hel,ICA,Urban
+110,00061,Politischer Bezirk Dornbirn,TZF,Urban
+111,00061,Politischer Bezirk Wien (Stadt),SMM,Urban
+112,00061,Rust Stadt,UAY,Urban
+113,00062,Politischer Bezirk Mattersburg,FAC,Urban
+114,00063,Politischer Bezirk Neusiedl am See,KTR,Urban
+115,00064,Politischer Bezirk Schwaz,FAC,Urban
+116,00065,Politischer Bezirk Eferding,ICA,Rural
+117,00054,Steyr Stadt,IRA,Urban
+118,00066,Politischer Bezirk Eferding,ICA,Rural
+119,00022,Linz Stadt,NSX,Urban
+120,00022,Linz Stadt,NSX,Urban
+121,00028,Politischer Bezirk Ried im Innkreis,TZF,Urban
+122,00028,Klagenfurt am W?rthersee,TZF,Urban
+123,00022,Waidhofen an der Ybbs Stadt,NSX,Urban
+124,00067,Eisenstadt Stadt,TIF,Rural
+125,00068,Hainaut,YIU,Urban
+126,00069,Li?ge,YIU,Urban
+127,00062,Luxembourg,FAC,Urban
+128,00046,Eisenstadt Stadt,TIF,Rural
+129,00070,Namur,MSD,Urban
+130,00071,Bruxelles (19 communes),YIU,Urban
+131,00072,Anvers,EPM,Urban
+132,00073,Brabant Flamand,DNC,Rural
+133,00038,Limbourg,LAV,Urban
+134,00074,Flandre-Orientale,KTR,Urban
+135,00038,Limbourg,LAV,Urban
+136,00038,Flandre-Occidentale,LAV,Rural
+137,00075,Politischer Bezirk Sankt P?lten,NSX,Rural
+138,00076,Politischer Bezirk Steyr-Land,VFN,Rural
+139,00077,Brabant Wallon,QDA,Urban
+140,00078,Mlad? Boleslav,FAC,Urban
+141,00079,Nymburk,YIU,Urban
+142,00080,Praha-v?chod,QDA,Rural
+143,00081,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+144,00028,Politischer Bezirk Ried im Innkreis,TZF,Urban
+145,00028,Politischer Bezirk Ried im Innkreis,TZF,Urban
+146,00082,Politischer Bezirk Wiener Neustadt,QZN,Rural
+147,00083,Flandre-Occidentale,LAV,Rural
+148,00080,Praha-z?pad,QDA,Urban
+149,00080,P??bram,QDA,Urban
+150,00084,Rakovn?k,APM,Urban
+151,00085,D???n,NLX,Urban
+152,00085,Chomutov,NLX,Urban
+153,00086,Litom??ice,NGO,Rural
+154,00087,Louny,KTR,Rural
+155,00007,Flandre-Occidentale,LAV,Rural
+156,00007,Flandre-Occidentale,LAV,Rural
+157,00088,Most,WFJ,Urban
+158,00089,Politischer Bezirk Spittal an der Drau,OOO,Rural
+159,00089,Teplice,JHJ,Urban
+160,00089,?st? nad Labem,JHJ,Urban
+161,00076,Politischer Bezirk Eferding,ICA,Rural
+162,00076,Zl?n,VFN,Urban
+163,00090,Krom????,DHA,Urban
+164,00079,Uhersk? Hradi?t?,YIU,Urban
+165,00076,Politischer Bezirk Steyr-Land,VFN,Rural
+166,00038,Wels-Land,LAV,Urban
+167,00091,Vset?n,WPH,Urban
+168,00074,Strakonice,KTR,Urban
+169,00092,T?bor,VSZ,Urban
+170,00093,Praha-v?chod,QDA,Rural
+171,00094,Pelh?imov,SQI,Urban
+172,00095,Havl??k?v Brod,QDA,Urban
+173,00095,Praha-v?chod,QDA,Rural
+174,00096,Jihlava,JLJ,Urban
+175,00097,T?eb??,SKS,Urban
+176,00097,T?eb??,SKS,Urban
+177,00097,???r nad S?zavou,SKS,Rural
+178,00097,???r nad S?zavou,SKS,Rural
+179,00098,Cheb,UAY,Urban
+180,00097,Karlovy Vary,SKS,Urban
+181,00097,???r nad S?zavou,SKS,Rural
+182,00097,Sokolov,SKS,Urban
+183,00097,Hradec Kr?lov?,SKS,Urban
+184,00099,Ji??n,WFJ,Urban
+185,00100,N?chod,VSZ,Urban
+186,00101,Rychnov nad Kn??nou,RSL,Urban
+187,00102,Trutnov,LAV,Urban
+188,00068,?esk? L?pa,YIU,Urban
+189,00022,Waidhofen an der Ybbs Stadt,NSX,Urban
+190,00101,Jablonec nad Nisou,RSL,Urban
+191,00022,Liberec,MEO,Rural
+192,00101,Semily,UIS,Urban
+193,00101,Prost?jov,WFJ,Urban
+194,00068,Olomouc,YIU,Urban
+195,00069,P?erov,YIU,Rural
+196,00069,P?erov,YIU,Rural
+197,00103,?umperk,JHR,Urban
+198,00104,Jesen?k,RUN,Urban
+199,00105,Liberec,MEO,Rural
+200,00038,Flandre-Occidentale,LAV,Rural
+201,00106,Politischer Bezirk Gm?nd,TPV,Rural
+202,00107,Brunt?l,JHJ,Urban
+203,00108,Fr?dek-M?stek,LAV,Urban
+204,00109,Politischer Bezirk Rohrbach,MDM,Rural
+205,00110,Karvin?,LRJ,Urban
+206,00110,Nov? Ji??n,LRJ,Rural
+207,00110,Nov? Ji??n,LRJ,Rural
+208,00111,Sankt P?lten Stadt,GCG,Rural
+209,00112,Politischer Bezirk Gm?nd,TPV,Rural
+210,00055,Politischer Bezirk Murtal,TPV,Urban
+211,00055,Opava,TPV,Urban
+212,00055,Ostrava-m?sto,TPV,Urban
+213,00113,Chrudim,ICA,Urban
+214,00038,Pardubice,LAV,Urban
+215,00114,Svitavy,AAR,Urban
+216,00038,?st? nad Orlic?,LAV,Urban
+217,00115,Politischer Bezirk Wiener Neustadt,QZN,Rural
+218,00116,Sankt P?lten Stadt,GCG,Rural
+219,00117,Doma?lice,QDA,Urban
+220,00118,Nov? Ji??n,LRJ,Rural
+221,00119,Klatovy,NGO,Urban
+222,00119,Plze?-m?sto,NGO,Urban
+223,00120,Plze?-jih,XEG,Rural
+224,00092,Plze?-sever,VSZ,Urban
+225,00092,Rokycany,VSZ,Urban
+226,00092,Politischer Bezirk G?nserndorf,VSZ,Rural
+227,00121,Louny,KTR,Rural
+228,00122,Praha-v?chod,QDA,Rural
+229,00123,Tachov,ICA,Urban
+230,00124,Bene?ov,UQM,Rural
+231,00125,Beroun,WPH,Urban
+232,00126,Politischer Bezirk Steyr-Land,VFN,Rural
+233,00127,Krems an der Donau Stadt,FAC,Urban
+234,00128,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+235,00129,Politischer Bezirk Eferding,ICA,Rural
+236,00129,Chrudim,ICA,Urban
+237,00092,T?bor,VSZ,Urban
+238,00092,T?bor,VSZ,Urban
+239,00058,Politischer Bezirk Bregenz,PUF,Rural
+240,00032,Innsbruck Stadt,TZF,Urban
+241,00130,Kladno,MSD,Urban
+242,00052,Politischer Bezirk Leoben,DNJ,Rural
+243,00131,Kol?n,TIG,Urban
+244,00071,Kutn? Hora,YIU,Urban
+245,00068,M?ln?k,YIU,Urban
+246,00132,Graz Stadt,MMJ,Rural
+247,00133,Politischer Bezirk Hermagor,MSD,Rural
+248,00134,???r nad S?zavou,SKS,Rural
+249,00134,???r nad S?zavou,SKS,Rural
+250,00135,Bene?ov,UQM,Rural
+251,00068,Hlavn? m?sto Praha,JHR,Urban
+252,00136,Blansko,FAC,Rural
+253,00137,Brno-m?sto,JLJ,Urban
+254,00089,Brno-venkov,DHA,Rural
+255,00089,?st? nad Labem,JHJ,Urban
+256,00089,B?eclav,JHJ,Rural
+257,00008,Krems an der Donau Stadt,FAC,Urban
+258,00138,Politischer Bezirk Korneuburg,IRG,Rural
+259,00019,Sankt P?lten Stadt,GCG,Rural
+260,00019,Sankt P?lten Stadt,GCG,Rural
+261,00139,Hodon?n,QZN,Urban
+262,00139,Politischer Bezirk Wiener Neustadt,QZN,Rural
+263,00033,Vy?kov,MDM,Urban
+264,00033,Politischer Bezirk Rohrbach,MDM,Rural
+265,00033,Politischer Bezirk Rohrbach,MDM,Rural
+266,00140,Znojmo,NGO,Urban
+267,00141,Politischer Bezirk Eferding,ICA,Rural
+268,00069,?esk? Bud?jovice,YIU,Urban
+269,00142,?esk? Krumlov,NSX,Urban
+270,00142,?esk? Krumlov,NSX,Urban
+271,00142,Jind?ich?v Hradec,TPV,Urban
+272,00143,P?sek,WPH,Urban
+273,00144,Litom??ice,NGO,Rural
+274,00145,Politischer Bezirk M?dling,NLG,Rural
+275,00146,Prachatice,VSZ,Urban
+276,00111,Sankt P?lten Stadt,GCG,Rural
+277,00147,Copenhagen,GCG,Urban
+278,00114,Frederiksberg Kommune,AAR,Urban
+279,00090,Hvidovre Kommune,APM,Urban
+280,00148,Politischer Bezirk Zwettl,WPH,Rural
+281,00149,Fredensborg Kommune,NLG,Urban
+282,00150,Politischer Bezirk Zwettl,WPH,Rural
+283,00151,Politischer Bezirk Baden,NSX,Urban
+284,00142,Politischer Bezirk Sankt P?lten,NSX,Rural
+285,00152,Politischer Bezirk G?nserndorf,VSZ,Rural
+286,00153,Helsing©ªr Kommune,AAR,Urban
+287,00102,Syddjurs Kommune,LAV,Urban
+288,00148,Politischer Bezirk Zwettl,WPH,Rural
+289,00148,Politischer Bezirk Zwettl,WPH,Rural
+290,00071,Silkeborg Kommune,YIU,Urban
+291,00154,Ringk©ªbing-Skjern Kommune,QDA,Urban
+292,00154,Praha-v?chod,QDA,Rural
+293,00155,Skive Kommune,PPM,Urban
+294,00156,Mors©ª Kommune,RUN,Urban
+295,00157,Litom??ice,NGO,Rural
+296,00101,Br©ªnderslev Kommune,WFJ,Urban
+297,00158,Vesthimmerland Kommune,GCG,Urban
+298,00158,Sankt P?lten Stadt,GCG,Rural
+299,00034,L©¡so Kommune,WJO,Urban
+300,00159,Bene?ov,UQM,Rural
+301,00103,Hj©ªrring Kommune,YIU,Urban
+302,00160,Politischer Bezirk Eferding,ICA,Rural
+303,00027,Chrudim,ICA,Urban
+304,00027,Politischer Bezirk Eferding,ICA,Rural
+305,00161,K©ªge Kommune,SKS,Urban
+306,00089,Slagelse Kommune,OOO,Urban
+307,00162,Litom??ice,NGO,Rural
+308,00163,Sor©ª Kommune,WPH,Urban
+309,00164,Politischer Bezirk Korneuburg,IRG,Rural
+310,00165,Politischer Bezirk Eferding,ICA,Rural
+311,00166,Lejre Kommune,SQI,Urban
+312,00020,Politischer Bezirk M?dling,NLG,Rural
+313,00167,Blansko,FAC,Rural
+314,00167,Lolland Kommune,FAC,Urban
+315,00167,N©¡stved Kommune,FAC,Urban
+316,00168,Bene?ov,UQM,Rural
+317,00167,Vordingborg Kommune,LRJ,Urban
+318,00020,Faaborg-Midtfyn Kommune,TPV,Urban
+319,00167,Nyborg Kommune,LRJ,Urban
+320,00169,Politischer Bezirk Krems,TIG,Rural
+321,00020,Odense Kommune,NLG,Urban
+322,00170,B?eclav,JHJ,Rural
+323,00170,Billund Kommune,JHJ,Urban
+324,00020,Blansko,FAC,Rural
+325,00171,Politischer Bezirk Korneuburg,IRG,Rural
+326,00095,Politischer Bezirk Kufstein,QDA,Urban
+327,00028,T©ªnder Kommune,TZF,Urban
+328,00172,Politischer Bezirk Gm?nd,TPV,Rural
+329,00173,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+330,00173,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+331,00173,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+332,00174,Varde Kommune,UQM,Urban
+333,00175,Plze?-jih,XEG,Rural
+334,00175,Kolding Kommune,XEG,Urban
+335,00175,Plze?-jih,XEG,Rural
+336,00176,Politischer Bezirk Steyr-Land,VFN,Rural
+337,00177,Louny,KTR,Rural
+338,00095,K©ªbenhavns Kommune,QDA,Urban
+339,00095,Gladsaxe Municipality,QDA,Urban
+340,00167,Vordingborg Kommune,LRJ,Urban
+341,00167,Ish©ªj Kommune,FAC,Urban
+342,00178,Politischer Bezirk Steyr-Land,VFN,Rural
+343,00179,Litom??ice,NGO,Rural
+344,00170,Aller©ªd Kommune,JHJ,Urban
+345,00180,Bornholm Kommune,KTR,Urban
+346,00181,Favrskov Kommune,QDA,Urban
+347,00182,Aarhus Kommune,LAV,Urban
+348,00183,Hedensted Kommune,TOH,Urban
+349,00184,?lborg Kommune,PUF,Urban
+350,00185,Roskilde Kommune,RUN,Rural
+351,00186,Politischer Bezirk Gm?nd,TPV,Rural
+352,00187,Eisenstadt Stadt,TIF,Rural
+353,00131,Odsherred Kommune,TIG,Urban
+354,00017,Faxe Kommune,TPV,Urban
+355,00131,Guldborgsund Kommune,TIG,Urban
+356,00092,Middelfart Kommune,VSZ,Urban
+357,00163,Vejle Kommune,WPH,Urban
+358,00163,Hiller©ªd Kommune,WPH,Urban
+359,00163,Sor©ª Kommune,WPH,Urban
+360,00016,Herning Kommune,KWA,Urban
+361,00188,Holstebro Kommune,VIL,Urban
+362,00189,Ikast-Brande Kommune,WPH,Urban
+363,00189,Frederikshavn Kommune,LAV,Urban
+364,00089,Politischer Bezirk Spittal an der Drau,OOO,Rural
+365,00190,Solr©ªd Kommune,QDA,Urban
+366,00064,Assens Kommune,KTR,Urban
+367,00037,Kerteminde Kommune,IPP,Urban
+368,00191,Politischer Bezirk Hermagor,MSD,Rural
+369,00192,Bene?ov,UQM,Rural
+370,00029,Svendborg Kommune,TIF,Urban
+371,00029,Nordfyns Kommune,LRJ,Urban
+372,00029,Nordfyns Kommune,LRJ,Urban
+373,00193,Politischer Bezirk Zwettl,WPH,Rural
+374,00194,Louny,KTR,Rural
+375,00194,Louny,KTR,Rural
+376,00071,Kutn? Hora,YIU,Urban
+377,00195,Politischer Bezirk G?nserndorf,VSZ,Rural
+378,00195,Politischer Bezirk G?nserndorf,VSZ,Rural
+379,00196,Louny,KTR,Rural
+380,00197,Politischer Bezirk Steyr-Land,VFN,Rural
+381,00198,Langeland Kommune,DNJ,Urban
+382,00199,Chrudim,ICA,Urban
+383,00200,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+384,00201,Politischer Bezirk Zwettl,WPH,Rural
+385,00085,Lemvig Kommune,AAR,Urban
+386,00202,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+387,00202,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+388,00203,Chrudim,ICA,Urban
+389,00204,Norddjurs Kommune,QDA,Urban
+390,00205,Randers Kommune,NSX,Urban
+391,00206,Politischer Bezirk Liezen,JOP,Urban
+392,00074,Strakonice,KTR,Urban
+393,00203,Chrudim,ICA,Urban
+394,00203,Chrudim,ICA,Urban
+395,00207,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+396,00207,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+397,00207,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+398,00074,Louny,KTR,Rural
+399,00074,Viborg Kommune,KTR,Urban
+400,00205,Randers Kommune,NSX,Urban
+401,00208,Politischer Bezirk Salzburg-Umgebung,PPM,Rural
+402,00209,Rebild Kommune,TZF,Urban
+403,00205,Politischer Bezirk Sankt P?lten,NSX,Rural
+404,00205,Mariagerfjord Kommune,NSX,Urban
+405,00205,Stevns Kommune,NSX,Urban
+406,00210,L©¡so Kommune,WJO,Urban
+407,00205,S©ªnderborg Kommune,NSX,Urban
+408,00211,Vejen Kommune,NLX,Urban
+409,00212,Litom??ice,NGO,Rural
+410,00213,Politischer Bezirk Steyr-Land,VFN,Rural
+411,00198,Aabenraa Kommune,IKF,Urban
+412,00214,Politischer Bezirk Hermagor,MSD,Rural
+413,00215,Gentofte Kommune,TZF,Urban
+414,00215,Albertslund Kommune,AAR,Urban
+415,00215,Fures©ª Kommune,NLX,Urban
+416,00215,Egedal Kommune,JOP,Urban
+417,00215,Gribskov Kommune,NLX,Rural
+418,00215,Jammerbugt Kommune,WJO,Urban
+419,00215,Kalundborg Kommune,JOP,Urban
+420,00216,Aalborg Kommune,TZF,Urban
+421,00216,Rudersdal Kommune,TZF,Urban
+422,00217,Holb©¡k Kommune,PPM,Urban
+423,00185,Roskilde Kommune,RUN,Rural
+424,00218,¨¡r©ª Kommune,SQI,Urban
+425,00219,Louny,KTR,Rural
+426,00219,Louny,KTR,Rural
+427,00137,Struer Kommune,JLJ,Urban
+428,00061,Rust Stadt,UAY,Urban
+429,00219,Odder Kommune,KTR,Urban
+430,00220,Aabenraa Kommune,IKF,Urban
+431,00035,Politischer Bezirk Hermagor,MSD,Rural
+432,00045,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+433,00064,Blansko,FAC,Rural
+434,00214,Politischer Bezirk Hermagor,MSD,Rural
+435,00221,Louny,KTR,Rural
+436,00222,Haderslev Kommune,VFN,Urban
+437,00223,Louny,KTR,Rural
+438,00103,Fredericia Kommune,YIU,Urban
+439,00103,Drag©ªr Kommune,YIU,Urban
+440,00221,Louny,KTR,Rural
+441,00224,Flandre-Occidentale,LAV,Rural
+442,00216,Horsens Kommune,TZF,Urban
+443,00048,Greve Kommune,IYN,Urban
+444,00137,Esbjerg Kommune,JLJ,Urban
+445,00216,Ballerup Kommune,TZF,Urban
+446,00216,Thisted Kommune,TZF,Urban
+447,00216,Br©ªndby Kommune,TZF,Urban
+448,00216,H©ªje-Taastrup Kommune,TZF,Urban
+449,00216,T?rnby Kommune,TZF,Urban
+450,00216,Politischer Bezirk Freistadt,TZF,Rural
+451,00216,R©ªdovre Kommune,TZF,Urban
+452,00225,Politischer Bezirk Hermagor,MSD,Rural
+453,00226,Politischer Bezirk Freistadt,TZF,Rural
+454,00018,Politischer Bezirk Zell am See,IYN,Urban
+455,00018,Halsn©¡s Kommune,IYN,Urban
+456,00018,Sams©ª Kommune,LAV,Urban
+457,00018,Flandre-Occidentale,LAV,Rural
+458,00227,Bene?ov,UQM,Rural
+459,00228,Hvidovre Kommune,APM,Urban
+460,00048,Greve Kommune,IYN,Urban
+461,00229,Louny,KTR,Rural
+462,00048,Politischer Bezirk Zell am See,IYN,Urban
+463,00230,Flandre-Occidentale,LAV,Rural
+464,00231,Nov? Ji??n,LRJ,Rural
+465,00124,Ringsted Kommune,UQM,Urban
+466,00232,H©ªrsholm Kommune,WJO,Urban
+467,00233,Bene?ov,UQM,Rural
+468,00230,Flandre-Occidentale,LAV,Rural
+469,00234,Politischer Bezirk Spittal an der Drau,OOO,Rural
+470,00235,Eisenstadt Stadt,TIF,Rural
+471,00236,Vallensb©¡k Kommune,VIL,Urban
+472,00237,Frederikssund Kommune,OOO,Urban
+473,00238,Litom??ice,NGO,Rural
+474,00239,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+475,00240,Politischer Bezirk Korneuburg,IRG,Rural
+476,00241,Glostrup Kommune,JLJ,Urban
+477,00242,Praha-v?chod,QDA,Rural
+478,00221,Politischer Bezirk Neusiedl am See,KTR,Urban
+479,00243,Skanderborg Kommune,LAV,Urban
+480,00216,Herlev Kommune,TZF,Urban
+481,00216,Politischer Bezirk Freistadt,TZF,Rural
+482,00244,Louny,KTR,Rural
+483,00245,Litom??ice,NGO,Rural
+484,00216,Ballerup Kommune,TZF,Urban
+485,00090,Hvidovre Kommune,APM,Urban
+486,00246,Litom??ice,NGO,Rural
+487,00247,Roskilde Kommune,RUN,Rural
+488,00248,Litom??ice,NGO,Rural
+489,00248,Lyngby-T?rb©¡k Kommune,NGO,Urban
+490,00248,Fan©ª Kommune,NGO,Urban
+491,00107,Brunt?l,JHJ,Urban
+492,00102,Helsinki,NSX,Urban
+493,00102,Trutnov,LAV,Urban
+494,00249,Litom??ice,NGO,Rural
+495,00102,Trutnov,LAV,Urban
+496,00102,Flandre-Occidentale,LAV,Rural
+497,00107,Porvoo,IRA,Urban
+498,00107,Brunt?l,JHJ,Urban
+499,00091,?boland-Turunmaa,WPH,Urban
+500,00250,Politischer Bezirk Neusiedl am See,KTR,Urban
+501,00250,Louny,KTR,Rural
+502,00230,Politischer Bezirk Zwettl,WPH,Rural
+503,00102,Flandre-Occidentale,LAV,Rural
+504,00248,Litom??ice,NGO,Rural
+505,00248,Salo,NGO,Urban
+506,00251,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+507,00109,Politischer Bezirk Rohrbach,MDM,Rural
+508,00252,Turku,CMH,Rural
+509,00253,Louny,KTR,Rural
+510,00164,Vakka-Suomi,IRG,Urban
+511,00254,Politischer Bezirk Hermagor,MSD,Rural
+512,00240,Sankt P?lten Stadt,GCG,Rural
+513,00218,Politischer Bezirk Voitsberg,SQI,Rural
+514,00218,Loimaa,JOP,Rural
+515,00218,Rauma,SQI,Urban
+516,00255,Politischer Bezirk Zwettl,WPH,Rural
+517,00256,Politischer Bezirk Eferding,ICA,Rural
+518,00257,Litom??ice,NGO,Rural
+519,00257,Litom??ice,NGO,Rural
+520,00240,Sankt P?lten Stadt,GCG,Rural
+521,00147,Pori,GCG,Urban
+522,00147,Copenhagen,GCG,Urban
+523,00147,Pohjois-Satakunta,GCG,Urban
+524,00147,Sankt P?lten Stadt,GCG,Rural
+525,00258,Litom??ice,NGO,Rural
+526,00004,H?meenlinna,IRA,Urban
+527,00004,Luoteis-Pirkanmaa,IRA,Urban
+528,00259,Blansko,FAC,Rural
+529,00004,Tampere,IRA,Urban
+530,00223,Lahti,KTR,Urban
+531,00260,Kotka-Hamina,WPH,Urban
+532,00261,Politischer Bezirk Tamsweg,UAY,Rural
+533,00262,Nov? Ji??n,LRJ,Rural
+534,00263,Lappeenranta,GWR,Urban
+535,00031,Imatra,TOH,Urban
+536,00264,Politischer Bezirk Zwettl,WPH,Rural
+537,00265,Mikkeli,NGO,Urban
+538,00266,Savonlinna,QDA,Urban
+539,00267,Strakonice,KTR,Urban
+540,00268,Bene?ov,UQM,Rural
+541,00269,Pieks?m?ki,NGO,Urban
+542,00031,Yl?-Savo,PUF,Urban
+543,00031,Kuopio,TOH,Urban
+544,00270,Joensuu,IYN,Urban
+545,00271,Politischer Bezirk Eferding,ICA,Rural
+546,00210,L©¡so Kommune,WJO,Urban
+547,00103,Drag©ªr Kommune,YIU,Urban
+548,00089,Keski-Karjala,JHJ,Urban
+549,00272,Pielisen Karjala,THH,Rural
+550,00273,Louny,KTR,Rural
+551,00274,Nymburk,YIU,Urban
+552,00274,Jyv?skyl?,YIU,Urban
+553,00218,Keuruu,JOP,Urban
+554,00143,Politischer Bezirk Zwettl,WPH,Rural
+555,00275,Politischer Bezirk Sankt P?lten,NSX,Rural
+556,00275,Politischer Bezirk Sankt P?lten,NSX,Rural
+557,00266,Praha-v?chod,QDA,Rural
+558,00276,Praha-v?chod,QDA,Rural
+559,00277,Politischer Bezirk Eferding,ICA,Rural
+560,00164,J?ms?,IRG,Urban
+561,00164,Saarij?rvi-Viitasaari,IRG,Urban
+562,00278,Politischer Bezirk Eferding,ICA,Rural
+563,00278,Politischer Bezirk Steyr-Land,VFN,Rural
+564,00278,Suupohja,VFN,Urban
+565,00088,Sein?joki,QQS,Urban
+566,00279,Ikast-Brande Kommune,WPH,Urban
+567,00279,Ikast-Brande Kommune,WPH,Urban
+568,00088,Kuusiokunnat,QQS,Rural
+569,00118,Nov? Ji??n,LRJ,Rural
+570,00250,Louny,KTR,Rural
+571,00280,Chrudim,ICA,Urban
+572,00055,J?rviseutu,TPV,Urban
+573,00012,Politischer Bezirk Bruck an der Leitha,TPV,Urban
+574,00114,Frederiksberg Kommune,AAR,Urban
+575,00280,Vaasa,KTR,Urban
+576,00281,Litom??ice,NGO,Rural
+577,00281,Politischer Bezirk Eferding,ICA,Rural
+578,00281,Syd?sterbotten,ICA,Urban
+579,00282,Politischer Bezirk Steyr-Land,VFN,Rural
+580,00045,Politischer Bezirk Sankt Johann im Pongau,VIL,Rural
+581,00045,Bene?ov,UQM,Rural
+582,00283,Litom??ice,NGO,Rural
+583,00283,Politischer Bezirk Eferding,ICA,Rural
+584,00283,Politischer Bezirk Eferding,ICA,Rural
+585,00281,Politischer Bezirk Eferding,ICA,Rural
+586,00210,Kokkola,WJO,Urban
+587,00284,Flandre-Orientale,KTR,Urban
+588,00054,Politischer Bezirk Hartberg-F?rstenfeld,JHJ,Urban
+589,00280,Chrudim,ICA,Urban
+590,00285,Oulu,TOH,Urban
+591,00286,Politischer Bezirk Korneuburg,IRG,Rural
+592,00287,Politischer Bezirk Gm?nd,TPV,Rural
+593,00288,Politischer Bezirk Voitsberg,SQI,Rural
+594,00289,Litom??ice,NGO,Rural
+595,00289,Litom??ice,NGO,Rural
+596,00290,Oulunkaari,NLG,Urban
+597,00290,Haapavesi-Siikalatva,NLG,Urban
+598,00103,Drag©ªr Kommune,YIU,Urban
+599,00291,Ylivieska,JOP,Urban
+600,00291,Kehys-Kainuu,JOP,Urban
+601,00124,Bene?ov,UQM,Rural
+602,00292,Kajaani,TIG,Urban
+603,00289,Litom??ice,NGO,Rural
+604,00293,Litom??ice,NGO,Rural
+605,00294,Politischer Bezirk Steyr-Land,VFN,Rural
+606,00295,Rovaniemi,OOO,Urban
+607,00296,Nov? Ji??n,LRJ,Rural
+608,00297,Flandre-Occidentale,LAV,Rural
+609,00034,Kemi-Tornio,WJO,Urban
+610,00034,It?-Lappi,WJO,Urban
+611,00295,Tunturi-Lappi,OOO,Urban
+612,00164,Politischer Bezirk Korneuburg,IRG,Rural
+613,00164,Raaseporin,IRG,Urban
+614,00034,Loviisa,WJO,Urban
+615,00298,Politischer Bezirk Spittal an der Drau,OOO,Rural
+616,00211,Riihim?ki,AAR,Urban
+617,00211,Forssa,AAR,Urban
+618,00211,Gribskov Kommune,NLX,Rural
+619,00077,Praha-v?chod,QDA,Rural
+620,00124,Bene?ov,UQM,Rural
+621,00294,Politischer Bezirk Steyr-Land,VFN,Rural
+622,00294,Politischer Bezirk Steyr-Land,VFN,Rural
+623,00291,Etel?-Pirkanmaa,WJO,Urban
+624,00291,Lounais-Pirkanmaa,WJO,Urban
+625,00028,Politischer Bezirk Ried im Innkreis,TZF,Urban
+626,00046,Yl?-Pirkanmaa,TIF,Urban
+627,00046,Kouvola,UAY,Urban
+628,00046,Koillis-Savo,TIF,Urban
+629,00046,Eisenstadt Stadt,TIF,Rural
+630,00299,Litom??ice,NGO,Rural
+631,00292,Kajaani,TIG,Urban
+632,00211,Varkaus,NLG,Urban
+633,00211,Gribskov Kommune,NLX,Rural
+634,00211,Sis?-Savo,NLG,Urban
+635,00295,Politischer Bezirk Spittal an der Drau,OOO,Rural
+636,00295,Jakobstadsregionen,OOO,Urban
+637,00295,Raahe,OOO,Urban
+638,00132,Graz Stadt,MMJ,Rural
+639,00300,Politischer Bezirk Eferding,ICA,Rural
+640,00301,Bene?ov,UQM,Rural
+641,00004,Nivala-Haapaj?rvi,IRA,Urban
+642,00074,Koillismaa,KTR,Urban
