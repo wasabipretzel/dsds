@@ -151,7 +151,7 @@ if __name__ == '__main__':
             optimizer = optim.Adam(model.parameters(), lr = 0.001, weight_decay=1e-7)
 
             # item_loss = 0.0
-            for epoch in range(20):
+            for epoch in range(40):
                 # running_loss = 0.0
                 for i, data_input in enumerate(train_dataloader,0):
                     inputs, value = data_input
@@ -178,7 +178,7 @@ if __name__ == '__main__':
     result_tensor_df = pd.DataFrame(result_tensor.detach().cpu().numpy())
     #result_tensor_df = result_tensor_df.round(0).astype(int)
 
-    result_tensor_df.to_csv('draft_1124.csv')
+    result_tensor_df.to_csv('draft_1125_2.csv')
 
     logging.debug('End of Program')
         
